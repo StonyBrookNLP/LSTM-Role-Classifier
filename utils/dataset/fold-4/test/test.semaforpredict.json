@@ -1,0 +1,3792 @@
+[
+    {
+        "process": "molting", 
+        "sentences": [
+            {
+                "text": "molting is the process of shedding and renewing its feathers.", 
+                "sentenceId": 258, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.5761034236733452
+                            }
+                        ], 
+                        "text": "shedding", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of replacing old worn feathers with new ones.", 
+                "sentenceId": 170, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8204932833544498
+                            }
+                        ], 
+                        "text": "replacing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of replacing old feathers with new feathers.", 
+                "sentenceId": 515, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8558422731683644
+                            }
+                        ], 
+                        "text": "replacing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of shedding old skin, feathers or...", 
+                "sentenceId": 389, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A3": 0.04157930056245197
+                            }
+                        ], 
+                        "text": "shedding", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of shedding a shell and growing a larger and stronger one.", 
+                "sentenceId": 446, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A3": 0.1252715999008808
+                            }
+                        ], 
+                        "text": "and growing a larger and stronger one", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A0": 0.8541882487610767
+                            }
+                        ], 
+                        "text": "shedding a shell and growing a larger and stronger one", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A3": 0.1252715999008808
+                            }
+                        ], 
+                        "text": "growing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "a larger and stronger one", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8380266256468415
+                            }
+                        ], 
+                        "text": "shedding", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of replacing worn feathers.", 
+                "sentenceId": 433, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A3": 0.4401044403934044
+                            }
+                        ], 
+                        "text": "worn feathers", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.806053920824752
+                            }
+                        ], 
+                        "text": "replacing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A2": 0.806053920824752
+                            }
+                        ], 
+                        "text": "replacing worn feathers", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of shedding skin to allow for...", 
+                "sentenceId": 26, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7077955341491012
+                            }
+                        ], 
+                        "text": "shedding", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of losing old feathers and growing fresh replacements.", 
+                "sentenceId": 270, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9097001099991698
+                            }
+                        ], 
+                        "text": "losing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "molting is the process of shedding the...", 
+                "sentenceId": 95, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8005286140165098
+                            }
+                        ], 
+                        "text": "shedding", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "fertilization", 
+        "sentences": [
+            {
+                "text": "fertilization: fertilization is the process of applying a large number of natural and synthetic materials, including manure and nitrogen, phosphorus, and...", 
+                "sentenceId": 530, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8367460320054196
+                            }
+                        ], 
+                        "text": "applying a large number of natural and synthetic materials , including manure and nitrogen , phosphorus , and", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8367460320054196
+                            }
+                        ], 
+                        "text": "applying", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 18, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.033311822466459626
+                            }
+                        ], 
+                        "text": "including", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A3": 0.19838374427086944
+                            }
+                        ], 
+                        "text": "a large number of natural and synthetic materials , including manure and nitrogen , phosphorus , and", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "manure and nitrogen , phosphorus", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "A1": 0.033311822466459626
+                            }
+                        ], 
+                        "text": "natural and synthetic materials , including manure and nitrogen , phosphorus", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }
+                ]
+            }, 
+            {
+                "text": "in short, foliar fertilization is the process of feeding plants through their leaves rather than going the slower route of delivering nutrients through...", 
+                "sentenceId": 194, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A2": 0.673655877354501
+                            }
+                        ], 
+                        "text": "feeding", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "nitrogen_fixation", 
+        "sentences": [
+            {
+                "text": "nitrogen fixation is the process of converting inert atmospheric n2 into biologically usable forms of nitrogen such as ammonium and nitrogen oxides.", 
+                "sentenceId": 416, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.950007010728087
+                            }
+                        ], 
+                        "text": "converting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "nitrogen fixation is the process of converting unusable nitrogen (atmospheric nitrogen) into usable nitrogen (ammonia).", 
+                "sentenceId": 327, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8875430170064573
+                            }
+                        ], 
+                        "text": "converting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "biological nitrogen fixation is the process of capturing atmospheric nitrogen by biological processes.", 
+                "sentenceId": 507, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8537974097647214
+                            }
+                        ], 
+                        "text": "capturing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "nitrogen fixation is the process of converting atmospheric nitrogen into an inorganic form that plants can use.", 
+                "sentenceId": 518, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "plants", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "can", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "use", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9418120607452323
+                            }
+                        ], 
+                        "text": "converting atmospheric nitrogen into an inorganic form that plants can use", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A0": 0.02473894145340307
+                            }
+                        ], 
+                        "text": "an inorganic form that plants can use", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9418120607452323
+                            }
+                        ], 
+                        "text": "converting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "nitrogen fixation is the process of converting nitrogen gas to a fixed form which is a nitrogenous compound, such as ammonia (nh3) or ammonium (nh4+).", 
+                "sentenceId": 216, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9212340024577422
+                            }
+                        ], 
+                        "text": "converting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "nitrogen fixation is the process of reducing atmospheric dinitrogen to ammonia, carried out by the enzyme nitrogenase using a source of reductant and energy...", 
+                "sentenceId": 81, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9364249149893434
+                            }
+                        ], 
+                        "text": "reducing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "nitrogen fixation is the process by which n2 gas is fixed into a biologically-available form and can be important in.", 
+                "sentenceId": 147, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7874099707887441
+                            }
+                        ], 
+                        "text": "fixed", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "nitrogen fixation is the process by which nitrogen is taken from its stable gas form (n2) in air and changes into other nitrogen compounds (such as ammonia,...", 
+                "sentenceId": 489, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9169066460039976
+                            }
+                        ], 
+                        "text": "taken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "conduction", 
+        "sentences": [
+            {
+                "text": "conduction is the transfer of energy in the form of heat or electricity from one atom to another within an object by direct contact.", 
+                "sentenceId": 6, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8981685744489641
+                            }
+                        ], 
+                        "text": "transfer", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "conduction is the process of losing heat through physical contact...", 
+                "sentenceId": 235, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9260771877636979
+                            }
+                        ], 
+                        "text": "losing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A0": 0.3215063480464319
+                            }
+                        ], 
+                        "text": "heat", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "conduction is the movement of heat or electricity through a material without any perceptible motion of the material.", 
+                "sentenceId": 329, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8895988069632282
+                            }
+                        ], 
+                        "text": "movement", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "conduction is the process by which heat moves directly into the molecules of cooler objects in contact with its surface.", 
+                "sentenceId": 429, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A2": 0.40973652237616354
+                            }
+                        ], 
+                        "text": "moves", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.03599987188324194
+                            }
+                        ], 
+                        "text": "heat", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "conduction is the process of transferring heat by touch -- and it's by far the most direct way to transfer heat.", 
+                "sentenceId": 76, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9437181068435484
+                            }
+                        ], 
+                        "text": "transferring", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A0": 0.2952959918937287
+                            }
+                        ], 
+                        "text": "heat", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "nerve conduction is the process of transmitting signals, allowing...", 
+                "sentenceId": 516, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.1391004324297963
+                            }
+                        ], 
+                        "text": "signals", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A3": 0.16202160052679115
+                            }
+                        ], 
+                        "text": "signals , allowing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A2": 0.6978754348022685
+                            }
+                        ], 
+                        "text": "transmitting signals , allowing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "conduction is the transfer of heat between substances that are in direct contact with each other.", 
+                "sentenceId": 177, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8601680533746522
+                            }
+                        ], 
+                        "text": "transfer", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "osteoconduction is the process by which capillary ingrowth into the graft occurs from the recipient bed.", 
+                "sentenceId": 197, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A3": 0.18348103926406767
+                            }
+                        ], 
+                        "text": "capillary ingrowth into the graft", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "mimicry", 
+        "sentences": [
+            {
+                "text": "mimicry is the similarity of one species to another which protects one or both species.", 
+                "sentenceId": 128, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.05274873000821996
+                            }
+                        ], 
+                        "text": "similarity", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "in evolutionary biology, mimicry is the imitation of one species by another species that results in protection from predators to one or both of the...", 
+                "sentenceId": 117, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A2": 0.6408953548202002
+                            }
+                        ], 
+                        "text": "imitation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "condensation", 
+        "sentences": [
+            {
+                "text": "condensation is the change of the physical state of matter from gas phase into liquid phase, and is the reverse of evaporation.", 
+                "sentenceId": 294, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8554249175286174
+                            }
+                        ], 
+                        "text": "change", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation occurs due to liquid subcooling, both simulations somewhat over-predict the vapor volume fraction.", 
+                "sentenceId": 508, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.49247027893102774
+                            }
+                        ], 
+                        "text": "liquid subcooling", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation occurs when evaporator coils draw water from...", 
+                "sentenceId": 423, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A0": 0.4146299174953708
+                            }
+                        ], 
+                        "text": "water from", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A2": 0.21020787162285548
+                            }
+                        ], 
+                        "text": "condensation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "occurs", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A3": 0.5648674054770396
+                            }
+                        ], 
+                        "text": "evaporator coils", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A3": 0.5648674054770396
+                            }
+                        ], 
+                        "text": "when evaporator coils draw water from", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.03883058838271644
+                            }
+                        ], 
+                        "text": "draw", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation occurs due to constructive interference between all guided modes.", 
+                "sentenceId": 333, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A3": 0.13414663418091713
+                            }
+                        ], 
+                        "text": "constructive interference between all guided modes", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "definition condensation is the process of packing the porcelain powder particles together and of removing the liquid binder.", 
+                "sentenceId": 293, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A3": 0.12901049887426036
+                            }
+                        ], 
+                        "text": "the porcelain powder particles", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.01935938368986676
+                            }
+                        ], 
+                        "text": "packing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation occurs when saturated air moves upward.", 
+                "sentenceId": 154, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0018899067272344344
+                            }
+                        ], 
+                        "text": "air moves upward", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "many new installations get condensation across the bottom of the units and probably more so in the bedrooms , condensation is caused by the water in the.", 
+                "sentenceId": 317, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 24, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A0": 0.378452567650174
+                            }
+                        ], 
+                        "text": "the water", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation is caused by airborne moisture, minute particles of water suspended in the air, created by every day activity inside the home.", 
+                "sentenceId": 179, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A3": 0.634601798092083
+                            }
+                        ], 
+                        "text": "airborne moisture", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "as condensation is caused by excess water vapour in the air, minimising activities that produce water vapour...", 
+                "sentenceId": 164, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A3": 0.2722126779211339
+                            }
+                        ], 
+                        "text": "excess water vapour in the air", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A2": 0.3940526701579781
+                            }
+                        ], 
+                        "text": "produce", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "condensation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A2": 0.3940526701579781
+                            }
+                        ], 
+                        "text": "minimising activities that produce water", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "caused", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "water", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation condensation condensation is the process by which water vapor changes into water.", 
+                "sentenceId": 224, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "water", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation occurs when warm moist air meets a cold surface.", 
+                "sentenceId": 169, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A0": 0.5797924822359855
+                            }
+                        ], 
+                        "text": "a cold surface", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation occurs when warmer moist air comes in contact with cold surfaces such as framing members, windows and other accessories, or the colder region...", 
+                "sentenceId": 84, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 26, 
+                        "probRoles": [
+                            {
+                                "A0": 0.19848640401554093
+                            }
+                        ], 
+                        "text": "in contact with cold surfaces such as framing members , windows and other accessories , or the colder region", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "it is possible to demonstrate, on theoretical grounds, that the presence of nuclei is necessary for condensation.", 
+                "sentenceId": 274, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A0": 0.17544117399203085
+                            }
+                        ], 
+                        "text": "the presence of nuclei", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation is caused by things being cold, so what you basically need to find out is why the windows are cold.", 
+                "sentenceId": 20, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.299209604355905
+                            }
+                        ], 
+                        "text": "things being cold", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "condensation is the process by which water vapor turns into liquid water.", 
+                "sentenceId": 421, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.06655985545252444
+                            }
+                        ], 
+                        "text": "water vapor", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8237640781496818
+                            }
+                        ], 
+                        "text": "turns", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A3": 0.23895818981883588
+                            }
+                        ], 
+                        "text": "liquid water", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "digestion", 
+        "sentences": [
+            {
+                "text": "digestion is the breaking down of food into forms that our bodies can use.", 
+                "sentenceId": 370, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A2": 0.732675345380332
+                            }
+                        ], 
+                        "text": "breaking", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process of changing food into a form that the body can absorb and use as energy or as the raw materials to repair and build new tissue.", 
+                "sentenceId": 397, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9162072099518137
+                            }
+                        ], 
+                        "text": "changing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the breakdown of large insoluble food molecules into small water-soluble food molecules so that they can be absorbed into the watery blood plasma...", 
+                "sentenceId": 232, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7181736769165029
+                            }
+                        ], 
+                        "text": "breakdown", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process by which ingested (food) material is broken down in the earlier stages of the alimentary canal into a form that can then be absorbed and...", 
+                "sentenceId": 80, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7960419301775664
+                            }
+                        ], 
+                        "text": "broken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "in a general sense, digestion is the process of pulling apart macromolecules into their constituent parts.", 
+                "sentenceId": 360, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8383098215836328
+                            }
+                        ], 
+                        "text": "pulling", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A0": 0.5645360356648844
+                            }
+                        ], 
+                        "text": "apart macromolecules", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A3": 0.1047662860670857
+                            }
+                        ], 
+                        "text": "their constituent parts", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8383098215836328
+                            }
+                        ], 
+                        "text": "pulling apart macromolecules into their constituent parts", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process of converting the foods we eat into substances our bodies can absorb and use at the cellular level.", 
+                "sentenceId": 304, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "converting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process by which chunks of food are broken into molecules small ...", 
+                "sentenceId": 388, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A3": 0.370940758516014
+                            }
+                        ], 
+                        "text": "chunks of food", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A0": 0.45036212389596025
+                            }
+                        ], 
+                        "text": "molecules", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8703262856730453
+                            }
+                        ], 
+                        "text": "broken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process of turning large pieces of food into its component chemicals.", 
+                "sentenceId": 252, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9547690769140414
+                            }
+                        ], 
+                        "text": "turning", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process by which our food is broken down into a form that []", 
+                "sentenceId": 59, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8554405218662156
+                            }
+                        ], 
+                        "text": "broken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process by which food molecules are broken down into smaller molecules that are able to be absorbed by the gut tissue.", 
+                "sentenceId": 273, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7774486868931757
+                            }
+                        ], 
+                        "text": "broken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process of breaking down the food you consume into molecules that can be absorbed into or pass through the body.", 
+                "sentenceId": 288, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8515581921241869
+                            }
+                        ], 
+                        "text": "breaking down", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "digestion is the process by which food is broken down into its smallest parts, which can then be absorbed into the bloodstream.", 
+                "sentenceId": 87, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A2": 0.9420950607726535
+                            }
+                        ], 
+                        "text": "broken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "camouflage", 
+        "sentences": [
+            {
+                "text": "this is a moth, it's camouflage causes it to look like a leaf...", 
+                "sentenceId": 62, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "camouflage", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "this", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A3": 0.2624410205341241
+                            }
+                        ], 
+                        "text": "a moth , it 's camouflage causes it", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A2": 0.25613794889348185
+                            }
+                        ], 
+                        "text": "causes", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "look", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A0": 0.35797393740617506
+                            }
+                        ], 
+                        "text": "a leaf", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A0": 0.35797393740617506
+                            }
+                        ], 
+                        "text": "it to look like a leaf", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this winter camouflage is caused by physiological changes triggered by the shortening day length in autumn.", 
+                "sentenceId": 176, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A3": 0.2584513498681886
+                            }
+                        ], 
+                        "text": "physiological changes triggered by the shortening day length in autumn", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "corrective camouflage is the process of masking physical flaws with makeup, prostheses, and artificial hair.", 
+                "sentenceId": 509, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8152065985636684
+                            }
+                        ], 
+                        "text": "masking physical flaws with makeup , prostheses , and artificial hair", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8152065985636684
+                            }
+                        ], 
+                        "text": "masking", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "camouflage is the method which allows an otherwise visible organism or object to remain indiscernible from the surrounding environment.", 
+                "sentenceId": 238, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A3": 0.08354140055122565
+                            }
+                        ], 
+                        "text": "method", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "camouflage causes disorientation, leading perception to drift from common sentiment.", 
+                "sentenceId": 244, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A0": 0.17946933253919833
+                            }
+                        ], 
+                        "text": "disorientation , leading perception to drift from common sentiment .", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this camouflage helps to protect them from predators.", 
+                "sentenceId": 158, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A3": 0.16143472135058512
+                            }
+                        ], 
+                        "text": "protect them from predators", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this camouflage helps to protect fish from predators.", 
+                "sentenceId": 15, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "predators", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A2": 0.022808170556707915
+                            }
+                        ], 
+                        "text": "this camouflage", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "helps", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A3": 0.12168024338893811
+                            }
+                        ], 
+                        "text": "protect", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A0": 0.03026395644318708
+                            }
+                        ], 
+                        "text": "fish", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A3": 0.12168024338893811
+                            }
+                        ], 
+                        "text": "to protect fish from predators", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A3": 0.12168024338893811
+                            }
+                        ], 
+                        "text": "protect fish from predators", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the superb camouflage causes one to easily overlook this fish.", 
+                "sentenceId": 437, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A0": 0.29012119568150496
+                            }
+                        ], 
+                        "text": "one to easily overlook this fish .", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of camouflage is to break up the human outline and allow the hunter to become visually indistinguishable from his surroundings.", 
+                "sentenceId": 494, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 22, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7555193768194259
+                            }
+                        ], 
+                        "text": "break up the human outline and allow the hunter to become visually indistinguishable from his surroundings", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "aggressive camouflage occurs when a predator uses its ability to blend in to take prey by surprise.", 
+                "sentenceId": 202, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "prey", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A2": 0.17599991364195747
+                            }
+                        ], 
+                        "text": "aggressive camouflage", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "take", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "in", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "occurs", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A0": 0.4682109138224968
+                            }
+                        ], 
+                        "text": "when a predator uses its ability to blend in to take prey by surprise", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A0": 0.4682109138224968
+                            }
+                        ], 
+                        "text": "a predator", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A3": 0.3537376020163607
+                            }
+                        ], 
+                        "text": "its ability to blend", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 7
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "uses", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 8
+                    }
+                ]
+            }, 
+            {
+                "text": "camouflage is the use of any combination of materials, coloration, or illumination for concealment, either by making animals or objects hard to see (crypsis),...", 
+                "sentenceId": 52, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "use", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of camouflage is to remain undetected when stalking or hiding, but...", 
+                "sentenceId": 113, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A3": 0.22450663168995824
+                            }
+                        ], 
+                        "text": "remain undetected when stalking or hiding", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "camouflage occurs when there is a strong similarity in color between background and foreground, so foreground pixels are classified as background.", 
+                "sentenceId": 314, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A3": 0.236639577117205
+                            }
+                        ], 
+                        "text": "a strong similarity in color between background and foreground", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of camouflage is to provide concealment of military...", 
+                "sentenceId": 41, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.44767959115685113
+                            }
+                        ], 
+                        "text": "concealment of military", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.44767959115685113
+                            }
+                        ], 
+                        "text": "provide concealment of military", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A3": 0.06645917819966632
+                            }
+                        ], 
+                        "text": "provide", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of camouflage is to provide concealment.", 
+                "sentenceId": 377, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A3": 0.1087830343827319
+                            }
+                        ], 
+                        "text": "provide concealment", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "crop_rotation", 
+        "sentences": [
+            {
+                "text": "crop rotation helps to overcome the problem of mono cropping without the use of any chemicals.", 
+                "sentenceId": 456, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A0": 0.22408793300050062
+                            }
+                        ], 
+                        "text": "overcome the problem of mono cropping without the use of any chemicals", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "crop rotation helps to address all these issues, and improve the soil.", 
+                "sentenceId": 470, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A3": 0.03101315183015219
+                            }
+                        ], 
+                        "text": "to address all these issues , and improve the soil", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A2": 0.031842461019667194
+                            }
+                        ], 
+                        "text": "crop rotation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "improve", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "helps", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A0": 0.006884707185311791
+                            }
+                        ], 
+                        "text": "the soil", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A3": 0.03101315183015219
+                            }
+                        ], 
+                        "text": "address", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.030175778727618383
+                            }
+                        ], 
+                        "text": "all these issues", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 6
+                    }
+                ]
+            }, 
+            {
+                "text": "crop rotation is the process of planting different crops on the same land in sequential seasons.", 
+                "sentenceId": 163, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7645283429703701
+                            }
+                        ], 
+                        "text": "planting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "crop rotation helps to reduce soil diseases and fungi by giving them time to die out before replanting a similar crop in the bed.", 
+                "sentenceId": 262, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "A0": 0.28404611537972857
+                            }
+                        ], 
+                        "text": "reduce soil diseases and fungi by giving them time to die out before replanting a similar crop in the bed", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of crop rotation is to achieve equilibrium below the economic...", 
+                "sentenceId": 411, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.1524704845138057
+                            }
+                        ], 
+                        "text": "achieve equilibrium below the economic", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of crop rotation is to prevent the build up of soil-borne pests and...", 
+                "sentenceId": 220, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A2": 0.696248413636644
+                            }
+                        ], 
+                        "text": "prevent the build up of soil-borne pests and ...", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of crop rotation is to help the soil maintain a healthy...", 
+                "sentenceId": 346, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A2": 0.46635691707439414
+                            }
+                        ], 
+                        "text": "help the soil maintain a healthy", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the high proportion of maize in the crop rotation causes pest risk to be solved with the european corn borer and with.", 
+                "sentenceId": 483, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A2": 0.14223354667136912
+                            }
+                        ], 
+                        "text": "solved", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 22, 
+                        "probRoles": [
+                            {
+                                "A1": 0.1974138686536088
+                            }
+                        ], 
+                        "text": "the european corn borer and with", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "causes", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 22, 
+                        "probRoles": [
+                            {
+                                "A1": 0.1974138686536088
+                            }
+                        ], 
+                        "text": "to be solved with the european corn borer and with", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A3": 0.244260462425103
+                            }
+                        ], 
+                        "text": "pest risk", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A0": 0.015411556678964655
+                            }
+                        ], 
+                        "text": "the high proportion of maize in the crop rotation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }
+                ]
+            }, 
+            {
+                "text": "besides the mentioned potential benefits, crop rotation helps to protect soil from eroding and makes it possible to use the land in another period during the year.", 
+                "sentenceId": 424, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 28, 
+                        "probRoles": [
+                            {
+                                "A2": 0.2698050438739371
+                            }
+                        ], 
+                        "text": "protect soil from eroding and makes it possible to use the land in another period during the year", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of crop rotation is to help maintain the balance of nutrients, organic matter, and microorganisms necessary for healthy soil.", 
+                "sentenceId": 458, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A2": 0.2820311736612341
+                            }
+                        ], 
+                        "text": "help", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "A2": 0.2820311736612341
+                            }
+                        ], 
+                        "text": "help maintain the balance of nutrients , organic matter , and microorganisms necessary for healthy soil", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A3": 0.2011349945779237
+                            }
+                        ], 
+                        "text": "maintain", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "A1": 0.004705988775412132
+                            }
+                        ], 
+                        "text": "the balance of nutrients , organic matter , and microorganisms necessary for healthy soil", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "A3": 0.2011349945779237
+                            }
+                        ], 
+                        "text": "maintain the balance of nutrients , organic matter , and microorganisms necessary for healthy soil", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "crop rotation helps to replenish the soil with vital nutrients.", 
+                "sentenceId": 150, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A0": 0.4458122114574838
+                            }
+                        ], 
+                        "text": "replenish the soil with vital nutrients", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A0": 0.4458122114574838
+                            }
+                        ], 
+                        "text": "to replenish the soil with vital nutrients", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A2": 0.0603504351196894
+                            }
+                        ], 
+                        "text": "crop rotation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "helps", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A3": 0.029290612196958256
+                            }
+                        ], 
+                        "text": "replenish", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.00951854634389442
+                            }
+                        ], 
+                        "text": "with vital nutrients", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A0": 0.4458122114574838
+                            }
+                        ], 
+                        "text": "the soil", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "crop rotation is the process of alternating the.", 
+                "sentenceId": 257, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7799638594537438
+                            }
+                        ], 
+                        "text": "alternating", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "crop rotation is the process of planting different crops on the same patch of ground during different seasons.", 
+                "sentenceId": 182, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A2": 0.7767903140562905
+                            }
+                        ], 
+                        "text": "planting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "crop rotation helps to create a biodiverse soil which reduces the chance of soil-borne organisms to reach damaging levels and therefore reducing the use of...", 
+                "sentenceId": 384, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A0": 0.4714138194077675
+                            }
+                        ], 
+                        "text": "create a biodiverse soil which reduces the chance of soil-borne organisms to reach damaging levels and therefore reducing the use of", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "these experiments suggest that crop rotation causes large changes in...", 
+                "sentenceId": 527, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A3": 0.3114726324481634
+                            }
+                        ], 
+                        "text": "that crop rotation causes large changes in", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A0": 0.04681775024277495
+                            }
+                        ], 
+                        "text": "these experiments", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "suggest", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.20040934631285257
+                            }
+                        ], 
+                        "text": "crop rotation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A3": 0.3114726324481634
+                            }
+                        ], 
+                        "text": "large changes in", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "causes", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "sublimation", 
+        "sentences": [
+            {
+                "text": "sublimation is the freeze drying process in which solvents, such as water, pass directly...", 
+                "sentenceId": 355, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A0": 0.059638819855623915
+                            }
+                        ], 
+                        "text": "solvents , such as water", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "pass", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A2": 0.3151913670048662
+                            }
+                        ], 
+                        "text": "freeze", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is caused by the presence of an external, alternating magnetic field generated by a current carrying solenoid.", 
+                "sentenceId": 475, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A3": 0.11034228907011753
+                            }
+                        ], 
+                        "text": "the presence of an external , alternating magnetic field generated by a current carrying solenoid .", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation causes significant cooling of the snowpack.", 
+                "sentenceId": 148, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A0": 0.13086632922833003
+                            }
+                        ], 
+                        "text": "significant cooling of the snowpack .", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this sublimation is caused by heat produced by energized resistor ele.", 
+                "sentenceId": 191, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A2": 0.22256721474862395
+                            }
+                        ], 
+                        "text": "heat produced by energized resistor ele", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is the transition of a substance directly from the solid to the gas phase without passing through the intermediate liquid phase.", 
+                "sentenceId": 276, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "sublimation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8424559707172736
+                            }
+                        ], 
+                        "text": "passing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 18, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 22, 
+                        "probRoles": [
+                            {
+                                "A1": 0.17300191338676665
+                            }
+                        ], 
+                        "text": "through the intermediate liquid phase", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "transition", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is the defense mechanism where socially unacceptable impulses or desires...", 
+                "sentenceId": 223, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A3": 0.3481591816234795
+                            }
+                        ], 
+                        "text": "defense", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is the process of vaporizing a solid substance and condensing the vapors to again form the solid directly, without passing through an intermediate...", 
+                "sentenceId": 192, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A0": 0.8519855947112465
+                            }
+                        ], 
+                        "text": "a solid substance", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is the process by which a solid transitions into a gas (and gas  solid).", 
+                "sentenceId": 201, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A3": 0.3194352040648161
+                            }
+                        ], 
+                        "text": "a gas", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the sublimation causes pits in snow that hollow...", 
+                "sentenceId": 129, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A3": 0.7376641916693465
+                            }
+                        ], 
+                        "text": "pits in snow that hollow ...", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is the process by which a solid changes into a gas without going through this stage...", 
+                "sentenceId": 92, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A3": 0.17161223444628804
+                            }
+                        ], 
+                        "text": "a gas", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is the process by which a solid transforms into a gas without passing through the liquid stage.", 
+                "sentenceId": 495, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A0": 0.03820892361129581
+                            }
+                        ], 
+                        "text": "a solid", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "transforms", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "sublimation is the process of infusing dye into polyester through heat.", 
+                "sentenceId": 300, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8803080926147354
+                            }
+                        ], 
+                        "text": "infusing dye into polyester through heat", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A3": 0.10506824039354817
+                            }
+                        ], 
+                        "text": "polyester", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "NONE": 5e-324
+                            }
+                        ], 
+                        "text": "heat", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.15337919759560037
+                            }
+                        ], 
+                        "text": "through heat", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A2": 0.8803080926147354
+                            }
+                        ], 
+                        "text": "infusing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A0": 0.556421999306756
+                            }
+                        ], 
+                        "text": "dye", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

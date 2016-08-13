@@ -1,0 +1,421 @@
+2	terracing	terracing.n	3	terracing.n	0	A3	6:13
+2	diffusion	diffusion.n	0	diffusion.n	1	A2	5
+2	grafting	graft.n	0	grafting.n	2	A2	5
+2	grafting	graft.n	0	grafting.n	3	A2	5
+2	grafting	graft.n	2	grafting.n	4	A2	7
+2	grafting	graft.n	0	grafting.n	5	A2	5
+3	grafting	graft.n	0	grafting.n	6	A0	6:8	A2	5
+2	grafting	graft.n	0	grafting.n	7	A2	5
+2	grafting	graft.n	0	grafting.n	8	A2	5
+2	grafting	graft.n	0	grafting.n	9	A2	5
+2	grafting	graft.n	0	grafting.n	10	A2	5
+2	grafting	graft.n	0	grafting.n	11	A2	5
+2	strip_farming	strip farming.n	0_1	strip farming.n	12	A2	4
+2	decomposition	decomposition.n	4	decomposition.n	13	A3	6:8
+3	decomposition	decomposition.n	0	decomposition.n	14	A2	9	A3	12:17
+2	decomposition	decomposition.n	3	decomposition.n	15	A3	5:8
+3	decomposition	decomposition.n	1	decomposition.n	16	A0	8:9	A1	10:14
+2	decomposition	decomposition.n	1	decomposition.n	17	A3	3:7
+2	decomposition	decomposition.n	5	decomposition.n	18	A3	7:10
+2	decomposition	decomposition.n	5	decomposition.n	19	A3	7:14
+2	decomposition	decomposition.n	4	decomposition.n	20	A3	6:11
+2	decomposition	decomposition.n	9	decomposition.n	21	A3	11:12
+3	decomposition	decomposition.n	0	decomposition.n	22	A2	9	A3	12:13
+2	decomposition	decomposition.n	0	decomposition.n	23	A2	5
+3	melting	melting.n	0	melting.n	24	A0	6:7	A2	5
+2	melting	melting.n	3	melting.n	25	A1	7:8
+2	melting	melting.n	3	melting.n	26	A1	7:8
+2	melting	melting.n	1	melting.n	27	A2	6
+2	melting	melting.n	4	melting.n	28	A1	0
+3	melting	melting.n	0	melting.n	29	A0	6:7	A2	5
+2	melting	melting.n	0	melting.n	30	A1	4:7
+2	melting	melt.n	4	melting.n	31	A1	0
+2	melting	melting.n	0	melting.n	32	A2	5
+2	melting	melting.n	0	melting.n	33	A0	6:8
+3	melting	melting.n	0	melting.n	34	A1	4	A2	0
+2	melting	melting.n	8	melting.n	35	A1	12:13
+3	melting	melting.n	0	melting.n	36	A0	6:11	A2	5
+3	melting	melting.n	9	melting.n	37	A1	13:14	A3	20:26
+2	melting	ice-melting.n	0	ice-melting.n	38	A2	5
+3	melting	melting.n	0	melting.n	39	A0	6:9	A2	5
+2	asexual_reproduction	asexual reproduction.n	0_1	asexual reproduction.n	40	A2	4
+2	asexual_reproduction	asexual reproduction.n	0_1	asexual reproduction.n	41	A2	4
+2	asexual_reproduction	asexual reproduction.n	0_1	asexual reproduction.n	42	A2	4
+2	asexual_reproduction	asexual reproduction.n	0_1	asexual reproduction.n	43	A2	6
+2	asexual_reproduction	asexual reproduction.n	0_1	asexual reproduction.n	44	A2	4
+3	chemical_change	chemical change.n	4_5	chemical change.n	45	A2	14	A3	15:18
+3	chemical_change	chemical change.n	2_3	chemical change.n	46	A2	8	A3	9:11
+2	chemical_change	chemical change.n	4_5	chemical change.n	47	A2	1
+2	chemical_change	chemical change.n	4_5	chemical change.n	48	A2	8
+2	chemical_change	chemical change.n	2_3	chemical change.n	49	A2	1:3
+2	chemosynthesis	chemosynthesis.n	0	chemosynthesis.n	50	A2	5
+4	chemosynthesis	chemosynthesis.n	0	chemosynthesis.n	51	A0	6:7	A1	11:12	A2	5
+2	osmosis	osmosis.n	1	osmosis.n	52	A2	6
+2	osmosis	osmosis.n	0	osmosis.n	53	A2	3
+2	osmosis	osmosis.n	1	osmosis.n	54	A2	6
+2	osmosis	osmosis.n	4	osmosis.n	55	A3	6:9
+2	osmosis	osmosis.n	0	osmosis.n	56	A3	2:16
+2	osmosis	osmosis.n	1	osmosis.n	57	A2	9
+2	osmosis	osmosis.n	3	osmosis.n	58	A2	8
+3	osmosis	osmosis.n	1	osmosis.n	59	A1	16:19	A2	6
+3	osmosis	osmosis.n	1	osmosis.n	60	A2	13	A3	12:14
+2	osmosis	osmosis.n	3	osmosis.n	61	A2	8
+2	osmosis	osmosis.n	1	osmosis.n	62	A2	6
+2	osmosis	osmosis.n	1	osmosis.n	63	A2	6
+2	osmosis	osmosis.n	0	osmosis.n	64	A2	3
+2	osmosis	osmosis.n	1	osmosis.n	65	A2	6
+2	osmosis	osmosis.n	0	osmosis.n	66	A3	2:7
+2	osmosis	osmosis.n	5	osmosis.n	67	A2	10
+2	osmosis	osmosis.n	0	osmosis.n	68	A2	7
+2	osmosis	osmosis.n	0	osmosis.n	69	A2	9
+2	osmosis	osmosis.n	5	osmosis.n	70	A2	10
+2	osmosis	osmosis.n	1	osmosis.n	71	A2	6
+2	osmosis	osmosis.n	2	osmosis.n	72	A3	4:10
+2	crossbreeding	crossbreed.n	0	crossbreeding.n	73	A2	5
+2	crossbreeding	crossbreeding.n	5	crossbreeding.n	74	A2	10
+2	nitrogen_fixation	nitrogen fixation.n	0_1	nitrogen fixation.n	75	A2	6
+2	nitrogen_fixation	nitrogen fixation.n	0_1	nitrogen fixation.n	76	A2	6
+2	nitrogen_fixation	nitrogen fixation.n	1_2	nitrogen fixation.n	77	A2	7
+3	nitrogen_fixation	nitrogen fixation.n	0_1	nitrogen fixation.n	78	A2	6	A3	10:16
+2	nitrogen_fixation	nitrogen fixation.n	0_1	nitrogen fixation.n	79	A2	6
+2	nitrogen_fixation	nitrogen fixation.n	0_1	nitrogen fixation.n	80	A2	6
+2	nitrogen_fixation	nitrogen fixation.n	0_1	nitrogen fixation.n	81	A2	10
+2	nitrogen_fixation	nitrogen fixation.n	0_1	nitrogen fixation.n	82	A2	9
+2	mimicry	mimicry.n	0	mimicry.n	83	A2	3
+2	mimicry	mimicry.n	4	mimicry.n	84	A2	7
+2	conduction	conduction.n	0	conduction.n	85	A2	3
+3	conduction	conduction.n	0	conduction.n	86	A0	6	A2	5
+2	conduction	conduction.n	0	conduction.n	87	A2	3
+3	conduction	conduction.n	0	conduction.n	88	A0	6	A2	7
+3	conduction	conduction.n	0	conduction.n	89	A0	6	A2	5
+2	conduction	conduction.n	1	conduction.n	90	A0	7
+2	conduction	conduction.n	0	conduction.n	91	A2	3
+2	conduction	osteoconduction.n	0	osteoconduction.n	92	A0	6:10
+2	digestion	digestion.n	0	digestion.n	93	A2	3
+2	digestion	digestion.n	0	digestion.n	94	A2	5
+2	digestion	digestion.n	0	digestion.n	95	A2	3
+2	digestion	digestion.n	0	digestion.n	96	A2	12
+4	digestion	digestion.n	5	digestion.n	97	A0	11:12	A2	10	A3	14:16
+2	digestion	digestion.n	0	digestion.n	98	A2	5
+4	digestion	digestion.n	0	digestion.n	99	A0	6:8	A2	10	A3	12
+2	digestion	digestion.n	0	digestion.n	100	A2	5
+2	digestion	digestion.n	0	digestion.n	101	A2	9
+2	digestion	digestion.n	0	digestion.n	102	A2	9
+2	digestion	digestion.n	0	digestion.n	103	A2	5:6
+2	digestion	digestion.n	0	digestion.n	104	A2	8
+2	condensation	condensation.n	0	condensation.n	105	A2	3
+2	condensation	condensation.n	0	condensation.n	106	A1	4:5
+2	condensation	condensation.n	0	condensation.n	107	A1	2:7
+2	condensation	condensation.n	0	condensation.n	108	A1	4:9
+3	condensation	condensation.n	1	condensation.n	109	A0	7:10	A2	6
+2	condensation	condensation.n	0	condensation.n	110	A1	4:6
+2	condensation	condensation.n	4	condensation.n	111	A1	23:24
+2	condensation	condensation.n	0	condensation.n	112	A1	4:5
+4	condensation	condensation.n	1	condensation.n	113	A0	6	A1	5:10	A2	15
+2	condensation	condensation.n	1	condensation.n	114	A3	8
+2	condensation	condensation.n	0	condensation.n	115	A1	7:9
+2	condensation	condensation.n	0	condensation.n	116	A1	7:25
+2	condensation	condensation.n	18	condensation.n	117	A1	11:14
+2	condensation	condensation.n	0	condensation.n	118	A1	4:6
+4	condensation	condensation.n	0	condensation.n	119	A0	6:7	A2	8	A3	10:11
+2	condensation	condensation.n	0	condensation.n	120	A1	12:22
+2	condensation	condensation.n	1	condensation.n	121	A1	3:17
+3	condensation	condensation.n	0	condensation.n	122	A2	9	A3	12:13
+2	condensation	condensation.n	0	condensation.n	123	A1	4:8
+4	condensation	condensation.n	0	condensation.n	124	A0	6:7	A2	8	A3	10:11
+2	condensation	condensation.n	11	condensation.n	125	A1	15:22
+2	condensation	condensation.n	0	condensation.n	126	A1	4:9
+2	condensation	condensation.n	1	condensation.n	127	A3	2:13
+2	condensation	condensation.n	4	condensation.n	128	A1	8:13
+2	condensation	condensation.n	0	condensation.n	129	A1	4:7
+2	condensation	condensation.n	4	condensation.n	130	A1	6:16
+3	condensation	condensation.n	0	condensation.n	131	A0	3:4	A2	0
+2	condensation	condensation.n	2	condensation.n	132	A3	5:10
+2	condensation	condensation.n	0	condensation.n	133	A1	6:8
+2	condensation	condensation.n	0	condensation.n	134	A1	6:20
+2	condensation	condensation.n	0	condensation.n	135	A1	2:18
+3	camouflage	camouflage.n	7	camouflage.n	136	A2	7	A3	9:14
+2	camouflage	camouflage.n	2	camouflage.n	137	A1	6:15
+2	camouflage	camouflage.n	1	camouflage.n	138	A2	6
+2	camouflage	camouflage.n	0	camouflage.n	139	A2	3
+2	camouflage	camouflage.n	0	camouflage.n	140	A3	2:11
+2	camouflage	camouflage.n	1	camouflage.n	141	A3	4:7
+4	camouflage	camouflage.n	1	camouflage.n	142	A0	5	A2	0:1	A3	4:7
+2	camouflage	camouflage.n	2	camouflage.n	143	A3	4:10
+2	camouflage	camouflage.n	3	camouflage.n	144	A3	6:21
+2	camouflage	camouflage.n	1	camouflage.n	145	A0	4:5
+2	camouflage	camouflage.n	0	camouflage.n	146	A2	3
+2	camouflage	camouflage.n	3	camouflage.n	147	A3	6:11
+2	camouflage	camouflage.n	0	camouflage.n	148	A1	5:13
+2	camouflage	camouflage.n	3	camouflage.n	149	A3	6:9
+2	camouflage	camouflage.n	3	camouflage.n	150	A3	6:7
+2	camouflage	camouflage.n	0	camouflage.n	151	A1	5:13
+2	metamorphosis	metamorphosis.n	6	metamorphosis.n	152	A2	9
+3	metamorphosis	metamorphosis.n	1	metamorphosis.n	153	A0	13:15	A2	16
+2	metamorphosis	metamorphosis.n	4	metamorphosis.n	154	A3	6:26
+2	metamorphosis	metamorphosis.n	14	metamorphosis.n	155	A3	16:21
+2	metamorphosis	metamorphosis.n	2	metamorphosis.n	156	A2	5
+3	metamorphosis	metamorphosis.n	5	metamorphosis.n	157	A1	20:26	A2	12
+2	metamorphosis	metamorphosis.n	1	metamorphosis.n	158	A3	4:8
+2	metamorphosis	metamorphosis.n	0	metamorphosis.n	159	A3	2:8
+2	metamorphosis	metamorphosis.n	3	metamorphosis.n	160	A3	8:17
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	161	A3	4:15
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	162	A2	0:1
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	163	A2	6
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	164	A3	4:23
+2	crop_rotation	crop rotation.n	3_4	crop rotation.n	165	A3	7:11
+2	crop_rotation	crop rotation.n	3_4	crop rotation.n	166	A3	7:15
+2	crop_rotation	crop rotation.n	3_4	crop rotation.n	167	A3	7:12
+2	crop_rotation	crop rotation.n	6_7	crop rotation.n	168	A3	10:27
+2	crop_rotation	crop rotation.n	3_4	crop rotation.n	169	A3	7:22
+3	crop_rotation	crop rotation.n	0_1	crop rotation.n	170	A0	5:6	A3	3:9
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	171	A2	6
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	172	A2	6
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	173	A3	4:24
+2	crop_rotation	crop rotation.n	4_5	crop rotation.n	174	A3	7:9
+2	crop_rotation	crop rotation.n	0_1	crop rotation.n	175	A3	4:10
+3	crop_rotation	crop rotation.n	0_1	crop rotation.n	176	A2	0:1	A3	3:6
+2	sublimation	sublimation.n	0	sublimation.n	177	A2	3
+2	sublimation	sublimation.n	0	sublimation.n	178	A1	4:19
+2	sublimation	sublimation.n	0	sublimation.n	179	A3	2:7
+2	sublimation	sublimation.n	1	sublimation.n	180	A1	5:10
+2	sublimation	sublimation.n	0	sublimation.n	181	A2	3
+2	sublimation	sublimation.n	0	sublimation.n	182	A2	3
+2	sublimation	sublimation.n	0	sublimation.n	183	A0	6:8
+2	sublimation	sublimation.n	0	sublimation.n	184	A3	10:11
+2	sublimation	sublimation.n	1	sublimation.n	185	A3	3:8
+2	sublimation	sublimation.n	0	sublimation.n	186	A3	10:11
+3	sublimation	sublimation.n	0	sublimation.n	187	A0	6:7	A2	8
+4	sublimation	sublimation.n	0	sublimation.n	188	A0	6	A1	9:10	A2	5
+2	dripping	drip.n	0	dripping.n	189	A2	7
+2	dripping	drip.n	2	dripping.n	190	A2	7
+2	dripping	drip.n	0	dripping.n	191	A2	5
+2	molting	molting.n	0	molting.n	192	A2	5
+2	molting	molting.n	0	molting.n	193	A2	5
+2	molting	molting.n	0	molting.n	194	A2	5
+2	molting	molting.n	0	molting.n	195	A2	5
+2	molting	molting.n	0	molting.n	196	A2	9
+3	molting	molting.n	0	molting.n	197	A1	6:7	A2	5
+2	molting	molting.n	0	molting.n	198	A2	5
+2	molting	molting.n	0	molting.n	199	A2	5
+2	molting	molting.n	0	molting.n	200	A2	5
+2	physical_change	physical change.n	0_1	physical change.n	201	A2	1
+2	reflection	reflection.n	0	reflection.n	202	A2	12
+2	reflection	reflection.n	1	reflection.n	203	A2	1
+3	fertilization	fertilization.n	0	fertilization.n	204	A1	8:24	A2	7
+2	fertilization	fertilization.n	4	fertilization.n	205	A2	9
+2	pollination	pollination.n	0	pollination.n	206	A2	5
+2	pollination	pollination.n	0	pollination.n	207	A2	3
+3	pollination	pollination.n	0	pollination.n	208	A0	6:12	A2	5
+2	absorption	absorption.n	0	absorption.n	209	A2	5
+2	absorption	absorption.n	0	absorption.n	210	A2	14
+2	absorption	absorption.n	0	absorption.n	211	A2	7
+2	absorption	absorption.n	0	absorption.n	212	A2	5
+2	absorption	absorption.n	0	absorption.n	213	A2	9
+2	breathing	breathe.n	8	breathing.n	214	A1	4
+2	breathing	breathing.n	1	breathing.n	215	A1	5:18
+3	breathing	breathing.n	0	breathing.n	216	A1	8:12	A2	5
+4	breathing	breathing.n	0	breathing.n	217	A0	11:12	A2	17	A3	18:19
+3	breathing	breathing.n	0	breathing.n	218	A1	8:10	A2	7
+2	breathing	breathing.n	3	breathing.n	219	A1	7:12
+2	breathing	breathing.n	0	breathing.n	220	A2	8
+3	breathing	breathing.n	0	breathing.n	221	A1	12:14	A2	8
+2	breathing	breathing.n	0	breathing.n	222	A1	8:11
+2	breathing	breathing.n	3	breathing.n	223	A1	7:24
+4	breathing	breathing.n	0	breathing.n	224	A1	7:9	A2	5:6	A3	10:20
+2	breathing	breathing.n	0	breathing.n	225	A2	5:6
+2	breathing	breathing.n	1	breathing.n	226	A1	5:9
+2	breathing	breathing.n	0	breathing.n	227	A2	5
+2	breathing	breathing.n	0	breathing.n	228	A2	11
+3	breathing	breathing.n	0	breathing.n	229	A0	14:15	A2	11
+3	breathing	breathing.n	0	breathing.n	230	A1	4:9	A2	0
+2	breathing	breathing.n	6	breathing.n	231	A1	2
+2	breathing	breathing.n	0	breathing.n	232	A1	4:11
+2	breathing	breathing.n	0	breathing.n	233	A2	5
+2	weathering	weather.n	0	weathering.n	234	A2	3
+2	weathering	weathering.n	1	weathering.n	235	A0	7:8
+3	weathering	weather.n	0	weathering.n	236	A0	7:9	A2	5:6
+2	weathering	weather.n	3	weathering.n	237	A3	5:15
+3	weathering	weather.n	0	weathering.n	238	A0	7	A2	5:6
+2	weathering	weather.n	0	weathering.n	239	A3	3:8
+3	weathering	weathering.n	1	weathering.n	240	A0	7:8	A2	6
+2	weathering	weathering.n	1	weathering.n	241	A0	7
+2	weathering	weather.n	7	weathering.n	242	A3	10:24
+3	weathering	weathering.n	1	weathering.n	243	A2	9	A3	11
+2	weathering	weather.n	1	weathering.n	244	A3	3:10
+3	weathering	weathering.n	1	weathering.n	245	A2	9	A3	11:12
+3	weathering	weather.n	0	weathering.n	246	A2	8	A3	10:14
+2	weathering	weather.n	3	weathering.n	247	A3	6:7
+2	weathering	weather.n	5	weathering.n	248	A1	0:1
+4	weathering	weathering.n	1	weathering.n	249	A0	8	A2	6:7	A3	9:11
+3	weathering	weather.n	0	weathering.n	250	A0	7:14	A2	5:6
+2	weathering	weather.n	1	weathering.n	251	A3	3:25
+3	weathering	weather.n	0	weathering.n	252	A0	6:8	A2	5
+2	weathering	weathering.n	1	weathering.n	253	A2	4
+2	evolution	evolution.n	6	evolution.n	254	A2	13
+2	evolution	evolution.n	0	evolution.n	255	A2	7
+2	evolution	evolution.n	0	evolution.n	256	A2	7
+3	nitrogen_cycle	nitrogen cycle.n	0_1	nitrogen cycle.n	257	A2	6	A3	10:11
+2	nitrogen_cycle	nitrogen cycle.n	4_5	nitrogen cycle.n	258	A2	13
+2	nitrogen_cycle	nitrogen cycle.n	0_1	nitrogen cycle.n	259	A2	6
+2	nitrogen_cycle	nitrogen cycle.n	0_1	nitrogen cycle.n	260	A2	4
+2	mitosis	mitosis.n	0	mitosis.n	261	A3	2:15
+4	mitosis	mitosis.n	0	mitosis.n	262	A0	6:8	A2	9	A3	11:13
+2	mitosis	mitosis.n	3	mitosis.n	263	A3	6:15
+3	mitosis	mitosis.n	0	mitosis.n	264	A2	0	A3	2:8
+4	mitosis	mitosis.n	0	mitosis.n	265	A0	6:7	A2	8	A3	10:12
+2	mitosis	mitosis.n	0	mitosis.n	266	A2	5
+4	mitosis	mitosis.n	0	mitosis.n	267	A0	6:8	A2	9	A3	11:26
+2	mitosis	mitosis.n	5	mitosis.n	268	A3	8:11
+2	mitosis	mitosis.n	3	mitosis.n	269	A3	6:14
+2	mitosis	mitosis.n	0	mitosis.n	270	A2	3
+3	mitosis	mitosis.n	0	mitosis.n	271	A0	6:10	A2	5
+2	mitosis	mitosis.n	6	mitosis.n	272	A3	9:15
+4	mitosis	mitosis.n	0	mitosis.n	273	A0	6:8	A2	9	A3	11
+2	mitosis	mitosis.n	0	mitosis.n	274	A3	8
+3	mitosis	mitosis.n	0	mitosis.n	275	A2	15	A3	7:11
+3	mitosis	mitosis.n	0	mitosis.n	276	A0	6	A2	5
+2	mitosis	mitosis.n	7	mitosis.n	277	A3	10:23
+2	mitosis	mitosis.n	0	mitosis.n	278	A2	5
+2	hibernation	hibernation.n	0	hibernation.n	279	A1	6:16
+2	hibernation	hibernation.n	0	hibernation.n	280	A1	4:5
+2	hibernation	hibernation.n	8	hibernation.n	281	A1	3
+2	hibernation	hibernation.n	0	hibernation.n	282	A1	4:7
+2	hibernation	hibernation.n	3	hibernation.n	283	A3	6:26
+2	hibernation	hibernation.n	8	hibernation.n	284	A1	11:23
+2	hibernation	hibernation.n	0	hibernation.n	285	A1	4:6
+4	hibernation	hibernation.n	0	hibernation.n	286	A0	3:4	A1	7:9	A2	0
+2	hibernation	hibernation.n	4	hibernation.n	287	A1	8:15
+2	hibernation	hibernation.n	3	hibernation.n	288	A3	6:15
+2	friction	friction.n	0	friction.n	289	A2	3
+2	friction	friction.n	0	friction.n	290	A2	3
+2	friction	friction.n	0	friction.n	291	A2	3
+2	cross-pollination	cross-pollination.n	0	cross-pollination.n	292	A2	3
+2	cross-pollination	cross-pollination.n	0	cross-pollination.n	293	A2	3
+2	germination	germination.n	4	germination.n	294	A1	0
+2	germination	germination.n	2	germination.n	295	A1	0
+2	germination	germination.n	7	germination.n	296	A1	11
+2	germination	germination.n	3	germination.n	297	A1	7:11
+2	germination	germination.n	11	germination.n	298	A1	15:19
+2	germination	germination.n	0	germination.n	299	A2	8
+3	germination	germination.n	0	germination.n	300	A2	5	A3	9:13
+2	germination	germination.n	1	germination.n	301	A1	6:8
+2	germination	germination.n	1	germination.n	302	A1	7:9
+2	germination	germination.n	0	germination.n	303	A2	8
+2	germination	germination.n	7	germination.n	304	A1	3
+3	germination	germination.n	1	germination.n	305	A1	9:10	A2	0:1
+2	conservation	conservation.n	0	conservation.n	306	A2	5
+2	conservation	conservation.n	0	conservation.n	307	A2	5
+2	conservation	conservation.n	0	conservation.n	308	A2	5
+3	conservation	conservation.n	1	conservation.n	309	A1	7:10	A2	6
+2	conservation	conservation.n	1	conservation.n	310	A2	6
+2	boiling	boil.n	0	boiling.n	311	A2	3
+2	boiling	boil.n	0	boiling.n	312	A3	3:9
+2	boiling	boil.n	2	boiling.n	313	A2	5
+2	boiling	boil.n	3	boiling.n	314	A3	6:32
+2	boiling	boil.n	0	boiling.n	315	A3	3:10
+2	boiling	boil.n	0	boiling.n	316	A3	3:12
+2	boiling	boil.n	0	boiling.n	317	A3	3:7
+2	boiling	boil.n	5	boiling.n	318	A3	8:13
+2	boiling	boil.n	1	boiling.n	319	A3	4:13
+2	boiling	boil.n	1	boiling.n	320	A3	3:16
+2	boiling	boil.n	12	boiling.n	321	A2	15
+2	boiling	boil.n	0	boiling.n	322	A2	3
+2	boiling	boil.n	3	boiling.n	323	A2	8
+2	boiling	boil.n	3	boiling.n	324	A3	6:20
+2	boiling	boil.n	0	boiling.n	325	A2	5
+2	boiling	boil.n	0	boiling.n	326	A3	2:18
+2	boiling	boil.n	4	boiling.n	327	A3	7
+2	boiling	boil.n	0	boiling.n	328	A3	1:16
+2	boiling	boil.n	1	boiling.n	329	A3	4:10
+2	boiling	boil.n	3	boiling.n	330	A3	6:10
+2	boiling	boil.n	6	boiling.n	331	A3	8:11
+2	boiling	boil.n	0	boiling.n	332	A3	2:12
+2	boiling	boil.n	0	boiling.n	333	A3	3:16
+2	combustion	combustion.n	2	combustion.n	334	A1	6:8
+2	combustion	combustion.n	1	combustion.n	335	A3	4:17
+2	combustion	combustion.n	2	combustion.n	336	A2	7
+2	combustion	combustion.n	4	combustion.n	337	A3	7:8
+2	combustion	combustion.n	7	combustion.n	338	A1	0:3
+2	combustion	combustion.n	0	combustion.n	339	A2	8
+4	combustion	combustion.n	1	combustion.n	340	A0	7:8	A1	10:14	A2	6
+2	combustion	combustion.n	2	combustion.n	341	A2	7
+2	combustion	combustion.n	4	combustion.n	342	A1	8:15
+3	combustion	combustion.n	3	combustion.n	343	A2	10	A3	6:12
+2	combustion	combustion.n	0	combustion.n	344	A1	4:21
+3	combustion	combustion.n	0	combustion.n	345	A0	6:8	A2	5
+2	combustion	combustion.n	0	combustion.n	346	A2	3
+2	combustion	combustion.n	4	combustion.n	347	A1	8:16
+4	combustion	combustion.n	0	combustion.n	348	A0	3:16	A1	20	A2	0
+2	combustion	combustion.n	0	combustion.n	349	A1	4:13
+2	combustion	combustion.n	1	combustion.n	350	A3	4:13
+4	combustion	combustion.n	1	combustion.n	351	A0	7:8	A1	10:14	A2	6
+2	combustion	combustion.n	3	combustion.n	352	A3	5:6
+2	combustion	combustion.n	0	combustion.n	353	A2	3
+2	combustion	combustion.n	1	combustion.n	354	A3	3:17
+2	combustion	combustion.n	0	combustion.n	355	A1	4:9
+2	combustion	combustion.n	0	combustion.n	356	A3	2:6
+2	combustion	combustion.n	6	combustion.n	357	A1	10:24
+3	combustion	combustion.n	0	combustion.n	358	A0	6	A2	5
+2	combustion	combustion.n	0	combustion.n	359	A2	3
+2	combustion	combustion.n	3	combustion.n	360	A3	5:7
+2	combustion	combustion.n	1	combustion.n	361	A1	5:12
+2	combustion	combustion.n	3	combustion.n	362	A3	7:11
+2	combustion	combustion.n	0	combustion.n	363	A1	4:6
+2	combustion	combustion.n	2	combustion.n	364	A1	6:14
+2	combustion	combustion.n	3	combustion.n	365	A3	6:11
+2	erosion	erosion.n	0	erosion.n	366	A2	5:6
+2	erosion	erosion.n	0	erosion.n	367	A2	5
+2	erosion	erosion.n	0	erosion.n	368	A2	5
+2	evaporation	evaporation.n	0	evaporation.n	369	A3	3:5
+2	evaporation	evaporation.n	0	evaporation.n	370	A3	10:14
+4	evaporation	evaporation.n	0	evaporation.n	371	A0	3:4	A2	0	A3	8:9
+2	evaporation	evaporation.n	0	evaporation.n	372	A2	5
+2	evaporation	evaporation.n	3	evaporation.n	373	A1	9:13
+2	evaporation	evaporation.n	0	evaporation.n	374	A1	4:16
+3	evaporation	evaporation.n	0	evaporation.n	375	A0	6:7	A2	5
+2	evaporation	evaporation.n	3	evaporation.n	376	A3	6:10
+5	evaporation	evaporation.n	0	evaporation.n	377	A0	8	A1	3:6	A2	7	A3	13:17
+2	evaporation	evaporation.n	1	evaporation.n	378	A1	5:14
+2	evaporation	evaporation.n	21	evaporation.n	379	A3	23:29
+4	evaporation	evaporation.n	0	evaporation.n	380	A0	6:7	A2	8	A3	10:11
+4	evaporation	evaporation.n	0	evaporation.n	381	A0	6	A2	5	A3	8:9
+2	evaporation	evaporation.n	0	evaporation.n	382	A1	4
+2	evaporation	evaporation.n	0	evaporation.n	383	A0	6
+3	evaporation	evaporation.n	1	evaporation.n	384	A1	5:8	A2	0:1
+3	evaporation	evaporation.n	0	evaporation.n	385	A2	9	A3	11:12
+4	evaporation	evaporation.n	0	evaporation.n	386	A0	6	A2	8	A3	10
+2	evaporation	evaporation.n	0	evaporation.n	387	A3	2:15
+2	evaporation	evaporation.n	0	evaporation.n	388	A1	4:8
+2	evaporation	evaporation.n	1	evaporation.n	389	A1	7:15
+2	evaporation	evaporation.n	0	evaporation.n	390	A3	2:22
+3	evaporation	evaporation.n	0	evaporation.n	391	A0	6:7	A2	9
+3	evaporation	evaporation.n	0	evaporation.n	392	A0	6:7	A2	5
+2	evaporation	evaporation.n	9	evaporation.n	393	A1	0:5
+2	evaporation	evaporation.n	0	evaporation.n	394	A3	3:7
+2	evaporation	evaporation.n	0	evaporation.n	395	A2	5
+3	evaporation	evaporation.n	0	evaporation.n	396	A0	6:7	A2	5
+2	evaporation	evaporation.n	3	evaporation.n	397	A3	6:21
+2	evaporation	evaporation.n	2	evaporation.n	398	A0	11
+4	evaporation	evaporation.n	0	evaporation.n	399	A0	12:13	A2	5	A3	6:8
+4	evaporation	evaporation.n	0	evaporation.n	400	A0	3:4	A2	0	A3	8:9
+2	evaporation	evaporation.n	0	evaporation.n	401	A3	3:9
+2	evaporation	evaporation.n	10	evaporation.n	402	A3	12:18
+2	evaporation	evaporation.n	11	evaporation.n	403	A3	14:16
+2	evaporation	evaporation.n	3	evaporation.n	404	A3	6:7
+3	evaporation	evaporation.n	0	evaporation.n	405	A2	9	A3	11:18
+3	evaporation	evaporation.n	0	evaporation.n	406	A0	6	A2	5
+4	evaporation	evaporation.n	0	evaporation.n	407	A0	6	A2	8	A3	10
+2	evaporation	evaporation.n	0	evaporation.n	408	A2	5
+2	evaporation	evaporation.n	0	evaporation.n	409	A3	13:14
+3	evaporation	evaporation.n	0	evaporation.n	410	A0	6:7	A2	5
+3	evaporation	evaporation.n	0	evaporation.n	411	A2	8	A3	10:14
+4	evaporation	evaporation.n	0	evaporation.n	412	A0	6	A2	5	A3	10:11
+2	evaporation	evaporation.n	0	evaporation.n	413	A2	3
+2	evaporation	evaporation.n	2	evaporation.n	414	A3	5:7
+2	reproduction	reproduction.n	0	reproduction.n	415	A2	5
+2	reproduction	reproduction.n	3	reproduction.n	416	A3	6
+2	reproduction	reproduction.n	0	reproduction.n	417	A2	5
+2	reproduction	reproduction.n	0	reproduction.n	418	A2	5
+2	reproduction	reproduction.n	0	reproduction.n	419	A2	5
+2	reproduction	reproduction.n	0	reproduction.n	420	A2	5

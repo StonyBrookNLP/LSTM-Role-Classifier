@@ -1,0 +1,4724 @@
+[
+    {
+        "process": "diffusion", 
+        "sentences": [
+            {
+                "text": "diffusion is the process of transferring matter from an area of high concentration to an area of low concentration under the influence of thermal energy.", 
+                "sentenceId": 486, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "A1", 
+                        "text": "of low concentration under the influence of thermal energy", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": 0.37333864735429767
+                            }, 
+                            {
+                                "A0": 0.010742991437418976
+                            }, 
+                            {
+                                "A3": 0.16648908336353155
+                            }, 
+                            {
+                                "A2": 0.08974256862104572
+                            }, 
+                            {
+                                "NONE": 0.1596867092237061
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "text": "from an area of high concentration", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.06574402905218096
+                            }, 
+                            {
+                                "A0": 0.1162554744268656
+                            }, 
+                            {
+                                "A3": 0.07970007761122268
+                            }, 
+                            {
+                                "A2": 0.020877854853456793
+                            }, 
+                            {
+                                "NONE": 0.517422564056274
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "transferring matter from an area of high concentration to an area of low concentration under the influence of thermal energy", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0031924225407529553
+                            }, 
+                            {
+                                "A0": 0.00043526861167694135
+                            }, 
+                            {
+                                "A3": 0.004369501019388112
+                            }, 
+                            {
+                                "A2": 0.7512033928011813
+                            }, 
+                            {
+                                "NONE": 0.04079941502700079
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "transferring", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0031924225407529553
+                            }, 
+                            {
+                                "A0": 0.00043526861167694135
+                            }, 
+                            {
+                                "A3": 0.004369501019388112
+                            }, 
+                            {
+                                "A2": 0.7512033928011813
+                            }, 
+                            {
+                                "NONE": 0.04079941502700079
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "melting", 
+        "sentences": [
+            {
+                "text": "melting is the process of converting a solid into a liquid.", 
+                "sentenceId": 42, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "a solid", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0080472273979676524
+                            }, 
+                            {
+                                "A0": 0.4907122828112056
+                            }, 
+                            {
+                                "A3": 0.068406024208400709
+                            }, 
+                            {
+                                "A2": -0.0165398289906626
+                            }, 
+                            {
+                                "NONE": 1.4043275136921358
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "converting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.021113550484394842
+                            }, 
+                            {
+                                "A0": -0.021392528603854294
+                            }, 
+                            {
+                                "A3": -0.027914773075207119
+                            }, 
+                            {
+                                "A2": 0.73330246381143172
+                            }, 
+                            {
+                                "NONE": 0.86963612488343045
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "trapolation is necessary for melting temperatures at greater depths.", 
+                "sentenceId": 83, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A1", 
+                        "text": "trapolation", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": 0.53130803562989404
+                            }, 
+                            {
+                                "A0": 0.0091076423596882228
+                            }, 
+                            {
+                                "A3": -0.038772247576262728
+                            }, 
+                            {
+                                "A2": 0.0083037460165343337
+                            }, 
+                            {
+                                "NONE": 1.5777213902055613
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "while scientists cannot say that all the melting is caused by climate change, they believe this is \"very, very compelling evidence\" that man-made...", 
+                "sentenceId": 295, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A1", 
+                        "text": "climate change", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.73383862158166557
+                            }, 
+                            {
+                                "A0": -0.012496110644793106
+                            }, 
+                            {
+                                "A3": -0.0090962890188834786
+                            }, 
+                            {
+                                "A2": -0.005690881108912825
+                            }, 
+                            {
+                                "NONE": 0.91018078792114387
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the lack of systematic scientific data to prove the melting is caused by climate change, allows naysayers to deny that the glaciers are retreating abnormally fast.", 
+                "sentenceId": 463, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 25, 
+                        "rolePredicted": "NONE", 
+                        "text": "retreating", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0044872765215489795
+                            }, 
+                            {
+                                "A0": -0.017099732908933931
+                            }, 
+                            {
+                                "A3": -0.021290938567039112
+                            }, 
+                            {
+                                "A2": 0.21684699201194305
+                            }, 
+                            {
+                                "NONE": 1.1073266775812978
+                            }
+                        ], 
+                        "argId": 9
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the lack of systematic scientific data to prove the melting is caused by climate change", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.092324910606883415
+                            }, 
+                            {
+                                "A0": 0.052124462508999152
+                            }, 
+                            {
+                                "A3": 0.057838646759661633
+                            }, 
+                            {
+                                "A2": 0.12603453433100384
+                            }, 
+                            {
+                                "NONE": 0.81334453318310862
+                            }
+                        ], 
+                        "argId": 8
+                    }, 
+                    {
+                        "startIdx": 20, 
+                        "rolePredicted": "NONE", 
+                        "text": "deny", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.003505686707188713
+                            }, 
+                            {
+                                "A0": -0.0010334135066199825
+                            }, 
+                            {
+                                "A3": 0.22810335885433081
+                            }, 
+                            {
+                                "A2": -0.0017314661433163086
+                            }, 
+                            {
+                                "NONE": 0.96802304209846657
+                            }
+                        ], 
+                        "argId": 11
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "A1", 
+                        "text": "climate change", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.74793033910172324
+                            }, 
+                            {
+                                "A0": -0.0069880268002227115
+                            }, 
+                            {
+                                "A3": -0.018728238005555918
+                            }, 
+                            {
+                                "A2": 0.005301766376694092
+                            }, 
+                            {
+                                "NONE": 0.19903982817741681
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "text": "to deny that the glaciers are retreating abnormally fast", 
+                        "endIdx": 27, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0084464735876277029
+                            }, 
+                            {
+                                "A0": -0.0034218273729347253
+                            }, 
+                            {
+                                "A3": 0.229297964734308
+                            }, 
+                            {
+                                "A2": -0.0049811214247156123
+                            }, 
+                            {
+                                "NONE": 0.98123598492676678
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "the melting is caused by climate change", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016130140930485093
+                            }, 
+                            {
+                                "A0": -0.015019295125232059
+                            }, 
+                            {
+                                "A3": -0.035025299688002207
+                            }, 
+                            {
+                                "A2": 0.11110542295018999
+                            }, 
+                            {
+                                "NONE": 1.2145476086357538
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "text": "prove", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0002531449708551136
+                            }, 
+                            {
+                                "A0": 0.0062947094110260785
+                            }, 
+                            {
+                                "A3": 0.056493136760452423
+                            }, 
+                            {
+                                "A2": 0.013291776859734622
+                            }, 
+                            {
+                                "NONE": 1.0989263451573132
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 18, 
+                        "rolePredicted": "NONE", 
+                        "text": "naysayers", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.06219168338020073
+                            }, 
+                            {
+                                "A0": 0.097210298944291007
+                            }, 
+                            {
+                                "A3": 0.12266767388160663
+                            }, 
+                            {
+                                "A2": 0.020840494545608927
+                            }, 
+                            {
+                                "NONE": 0.88827906880494045
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "text": "allows", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018578920790032198
+                            }, 
+                            {
+                                "A0": -0.011493333032792655
+                            }, 
+                            {
+                                "A3": -0.023076399949724595
+                            }, 
+                            {
+                                "A2": 0.096128652476889467
+                            }, 
+                            {
+                                "NONE": 1.2351012157416754
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "text": "caused", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": -0.00090731157612163656
+                            }, 
+                            {
+                                "A0": -0.0057787617565885144
+                            }, 
+                            {
+                                "A3": -0.013206092866081456
+                            }, 
+                            {
+                                "A2": 0.0948155639065177
+                            }, 
+                            {
+                                "NONE": 1.1317088786454126
+                            }
+                        ], 
+                        "argId": 7
+                    }, 
+                    {
+                        "startIdx": 22, 
+                        "rolePredicted": "A0", 
+                        "text": "the glaciers", 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "A1": 0.1298738690791662
+                            }, 
+                            {
+                                "A0": 0.30363819437441203
+                            }, 
+                            {
+                                "A3": -0.029124893135282277
+                            }, 
+                            {
+                                "A2": 0.033774220085047366
+                            }, 
+                            {
+                                "NONE": 0.76081290164369753
+                            }
+                        ], 
+                        "argId": 10
+                    }, 
+                    {
+                        "startIdx": 26, 
+                        "rolePredicted": "NONE", 
+                        "text": "abnormally fast", 
+                        "endIdx": 27, 
+                        "probRoles": [
+                            {
+                                "A1": 0.031696472751660168
+                            }, 
+                            {
+                                "A0": 0.034756263895670117
+                            }, 
+                            {
+                                "A3": 0.0018261915765796291
+                            }, 
+                            {
+                                "A2": 0.014110799776563283
+                            }, 
+                            {
+                                "NONE": 1.0826966236232412
+                            }
+                        ], 
+                        "argId": 12
+                    }, 
+                    {
+                        "startIdx": 21, 
+                        "rolePredicted": "NONE", 
+                        "text": "that the glaciers are retreating abnormally fast", 
+                        "endIdx": 27, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0064318352651263275
+                            }, 
+                            {
+                                "A0": -0.014010151670258725
+                            }, 
+                            {
+                                "A3": -0.021605788092750787
+                            }, 
+                            {
+                                "A2": 0.2204481268683243
+                            }, 
+                            {
+                                "NONE": 1.0331104628933239
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "the melting", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.012717362590538168
+                            }, 
+                            {
+                                "A0": 0.0060860545423751938
+                            }, 
+                            {
+                                "A3": -0.04066211615162825
+                            }, 
+                            {
+                                "A2": 0.10746346561760201
+                            }, 
+                            {
+                                "NONE": 1.199968145019493
+                            }
+                        ], 
+                        "argId": 13
+                    }
+                ]
+            }, 
+            {
+                "text": "probably because the melting is caused by sooty ice.", 
+                "sentenceId": 413, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "text": "sooty ice", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.75627584443595941
+                            }, 
+                            {
+                                "A0": -0.010634505658726055
+                            }, 
+                            {
+                                "A3": -0.013878251435524574
+                            }, 
+                            {
+                                "A2": -0.023563510029677447
+                            }, 
+                            {
+                                "NONE": 0.87432048095657744
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "many believe that melting is caused by global warming.", 
+                "sentenceId": 14, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "text": "global warming", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.74011906249133064
+                            }, 
+                            {
+                                "A0": -0.0067330841595029424
+                            }, 
+                            {
+                                "A3": -0.0016013433098228981
+                            }, 
+                            {
+                                "A2": -0.019022730976105857
+                            }, 
+                            {
+                                "NONE": 0.66634226891144377
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "melting is caused by heat: when the molecules of a solid move fast enough, they break out of their rigid pattern.", 
+                "sentenceId": 208, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "when the molecules of a solid move fast enough , they break out of their rigid pattern", 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0047086599206533734
+                            }, 
+                            {
+                                "A0": -0.0063945679019532554
+                            }, 
+                            {
+                                "A3": -0.0036290775792235004
+                            }, 
+                            {
+                                "A2": 0.012003136191791528
+                            }, 
+                            {
+                                "NONE": 1.674551436120729
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "melting", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.017584175300207151
+                            }, 
+                            {
+                                "A0": -0.013034998198990538
+                            }, 
+                            {
+                                "A3": -0.037708990143762326
+                            }, 
+                            {
+                                "A2": 0.086603063242199449
+                            }, 
+                            {
+                                "NONE": 2.2935011186960592
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "text": "the molecules of a solid move fast enough , they", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.084852396930904253
+                            }, 
+                            {
+                                "A0": 0.44260696868493143
+                            }, 
+                            {
+                                "A3": -0.021681928523102544
+                            }, 
+                            {
+                                "A2": 0.0059690272869324865
+                            }, 
+                            {
+                                "NONE": 1.123479322120668
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "caused", 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": -0.021832332439793746
+                            }, 
+                            {
+                                "A0": -0.019496213485662561
+                            }, 
+                            {
+                                "A3": -0.03014588623191098
+                            }, 
+                            {
+                                "A2": 0.048253207200089375
+                            }, 
+                            {
+                                "NONE": 2.2001877075005076
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 21, 
+                        "rolePredicted": "NONE", 
+                        "text": "their rigid pattern", 
+                        "endIdx": 23, 
+                        "probRoles": [
+                            {
+                                "A1": 0.33583129804558187
+                            }, 
+                            {
+                                "A0": -0.012481261700441578
+                            }, 
+                            {
+                                "A3": 0.037228664178024423
+                            }, 
+                            {
+                                "A2": 0.027422474019805378
+                            }, 
+                            {
+                                "NONE": 1.5500408602086211
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "heat", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.77156331030606595
+                            }, 
+                            {
+                                "A0": -0.0063242768184570333
+                            }, 
+                            {
+                                "A3": -0.015808828574582566
+                            }, 
+                            {
+                                "A2": -0.021044795615156271
+                            }, 
+                            {
+                                "NONE": 0.63240493115341367
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "melting is the process of transforming a subset of the code within a moco to models without introducing...", 
+                "sentenceId": 2, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "transforming", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018295331362936179
+                            }, 
+                            {
+                                "A0": -0.024677119482150685
+                            }, 
+                            {
+                                "A3": -0.025826636376752921
+                            }, 
+                            {
+                                "A2": 0.75943748519789678
+                            }, 
+                            {
+                                "NONE": 0.90835884804493017
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "melting is the process of transforming a crystal or an amorphous solid into a liquid.", 
+                "sentenceId": 233, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "a crystal or an amorphous solid", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.09463159971992452
+                            }, 
+                            {
+                                "A0": 0.63069358522497831
+                            }, 
+                            {
+                                "A3": 0.001509228486476135
+                            }, 
+                            {
+                                "A2": -0.018166546527141923
+                            }, 
+                            {
+                                "NONE": 0.93658407232252561
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "transforming", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.020964194130464707
+                            }, 
+                            {
+                                "A0": -0.024825083185176119
+                            }, 
+                            {
+                                "A3": -0.030225555199256855
+                            }, 
+                            {
+                                "A2": 0.68392585169781817
+                            }, 
+                            {
+                                "NONE": 0.98850073755355827
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "e is necessary for melting an other volume of the titanium wire, with the mass.", 
+                "sentenceId": 40, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "e", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": 0.29041997921239049
+                            }, 
+                            {
+                                "A0": 0.0090616797300970813
+                            }, 
+                            {
+                                "A3": -0.02287837451841368
+                            }, 
+                            {
+                                "A2": -0.00046915451425056862
+                            }, 
+                            {
+                                "NONE": 1.7171619604541639
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "melting is the process by which a solid changes state into a liquid.", 
+                "sentenceId": 528, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "a solid changes", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.08936156651313526
+                            }, 
+                            {
+                                "A0": 0.4256563736692533
+                            }, 
+                            {
+                                "A3": -0.0079914094286132678
+                            }, 
+                            {
+                                "A2": -0.008805041702311155
+                            }, 
+                            {
+                                "NONE": 1.1921053707848714
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "melting is caused by quantum exchanges of molecules.", 
+                "sentenceId": 49, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "quantum exchanges of molecules", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.73568950845632974
+                            }, 
+                            {
+                                "A0": -0.010825776694335933
+                            }, 
+                            {
+                                "A3": -0.010609868607781028
+                            }, 
+                            {
+                                "A2": -0.011534535215205474
+                            }, 
+                            {
+                                "NONE": 1.1436390381013342
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "metal melting is the process of producing a liquid metal of the required composition at the required rate, and with the required amount of superheat while...", 
+                "sentenceId": 165, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "producing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.020664159406935473
+                            }, 
+                            {
+                                "A0": -0.023668801020657004
+                            }, 
+                            {
+                                "A3": -0.02888274099459541
+                            }, 
+                            {
+                                "A2": 0.64066662091138371
+                            }, 
+                            {
+                                "NONE": 1.0191959848687386
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "ice-melting is the process of placing a short circuit at one end of a sub-transmission line, essentially turning the line into a heating element which melts the ice.", 
+                "sentenceId": 526, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "placing", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018034197481081687
+                            }, 
+                            {
+                                "A0": -0.024164781098860128
+                            }, 
+                            {
+                                "A3": -0.024268180701264429
+                            }, 
+                            {
+                                "A2": 0.70160588518926381
+                            }, 
+                            {
+                                "NONE": 0.87051262074633318
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "melting is the process of converting raw material in to molten metal.", 
+                "sentenceId": 21, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "raw material", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.20057159433978547
+                            }, 
+                            {
+                                "A0": 0.24881711161160269
+                            }, 
+                            {
+                                "A3": 0.23595789804654135
+                            }, 
+                            {
+                                "A2": -0.015402610768200221
+                            }, 
+                            {
+                                "NONE": 0.87293053143635901
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "converting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016762689324276107
+                            }, 
+                            {
+                                "A0": -0.0230667335597542
+                            }, 
+                            {
+                                "A3": -0.027877553598765134
+                            }, 
+                            {
+                                "A2": 0.75062676585538457
+                            }, 
+                            {
+                                "NONE": 0.84959794715881676
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "chemosynthesis", 
+        "sentences": [
+            {
+                "text": "chemosynthesis- chemosynthesis is the ability for creatures to use chemicals from the earth's interior for energy in the place of sunlight.", 
+                "sentenceId": 532, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "ability", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.038356431960683023
+                            }, 
+                            {
+                                "A0": -0.046716143601426181
+                            }, 
+                            {
+                                "A3": -0.018976854243251649
+                            }, 
+                            {
+                                "A2": 0.68454212093983002
+                            }, 
+                            {
+                                "NONE": 0.3619284059586842
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "chemosynthesis is the process of converting inorganic material into food using chemical energy.", 
+                "sentenceId": 82, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "inorganic material", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.15408357241983181
+                            }, 
+                            {
+                                "A0": 0.20459848561953745
+                            }, 
+                            {
+                                "A3": 0.25302482351090327
+                            }, 
+                            {
+                                "A2": 0.05908372468089438
+                            }, 
+                            {
+                                "NONE": 0.017639783279119831
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "converting inorganic material into food using chemical energy", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": -0.02960562659370887
+                            }, 
+                            {
+                                "A0": -0.035060752064134178
+                            }, 
+                            {
+                                "A3": -0.033981102990245322
+                            }, 
+                            {
+                                "A2": 0.77767647881291457
+                            }, 
+                            {
+                                "NONE": 0.023380420130737184
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "using", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.009432996705924436
+                            }, 
+                            {
+                                "A0": -0.018034469316118851
+                            }, 
+                            {
+                                "A3": 0.012981624013330462
+                            }, 
+                            {
+                                "A2": 0.091831401947076091
+                            }, 
+                            {
+                                "NONE": 0.66148205286543704
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "text": "chemical energy", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0070048913378440159
+                            }, 
+                            {
+                                "A0": -0.012404494653855317
+                            }, 
+                            {
+                                "A3": 0.29446368153404345
+                            }, 
+                            {
+                                "A2": 0.026015746674317632
+                            }, 
+                            {
+                                "NONE": 0.44046201853209183
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "food using chemical energy", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018116222283101668
+                            }, 
+                            {
+                                "A0": -0.037525608274801003
+                            }, 
+                            {
+                                "A3": 0.26934256791309774
+                            }, 
+                            {
+                                "A2": 0.057417138700499748
+                            }, 
+                            {
+                                "NONE": 0.41534090491114617
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "converting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.074118141973913726
+                            }, 
+                            {
+                                "A0": -0.079573267444339041
+                            }, 
+                            {
+                                "A3": -0.078493618370450186
+                            }, 
+                            {
+                                "A2": 0.83331712303817063
+                            }, 
+                            {
+                                "NONE": -0.021132095249467679
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "evaporation", 
+        "sentences": [
+            {
+                "text": "the purpose of evaporation is to remove water from the black...", 
+                "sentenceId": 18, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "remove water from the black", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0053041172426001237
+                            }, 
+                            {
+                                "A0": -0.013629065618950498
+                            }, 
+                            {
+                                "A3": 0.64884670600701044
+                            }, 
+                            {
+                                "A2": 0.10017824719330455
+                            }, 
+                            {
+                                "NONE": 1.0237066902868304
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation occurs when liquid water is converted into water vapour.", 
+                "sentenceId": 331, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "when liquid water is converted into water vapour", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0038465210237163053
+                            }, 
+                            {
+                                "A0": -0.020064858510561192
+                            }, 
+                            {
+                                "A3": -0.007921507728916654
+                            }, 
+                            {
+                                "A2": 0.17342841122302546
+                            }, 
+                            {
+                                "NONE": 1.5485549305345923
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "evaporation", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.013031669785684701
+                            }, 
+                            {
+                                "A0": -0.0057465702317458806
+                            }, 
+                            {
+                                "A3": -0.001524635239964477
+                            }, 
+                            {
+                                "A2": 0.30247674898607646
+                            }, 
+                            {
+                                "NONE": 1.4822833022574082
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016027178069762612
+                            }, 
+                            {
+                                "A0": -0.013480177767172771
+                            }, 
+                            {
+                                "A3": 0.0013587142055272571
+                            }, 
+                            {
+                                "A2": -0.0013659104016384184
+                            }, 
+                            {
+                                "NONE": 1.9044787264109775
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A1", 
+                        "text": "liquid water", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.44162957162033389
+                            }, 
+                            {
+                                "A0": 0.1202670526615421
+                            }, 
+                            {
+                                "A3": -0.0047351425350357912
+                            }, 
+                            {
+                                "A2": -0.020790942603156955
+                            }, 
+                            {
+                                "NONE": 1.0906371022494397
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "text": "water vapour", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.31790864310146388
+                            }, 
+                            {
+                                "A0": 0.0026420911884281195
+                            }, 
+                            {
+                                "A3": 0.28736206281551513
+                            }, 
+                            {
+                                "A2": -0.012489075275514724
+                            }, 
+                            {
+                                "NONE": 1.1708896584491515
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "converted", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.00092864110335905137
+                            }, 
+                            {
+                                "A0": -0.016305960700427818
+                            }, 
+                            {
+                                "A3": -0.014238389163124667
+                            }, 
+                            {
+                                "A2": 0.18965825665472574
+                            }, 
+                            {
+                                "NONE": 1.4534994791564393
+                            }
+                        ], 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "the rate of evaporation depends on factors such as the temperature of the concrete...", 
+                "sentenceId": 70, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A1", 
+                        "text": "the temperature of the concrete", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.56811010648197036
+                            }, 
+                            {
+                                "A0": 0.0063428069607310081
+                            }, 
+                            {
+                                "A3": 0.0084962726972833361
+                            }, 
+                            {
+                                "A2": 0.032916493555120427
+                            }, 
+                            {
+                                "NONE": 0.97886033629794655
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is the process by which liquid water changes into water vapor, a gas.", 
+                "sentenceId": 145, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "text": "liquid water changes into water", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.62493516356829004
+                            }, 
+                            {
+                                "A0": -0.011750757588836376
+                            }, 
+                            {
+                                "A3": 0.057935620720901249
+                            }, 
+                            {
+                                "A2": -0.011569246154362731
+                            }, 
+                            {
+                                "NONE": 0.95886922160559795
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A3", 
+                        "text": "vapor", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0084047753932307671
+                            }, 
+                            {
+                                "A0": 0.0043243415032565291
+                            }, 
+                            {
+                                "A3": 0.60031138911859705
+                            }, 
+                            {
+                                "A2": -0.01563521184026611
+                            }, 
+                            {
+                                "NONE": 1.0696654569505206
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "water vapor , a gas", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0084695531989312269
+                            }, 
+                            {
+                                "A0": 0.0038799626898318139
+                            }, 
+                            {
+                                "A3": 0.59557542700832833
+                            }, 
+                            {
+                                "A2": -0.017343781957071321
+                            }, 
+                            {
+                                "NONE": 1.170868584112446
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "NONE", 
+                        "text": "a gas", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.030784400930206592
+                            }, 
+                            {
+                                "A0": 0.22156071502650504
+                            }, 
+                            {
+                                "A3": 0.030524271406159331
+                            }, 
+                            {
+                                "A2": 0.024224189405865813
+                            }, 
+                            {
+                                "NONE": 1.2214065005670223
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation helps to regulate body temperature.", 
+                "sentenceId": 73, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "text": "regulate body temperature", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0091166863209663652
+                            }, 
+                            {
+                                "A0": -0.014449330554311919
+                            }, 
+                            {
+                                "A3": 0.6459835835392207
+                            }, 
+                            {
+                                "A2": -0.001413754563324713
+                            }, 
+                            {
+                                "NONE": 1.1685390055025355
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation occurs when heat from the sun causes water on earth's surface to turn into water vapor.", 
+                "sentenceId": 472, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "text": "causes", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.057654737330748718
+                            }, 
+                            {
+                                "A0": -0.021172214603136515
+                            }, 
+                            {
+                                "A3": 0.0015571079872865135
+                            }, 
+                            {
+                                "A2": 0.28396694124639082
+                            }, 
+                            {
+                                "NONE": 1.1455631504764567
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "evaporation", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.014680062613166938
+                            }, 
+                            {
+                                "A0": -0.0073048376823025441
+                            }, 
+                            {
+                                "A3": -0.0015935948698108243
+                            }, 
+                            {
+                                "A2": 0.30127797692274966
+                            }, 
+                            {
+                                "NONE": 1.4206568599067579
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "text": "turn", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.030835266523727249
+                            }, 
+                            {
+                                "A0": 0.010551581203128439
+                            }, 
+                            {
+                                "A3": 0.20138260124437907
+                            }, 
+                            {
+                                "A2": 0.017533515273858154
+                            }, 
+                            {
+                                "NONE": 0.83432139136544881
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "text": "water", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.17221883399960974
+                            }, 
+                            {
+                                "A0": 0.022360818605016635
+                            }, 
+                            {
+                                "A3": 0.54599761688025217
+                            }, 
+                            {
+                                "A2": -0.027197974987004696
+                            }, 
+                            {
+                                "NONE": 0.60038446075639451
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016537439709277943
+                            }, 
+                            {
+                                "A0": -0.013613324337874998
+                            }, 
+                            {
+                                "A3": 0.0069795338656476399
+                            }, 
+                            {
+                                "A2": 0.01857541703598858
+                            }, 
+                            {
+                                "NONE": 1.7201958495091647
+                            }
+                        ], 
+                        "argId": 7
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "NONE", 
+                        "text": "to turn into water vapor", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.026362310759324294
+                            }, 
+                            {
+                                "A0": 0.0064737612916296403
+                            }, 
+                            {
+                                "A3": 0.20053700807481611
+                            }, 
+                            {
+                                "A2": -0.0072067838996133053
+                            }, 
+                            {
+                                "NONE": 1.2845423090431047
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "on earth 's surface", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.27413147127832627
+                            }, 
+                            {
+                                "A0": 0.056459385004871264
+                            }, 
+                            {
+                                "A3": 0.0015988424492017275
+                            }, 
+                            {
+                                "A2": -0.0090979910439315474
+                            }, 
+                            {
+                                "NONE": 0.94352718653909007
+                            }
+                        ], 
+                        "argId": 9
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "when heat from the sun causes water on earth 's surface to turn into water vapor", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.066104543406757074
+                            }, 
+                            {
+                                "A0": -0.017313519861987328
+                            }, 
+                            {
+                                "A3": -0.0040713111709339087
+                            }, 
+                            {
+                                "A2": 0.27771819609161269
+                            }, 
+                            {
+                                "NONE": 1.0288022160588852
+                            }
+                        ], 
+                        "argId": 8
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "text": "water vapor", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.27149447282997385
+                            }, 
+                            {
+                                "A0": 0.019380313892295727
+                            }, 
+                            {
+                                "A3": 0.31233627199963904
+                            }, 
+                            {
+                                "A2": -0.01448904018162114
+                            }, 
+                            {
+                                "NONE": 0.97674337461249128
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A1", 
+                        "text": "heat from the sun", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.42543284657489716
+                            }, 
+                            {
+                                "A0": 0.21633819432201526
+                            }, 
+                            {
+                                "A3": 0.015357861503787802
+                            }, 
+                            {
+                                "A2": 0.041715193836684331
+                            }, 
+                            {
+                                "NONE": 0.6113231075597686
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "it does its job by using basic forces of nature, a minimum of added energy, and the principles that evaporation causes cooling and that water wants to absorb...", 
+                "sentenceId": 259, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 24, 
+                        "rolePredicted": "A3", 
+                        "text": "cooling and that water wants to absorb", 
+                        "endIdx": 30, 
+                        "probRoles": [
+                            {
+                                "A1": 0.020305683802055618
+                            }, 
+                            {
+                                "A0": -0.0055907067028472691
+                            }, 
+                            {
+                                "A3": 0.6830798505910245
+                            }, 
+                            {
+                                "A2": -0.012753655104359364
+                            }, 
+                            {
+                                "NONE": 1.0849921435782601
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is caused by the impingement of a second sound thermal pulse onto a he iivapor interface.", 
+                "sentenceId": 396, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "the impingement of a second sound thermal pulse", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.74774213387850963
+                            }, 
+                            {
+                                "A0": -0.0040017691585408841
+                            }, 
+                            {
+                                "A3": -0.0068914296928235565
+                            }, 
+                            {
+                                "A2": -0.01123907406799337
+                            }, 
+                            {
+                                "NONE": 0.71431596110377504
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "evaporation", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0064233575631426447
+                            }, 
+                            {
+                                "A0": -0.0057042644401093141
+                            }, 
+                            {
+                                "A3": -0.0095120299619959117
+                            }, 
+                            {
+                                "A2": 0.091337343106343727
+                            }, 
+                            {
+                                "NONE": 1.8543533514188888
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "caused", 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018093124973708418
+                            }, 
+                            {
+                                "A0": -0.024228662122801954
+                            }, 
+                            {
+                                "A3": -0.0082608976261813669
+                            }, 
+                            {
+                                "A2": 0.072357802697423201
+                            }, 
+                            {
+                                "NONE": 2.1726369191129118
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "NONE", 
+                        "text": "the impingement of a second sound thermal pulse onto a he iivapor interface", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.64424180335019343
+                            }, 
+                            {
+                                "A0": 0.0048912387356068211
+                            }, 
+                            {
+                                "A3": 0.0014141618329288948
+                            }, 
+                            {
+                                "A2": -0.014348214981510777
+                            }, 
+                            {
+                                "NONE": 0.7950410386979998
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is the process of returning damp to the atmosphere.", 
+                "sentenceId": 168, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "returning damp to the atmosphere", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0035965115107524058
+                            }, 
+                            {
+                                "A0": -0.014886702475461776
+                            }, 
+                            {
+                                "A3": 0.0078279257456217444
+                            }, 
+                            {
+                                "A2": 0.7240729587527982
+                            }, 
+                            {
+                                "NONE": 0.75186457486835534
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "returning", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0042359048082915522
+                            }, 
+                            {
+                                "A0": -0.011027098649449306
+                            }, 
+                            {
+                                "A3": 0.0088055590413798727
+                            }, 
+                            {
+                                "A2": 0.75161779158528097
+                            }, 
+                            {
+                                "NONE": 0.25643217218632586
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "the atmosphere", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.1098867673387508
+                            }, 
+                            {
+                                "A0": 0.073493532733310607
+                            }, 
+                            {
+                                "A3": 0.0096967175334087274
+                            }, 
+                            {
+                                "A2": -5.678971027714072e-05
+                            }, 
+                            {
+                                "NONE": 1.1857442755080521
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "damp", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.050851815297795644
+                            }, 
+                            {
+                                "A0": 0.32162260574942592
+                            }, 
+                            {
+                                "A3": 0.0525193616119587
+                            }, 
+                            {
+                                "A2": 0.02591885675997815
+                            }, 
+                            {
+                                "NONE": 1.1117176089509277
+                            }
+                        ], 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is the process of removing water from whey.", 
+                "sentenceId": 361, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "water", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.010654619231544333
+                            }, 
+                            {
+                                "A0": 0.37548809802772593
+                            }, 
+                            {
+                                "A3": 0.31438580397687577
+                            }, 
+                            {
+                                "A2": -0.012144252312504857
+                            }, 
+                            {
+                                "NONE": 1.007943448280062
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is the process by which liquid water turns into water vapour through...", 
+                "sentenceId": 267, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "liquid water", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.023986690445973572
+                            }, 
+                            {
+                                "A0": 0.66546965358011367
+                            }, 
+                            {
+                                "A3": 0.03815070831135834
+                            }, 
+                            {
+                                "A2": -0.02472889883516384
+                            }, 
+                            {
+                                "NONE": 1.0762725850512183
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "turns", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0090751403444534855
+                            }, 
+                            {
+                                "A0": -0.01000991588643807
+                            }, 
+                            {
+                                "A3": -0.008940844602446929
+                            }, 
+                            {
+                                "A2": 0.74922789770276077
+                            }, 
+                            {
+                                "NONE": 0.73111603850930529
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "text": "water vapour", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.026278079277550333
+                            }, 
+                            {
+                                "A0": -0.014467318449348492
+                            }, 
+                            {
+                                "A3": 0.6568824221899231
+                            }, 
+                            {
+                                "A2": -0.01509415920468603
+                            }, 
+                            {
+                                "NONE": 1.3388386798328498
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the evaporation is caused by a transfer of heat from the air to the water.", 
+                "sentenceId": 143, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "text": "a transfer of heat from the air to the water", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.74246272803265867
+                            }, 
+                            {
+                                "A0": -0.011902711191778662
+                            }, 
+                            {
+                                "A3": 0.0027795211988661823
+                            }, 
+                            {
+                                "A2": -0.0003875501798786922
+                            }, 
+                            {
+                                "NONE": 0.91523311110728855
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is the process of converting water into water vapor through...", 
+                "sentenceId": 302, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "converting water into water vapor", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0074834988117086203
+                            }, 
+                            {
+                                "A0": -0.015526996089110831
+                            }, 
+                            {
+                                "A3": -0.0070167783585702442
+                            }, 
+                            {
+                                "A2": 0.67036559585344002
+                            }, 
+                            {
+                                "NONE": 1.0142731164774377
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "converting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016528614170607029
+                            }, 
+                            {
+                                "A0": -0.018273384263678229
+                            }, 
+                            {
+                                "A3": -0.01506561665808376
+                            }, 
+                            {
+                                "A2": 0.69820376546915208
+                            }, 
+                            {
+                                "NONE": 0.99274094632289567
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "text": "water vapor", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.030452750343637432
+                            }, 
+                            {
+                                "A0": 0.0085332339459884866
+                            }, 
+                            {
+                                "A3": 0.52940697859294761
+                            }, 
+                            {
+                                "A2": -0.021581219553034582
+                            }, 
+                            {
+                                "NONE": 1.5704178870751555
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "water", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.074281605074470153
+                            }, 
+                            {
+                                "A0": 0.41143524435922119
+                            }, 
+                            {
+                                "A3": 0.22511232968189471
+                            }, 
+                            {
+                                "A2": -0.01324701592362483
+                            }, 
+                            {
+                                "NONE": 0.95053458867593721
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is the process of vaporizing the water from a solution to produce concentrated product.", 
+                "sentenceId": 461, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "the water", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.029745474857715247
+                            }, 
+                            {
+                                "A0": 0.62013281938752884
+                            }, 
+                            {
+                                "A3": 0.02550255373392191
+                            }, 
+                            {
+                                "A2": -0.0045409219367267759
+                            }, 
+                            {
+                                "NONE": 0.8313859353546551
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "vaporizing", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0069406188076949343
+                            }, 
+                            {
+                                "A0": -0.014813488681101612
+                            }, 
+                            {
+                                "A3": -0.0069399941221918587
+                            }, 
+                            {
+                                "A2": 0.72226735809602494
+                            }, 
+                            {
+                                "NONE": 0.57154973166279976
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "evaporation is caused by heat, the energy of molecules in motion.", 
+                "sentenceId": 484, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "heat", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.75457484832498856
+                            }, 
+                            {
+                                "A0": -0.010162269393000757
+                            }, 
+                            {
+                                "A3": 0.00068714456280198621
+                            }, 
+                            {
+                                "A2": -0.026330792610965582
+                            }, 
+                            {
+                                "NONE": 1.0788043295056018
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "asexual_reproduction", 
+        "sentences": [
+            {
+                "text": "asexual reproduction is the process of reproducing cells or organisms without the union of separate individuals.", 
+                "sentenceId": 104, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "reproducing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.056631225079159436
+                            }, 
+                            {
+                                "A0": -0.059512139006053517
+                            }, 
+                            {
+                                "A3": -0.046664171077533671
+                            }, 
+                            {
+                                "A2": 0.7611854552890881
+                            }, 
+                            {
+                                "NONE": 0.062410070069700889
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "asexual reproduction is the creation of offspring from one parent.", 
+                "sentenceId": 207, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "creation", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.084150567425253245
+                            }, 
+                            {
+                                "A0": -0.087887411826034489
+                            }, 
+                            {
+                                "A3": -0.078068263205121169
+                            }, 
+                            {
+                                "A2": 0.91948777076981281
+                            }, 
+                            {
+                                "NONE": -0.072074665568323926
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "asexual reproduction is the production of offspring by virgin birth or by vegetative reproduction: that is, reproduction without sexual fertilization of eggs (see...", 
+                "sentenceId": 217, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "production", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.075824666325067042
+                            }, 
+                            {
+                                "A0": -0.080858264342079475
+                            }, 
+                            {
+                                "A3": -0.074762509251103795
+                            }, 
+                            {
+                                "A2": 0.87705285014965995
+                            }, 
+                            {
+                                "NONE": -0.031967809391096474
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "asexual reproduction is the formation of new individuals from the cell(s) of a single parent.", 
+                "sentenceId": 303, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "formation", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.077496128748300586
+                            }, 
+                            {
+                                "A0": -0.08106629769583476
+                            }, 
+                            {
+                                "A3": -0.069714234475955122
+                            }, 
+                            {
+                                "A2": 0.90842504716559991
+                            }, 
+                            {
+                                "NONE": -0.067133431428027038
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "asexual reproduction is the formation of an individual from a single parent without the use of sex cells and does not undergo processes such as meoisis.", 
+                "sentenceId": 272, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "formation", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.077201724405767586
+                            }, 
+                            {
+                                "A0": -0.081044868451393498
+                            }, 
+                            {
+                                "A3": -0.076149810581870647
+                            }, 
+                            {
+                                "A2": 0.91292724779319645
+                            }, 
+                            {
+                                "NONE": -0.065515889536682526
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "terracing", 
+        "sentences": [
+            {
+                "text": "the purpose of terracing is to retard and collect water runoff between the terraces.", 
+                "sentenceId": 464, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "retard and collect water runoff between the terraces", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0023556301716753155
+                            }, 
+                            {
+                                "A0": 0.00031597993937048605
+                            }, 
+                            {
+                                "A3": 0.704656073643646
+                            }, 
+                            {
+                                "A2": 0.060171473750158466
+                            }, 
+                            {
+                                "NONE": 0.03250084249514965
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "decomposition", 
+        "sentences": [
+            {
+                "text": "aerobic decomposition is the process of breaking down organic matter in the presence of oxygen.", 
+                "sentenceId": 65, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "breaking down organic matter in the presence of oxygen", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01747335335303174
+                            }, 
+                            {
+                                "A0": -0.01915360420365644
+                            }, 
+                            {
+                                "A3": 0.019107028761146238
+                            }, 
+                            {
+                                "A2": 0.6953428083626263
+                            }, 
+                            {
+                                "NONE": 0.27205628729298392
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "in the presence of oxygen", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.11101635368015669
+                            }, 
+                            {
+                                "A0": 0.063515480573765826
+                            }, 
+                            {
+                                "A3": 0.038584980866862365
+                            }, 
+                            {
+                                "A2": 0.019892245483661176
+                            }, 
+                            {
+                                "NONE": 0.72704187130368991
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A0", 
+                        "text": "organic matter", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.055596050640586633
+                            }, 
+                            {
+                                "A0": 0.55751759401377032
+                            }, 
+                            {
+                                "A3": 0.122696632142795
+                            }, 
+                            {
+                                "A2": -0.0094209933102541513
+                            }, 
+                            {
+                                "NONE": 0.20446269762868177
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "drifting fermentation: controlled decomposition causes zombies to bloat.", 
+                "sentenceId": 13, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "zombies to bloat", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.022500180250680308
+                            }, 
+                            {
+                                "A0": -0.014590813743800252
+                            }, 
+                            {
+                                "A3": 0.62266406124820928
+                            }, 
+                            {
+                                "A2": -0.011065474953259737
+                            }, 
+                            {
+                                "NONE": 0.42499422606083403
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "in general, thermal decomposition causes endothermic peaks and oxidative decomposition...", 
+                "sentenceId": 51, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "endothermic peaks and oxidative decomposition", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.015240845509594224
+                            }, 
+                            {
+                                "A0": -0.01327024090742397
+                            }, 
+                            {
+                                "A3": 0.65201986347658891
+                            }, 
+                            {
+                                "A2": -0.023400627912876712
+                            }, 
+                            {
+                                "NONE": 0.17823056762616585
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "endothermic peaks and oxidative decomposition ...", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.015270604838314838
+                            }, 
+                            {
+                                "A0": -0.012876925620008294
+                            }, 
+                            {
+                                "A3": 0.65093533745948062
+                            }, 
+                            {
+                                "A2": -0.022670545000590781
+                            }, 
+                            {
+                                "NONE": 0.17786924197112353
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "in general", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01869318099619529
+                            }, 
+                            {
+                                "A0": -0.0040049317373231953
+                            }, 
+                            {
+                                "A3": 0.14017994220892874
+                            }, 
+                            {
+                                "A2": 0.0021601955372472382
+                            }, 
+                            {
+                                "NONE": 0.7051515872561368
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "thermal decomposition", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0046789212148933869
+                            }, 
+                            {
+                                "A0": -0.011746661722765141
+                            }, 
+                            {
+                                "A3": 0.066604309929378797
+                            }, 
+                            {
+                                "A2": 0.038584588534851784
+                            }, 
+                            {
+                                "NONE": 0.70596417460437677
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "causes", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0078545089440123662
+                            }, 
+                            {
+                                "A0": -0.0044760011685133824
+                            }, 
+                            {
+                                "A3": 0.021199062183877692
+                            }, 
+                            {
+                                "A2": 0.0077883985053100024
+                            }, 
+                            {
+                                "NONE": 0.77599295990024941
+                            }
+                        ], 
+                        "argId": 4
+                    }
+                ]
+            }, 
+            {
+                "text": "reduced indole-3-acetic add decomposition causes enhanced growth of plums.", 
+                "sentenceId": 213, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "text": "enhanced growth of plums", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.019407347036945095
+                            }, 
+                            {
+                                "A0": -0.021154726564120409
+                            }, 
+                            {
+                                "A3": 0.70267588656135593
+                            }, 
+                            {
+                                "A2": -0.01158093192071763
+                            }, 
+                            {
+                                "NONE": 0.33036917078910372
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this decomposition causes a faster decay of.", 
+                "sentenceId": 161, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "text": "a faster decay of .", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.015362424439521172
+                            }, 
+                            {
+                                "A0": -0.0053951617997372199
+                            }, 
+                            {
+                                "A3": 0.69486342584575567
+                            }, 
+                            {
+                                "A2": -0.012722276015965107
+                            }, 
+                            {
+                                "NONE": 0.33898392848443631
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "described how a lack of decomposition causes rotting of dead organisms.", 
+                "sentenceId": 243, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "text": "rotting of dead organisms", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.023246714424285681
+                            }, 
+                            {
+                                "A0": -0.01871547258337896
+                            }, 
+                            {
+                                "A3": 0.58654430296044113
+                            }, 
+                            {
+                                "A2": 0.023314469002466358
+                            }, 
+                            {
+                                "NONE": 0.45118353715110915
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "decomposition is the process by which a material is broken down into simpler parts.", 
+                "sentenceId": 479, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "a material", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.017463853425128833
+                            }, 
+                            {
+                                "A0": 0.42289526416103523
+                            }, 
+                            {
+                                "A3": 0.018727683161044974
+                            }, 
+                            {
+                                "A2": -0.011390742283154769
+                            }, 
+                            {
+                                "NONE": 0.55008253765644444
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "broken", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.020391388786786355
+                            }, 
+                            {
+                                "A0": -0.018440162653596773
+                            }, 
+                            {
+                                "A3": -0.0025076938455835212
+                            }, 
+                            {
+                                "A2": 0.7835838634444694
+                            }, 
+                            {
+                                "NONE": 0.10995511818507264
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A3", 
+                        "text": "simpler parts", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0071117482032406892
+                            }, 
+                            {
+                                "A0": -0.0051458000545397363
+                            }, 
+                            {
+                                "A3": 0.67619479649018099
+                            }, 
+                            {
+                                "A2": -0.018115383623225095
+                            }, 
+                            {
+                                "NONE": 0.33883374116828602
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "in the minerotrophic peat, decomposition causes strong decay of both polysaccharides and lignins.", 
+                "sentenceId": 78, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "text": "strong decay of both polysaccharides and lignins .", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.047495180849941344
+                            }, 
+                            {
+                                "A0": -0.020493095646793455
+                            }, 
+                            {
+                                "A3": 0.70466051626226744
+                            }, 
+                            {
+                                "A2": -0.025713037380894675
+                            }, 
+                            {
+                                "NONE": 0.364749661837943
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "decomposition is the process by which organic substances are broken down into a much simpler form of matter.", 
+                "sentenceId": 471, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "broken", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.019907941681862412
+                            }, 
+                            {
+                                "A0": -0.014031108131666787
+                            }, 
+                            {
+                                "A3": -0.004757417417591032
+                            }, 
+                            {
+                                "A2": 0.76855929066039042
+                            }, 
+                            {
+                                "NONE": 0.12508750959660658
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A3", 
+                        "text": "a much simpler form of matter", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.060783007291360519
+                            }, 
+                            {
+                                "A0": -0.0019241586440310512
+                            }, 
+                            {
+                                "A3": 0.63755705924568107
+                            }, 
+                            {
+                                "A2": -0.019661003209419638
+                            }, 
+                            {
+                                "NONE": 0.31860611594215477
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "forensic pathologists have long recognised that the process of decomposition causes gas formation.", 
+                "sentenceId": 450, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A3", 
+                        "text": "gas formation", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0024683870185739504
+                            }, 
+                            {
+                                "A0": -0.0051463670081276216
+                            }, 
+                            {
+                                "A3": 0.69768077345697443
+                            }, 
+                            {
+                                "A2": 0.0070778695366271356
+                            }, 
+                            {
+                                "NONE": 0.23337002222119152
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "decomposition is the process of dividing the work in smaller parts, where all or some of them could be executed in parallel.", 
+                "sentenceId": 313, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "dividing", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.012960551827365954
+                            }, 
+                            {
+                                "A0": -0.01392496537117884
+                            }, 
+                            {
+                                "A3": -0.0032336596915508668
+                            }, 
+                            {
+                                "A2": 0.69965436530796155
+                            }, 
+                            {
+                                "NONE": 0.18372005962867438
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "osmosis", 
+        "sentences": [
+            {
+                "text": "reverse osmosis is the process of forcing a solvent from a region of high solute concentration through a membrane to a region of low solute concentration by...", 
+                "sentenceId": 69, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "forcing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.041798092126809551
+                            }, 
+                            {
+                                "A0": -0.046471460409494965
+                            }, 
+                            {
+                                "A3": -0.043368037438861667
+                            }, 
+                            {
+                                "A2": 0.84805420950314991
+                            }, 
+                            {
+                                "NONE": 0.15116566896677924
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "osmosis causes bacteria to swell and die.", 
+                "sentenceId": 39, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "A3", 
+                        "text": "bacteria to swell and die .", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.010618393676821663
+                            }, 
+                            {
+                                "A0": -0.0015426161500633508
+                            }, 
+                            {
+                                "A3": 0.5053947652869909
+                            }, 
+                            {
+                                "A2": -0.00097968020226697761
+                            }, 
+                            {
+                                "NONE": 0.70186119549707027
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "osmosis causes the stronger solution to become more diluted and tends to equalize the opposing solutions.", 
+                "sentenceId": 0, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "the stronger solution to become more diluted and tends to equalize the opposing solutions .", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.087447995738458378
+                            }, 
+                            {
+                                "A0": 0.072902551993082126
+                            }, 
+                            {
+                                "A3": 0.035286243529363673
+                            }, 
+                            {
+                                "A2": 0.00064904405213425664
+                            }, 
+                            {
+                                "NONE": 0.88088606641948508
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "formally, reverse osmosis is the process of forcing a solvent from a region of high solute concentration through a semipermeable membrane to a region of low...", 
+                "sentenceId": 452, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "forcing", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.039931116266965196
+                            }, 
+                            {
+                                "A0": -0.046707347970062936
+                            }, 
+                            {
+                                "A3": -0.040839081921861795
+                            }, 
+                            {
+                                "A2": 0.84753243621527286
+                            }, 
+                            {
+                                "NONE": 0.14752739843838006
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reverse osmosis is the process of forcing a fluid through a membrane, separating the fluid from the particles too large to pass.", 
+                "sentenceId": 382, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "forcing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.04198364612074091
+                            }, 
+                            {
+                                "A0": -0.046658524830376677
+                            }, 
+                            {
+                                "A3": -0.045466482922205551
+                            }, 
+                            {
+                                "A2": 0.76191054336906117
+                            }, 
+                            {
+                                "NONE": 0.23978039899902498
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reverse osmosis is the process of forcing a solvent...", 
+                "sentenceId": 286, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "forcing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.043049901099044122
+                            }, 
+                            {
+                                "A0": -0.045646423222316754
+                            }, 
+                            {
+                                "A3": -0.04272680000290701
+                            }, 
+                            {
+                                "A2": 0.72430034332273407
+                            }, 
+                            {
+                                "NONE": 0.27470506949629681
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reverse osmosis is the process of forcing a solvent from a region of high solute concentration through a semipermeable membrane to a region of low solute...", 
+                "sentenceId": 90, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "text": "through a semipermeable membrane", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.2883262772713619
+                            }, 
+                            {
+                                "A0": 0.05223962486089067
+                            }, 
+                            {
+                                "A3": 0.080626698157640675
+                            }, 
+                            {
+                                "A2": 0.0047202613191914796
+                            }, 
+                            {
+                                "NONE": 0.56641691458496868
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "forcing a solvent from a region of high solute concentration through a semipermeable membrane", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0091265225990802036
+                            }, 
+                            {
+                                "A0": -0.027183088253941189
+                            }, 
+                            {
+                                "A3": -0.0095195531890400475
+                            }, 
+                            {
+                                "A2": 0.78706757254975879
+                            }, 
+                            {
+                                "NONE": 0.13537913233430823
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "a region of high solute concentration", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.061560749461184935
+                            }, 
+                            {
+                                "A0": 0.095068986096014566
+                            }, 
+                            {
+                                "A3": 0.054189924045776119
+                            }, 
+                            {
+                                "A2": 0.028678229453578806
+                            }, 
+                            {
+                                "NONE": 0.67495887729671089
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "forcing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.044294481449653832
+                            }, 
+                            {
+                                "A0": -0.051070713152751572
+                            }, 
+                            {
+                                "A3": -0.045202447104550431
+                            }, 
+                            {
+                                "A2": 0.86254422463243052
+                            }, 
+                            {
+                                "NONE": 0.024829571788339413
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "reverse osmosis: reverse osmosis is the process of removing contaminants by performing osmosis in reverse, pulling water particles through a filter which is...", 
+                "sentenceId": 94, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "removing", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.043439670111449724
+                            }, 
+                            {
+                                "A0": -0.053556524675380662
+                            }, 
+                            {
+                                "A3": -0.024955448866563298
+                            }, 
+                            {
+                                "A2": 0.7918682059159422
+                            }, 
+                            {
+                                "NONE": 0.46726388662750246
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "osmosis is the movement of water across a membrane from an area of low solute concentration to an area of high solute concentration.", 
+                "sentenceId": 378, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "movement", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.035527273220295287
+                            }, 
+                            {
+                                "A0": -0.042518557052304284
+                            }, 
+                            {
+                                "A3": -0.019064418327366755
+                            }, 
+                            {
+                                "A2": 0.82669114630433826
+                            }, 
+                            {
+                                "NONE": 0.26964135044066434
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "with nutrient absorption, osmosis causes ions to move...", 
+                "sentenceId": 17, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "ions to move ...", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.011692537229351842
+                            }, 
+                            {
+                                "A0": -0.012072165685678059
+                            }, 
+                            {
+                                "A3": 0.61999700090878573
+                            }, 
+                            {
+                                "A2": -0.0075694580178517048
+                            }, 
+                            {
+                                "NONE": 0.55268274798717365
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "osmosis is the movement of water through a partially permeable membrane down a concentration gradient from a dilute solution (where there is a high...", 
+                "sentenceId": 9, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "movement", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.027138455771940982
+                            }, 
+                            {
+                                "A0": -0.042154338734322401
+                            }, 
+                            {
+                                "A3": -0.032301191263035517
+                            }, 
+                            {
+                                "A2": 0.76227079035073098
+                            }, 
+                            {
+                                "NONE": 0.33854544356360428
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reverse osmosis is the process of pushing water through a semi-permeable membrane to remove impurities and harmful contaminants.", 
+                "sentenceId": 43, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "text": "impurities", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.022705133937949682
+                            }, 
+                            {
+                                "A0": 0.10087396506118941
+                            }, 
+                            {
+                                "A3": 0.057725935106419754
+                            }, 
+                            {
+                                "A2": 0.045151211591070356
+                            }, 
+                            {
+                                "NONE": 0.73925134034635476
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "NONE", 
+                        "text": "remove", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0074665666807665013
+                            }, 
+                            {
+                                "A0": 0.017355202069352399
+                            }, 
+                            {
+                                "A3": 0.53161065242354011
+                            }, 
+                            {
+                                "A2": 0.10537378515667145
+                            }, 
+                            {
+                                "NONE": 0.17036756146375809
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "NONE", 
+                        "text": "to remove impurities", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0074747175476070817
+                            }, 
+                            {
+                                "A0": 0.017347051202511819
+                            }, 
+                            {
+                                "A3": 0.53588327730940732
+                            }, 
+                            {
+                                "A2": 0.08947627572833812
+                            }, 
+                            {
+                                "NONE": 0.31194180284239864
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "A3", 
+                        "text": "remove impurities", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0085476126476766463
+                            }, 
+                            {
+                                "A0": 0.016274156102442254
+                            }, 
+                            {
+                                "A3": 0.5377222682801952
+                            }, 
+                            {
+                                "A2": 0.088403380628268566
+                            }, 
+                            {
+                                "NONE": 0.31351487047521892
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A1", 
+                        "text": "through a semi-permeable membrane", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.32815172001986592
+                            }, 
+                            {
+                                "A0": 0.035045943274227678
+                            }, 
+                            {
+                                "A3": 0.044390165467289452
+                            }, 
+                            {
+                                "A2": -0.0065612543833203467
+                            }, 
+                            {
+                                "NONE": 0.86726330879630542
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "pushing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.052496593255457608
+                            }, 
+                            {
+                                "A0": -0.060094111259976199
+                            }, 
+                            {
+                                "A3": -0.058724596187886495
+                            }, 
+                            {
+                                "A2": 0.82477993647496572
+                            }, 
+                            {
+                                "NONE": 0.10570248379372624
+                            }
+                        ], 
+                        "argId": 4
+                    }
+                ]
+            }, 
+            {
+                "text": "formally, reverse osmosis is the process of forcing a solvent from a region of high solute concentration through a semi permeable membrane to a region of low...", 
+                "sentenceId": 22, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "forcing", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.039931116266965196
+                            }, 
+                            {
+                                "A0": -0.046707347970062936
+                            }, 
+                            {
+                                "A3": -0.040839081921861795
+                            }, 
+                            {
+                                "A2": 0.84753243621527286
+                            }, 
+                            {
+                                "NONE": 0.14752739843838006
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reverse osmosis is the process of forcing a solvent from a region of high solute concentration through a membrane to a region of low solute...", 
+                "sentenceId": 132, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "forcing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.03951150962330581
+                            }, 
+                            {
+                                "A0": -0.046204547922239665
+                            }, 
+                            {
+                                "A3": -0.044391079825184407
+                            }, 
+                            {
+                                "A2": 0.81832811549818552
+                            }, 
+                            {
+                                "NONE": 0.17936131036730732
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reverse osmosis is the process of separating a solution, water in this particular case, and forcing it through a semi-permeable membrane that filters out...", 
+                "sentenceId": 283, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "separating", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.042659768372950338
+                            }, 
+                            {
+                                "A0": -0.047563545685513901
+                            }, 
+                            {
+                                "A3": -0.047362946533793311
+                            }, 
+                            {
+                                "A2": 0.76007502928370552
+                            }, 
+                            {
+                                "NONE": 0.23857174233510053
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "strip_farming", 
+        "sentences": [
+            {
+                "text": "strip farming is the growing of crops in narrow, systematic strips or bands to reduce soil erosion from wind and water and otherwise improve agricultural...", 
+                "sentenceId": 512, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "growing", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.007795673189508802
+                            }, 
+                            {
+                                "A0": 0.00045445452735018237
+                            }, 
+                            {
+                                "A3": 0.033706404512353176
+                            }, 
+                            {
+                                "A2": 0.5974711445835648
+                            }, 
+                            {
+                                "NONE": 0.16057232318722311
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "crossbreeding", 
+        "sentences": [
+            {
+                "text": "crossbreeding is the process of producing offspring from parents who originate from different species, varieties, or regional...", 
+                "sentenceId": 409, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "producing", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.03492326423947828
+                            }, 
+                            {
+                                "A0": -0.03869258669178028
+                            }, 
+                            {
+                                "A3": -0.037827048839995027
+                            }, 
+                            {
+                                "A2": 0.75216579292034336
+                            }, 
+                            {
+                                "NONE": 0.1957772946269582
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "hey barb and mitchell - crossbreeding is the process of transferring pollen from one cultivar of a plant to another female part of another plant of...", 
+                "sentenceId": 103, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "NONE", 
+                        "text": "one cultivar of a plant to another female part of another plant", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": 0.02962157501417971
+                            }, 
+                            {
+                                "A0": 0.036524865482691612
+                            }, 
+                            {
+                                "A3": 0.0025095382537321104
+                            }, 
+                            {
+                                "A2": 0.043875578707608595
+                            }, 
+                            {
+                                "NONE": 0.66588442383512914
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A2", 
+                        "text": "transferring", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.033587306483773262
+                            }, 
+                            {
+                                "A0": -0.038441265983783904
+                            }, 
+                            {
+                                "A3": -0.036274505182657221
+                            }, 
+                            {
+                                "A2": 0.6822515759905895
+                            }, 
+                            {
+                                "NONE": 0.15063275199559389
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "transferring pollen from one cultivar of a plant to another female part of another plant", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": -0.021992681681559427
+                            }, 
+                            {
+                                "A0": -0.026846641181570065
+                            }, 
+                            {
+                                "A3": -0.024679880380443386
+                            }, 
+                            {
+                                "A2": 0.64523186439540425
+                            }, 
+                            {
+                                "NONE": 0.2141657947737729
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "crossbreeding is the recommended breeding strategy for commercial meat sheep and meat goat production.", 
+                "sentenceId": 184, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "A2", 
+                        "text": "the recommended breeding strategy for commercial meat sheep and meat goat production", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.093577103467455486
+                            }, 
+                            {
+                                "A0": -0.025058675638285819
+                            }, 
+                            {
+                                "A3": -0.0052332807226044172
+                            }, 
+                            {
+                                "A2": 0.3386436859640336
+                            }, 
+                            {
+                                "NONE": 0.44699875473592854
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "recommended", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.019614622755173696
+                            }, 
+                            {
+                                "A0": -0.019748479226607205
+                            }, 
+                            {
+                                "A3": -0.016228712370696494
+                            }, 
+                            {
+                                "A2": 0.39503727921088744
+                            }, 
+                            {
+                                "NONE": 0.48929838610296206
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "chemical_change", 
+        "sentences": [
+            {
+                "text": "another sign of a chemical change is the release or gain of energy by an object.", 
+                "sentenceId": 285, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "release", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.017182830476660409
+                            }, 
+                            {
+                                "A0": -0.027900601115972468
+                            }, 
+                            {
+                                "A3": -0.019490351780285659
+                            }, 
+                            {
+                                "A2": 0.78878535321178112
+                            }, 
+                            {
+                                "NONE": 0.33199708838019754
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the criterion for a chemical change is the production of one or more new substances.", 
+                "sentenceId": 449, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "criterion", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.027910454490317978
+                            }, 
+                            {
+                                "A0": 0.035434722598277256
+                            }, 
+                            {
+                                "A3": -0.015920277828331036
+                            }, 
+                            {
+                                "A2": 0.13377421813023191
+                            }, 
+                            {
+                                "NONE": 0.91861370974715295
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "monitoring ocean chemical change is the promise of mounting chemical sensors on self-reporting ocean floats and gliders.", 
+                "sentenceId": 469, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "mounting", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.014885247966556244
+                            }, 
+                            {
+                                "A0": -0.0022018242240603482
+                            }, 
+                            {
+                                "A3": 0.019364476100914636
+                            }, 
+                            {
+                                "A2": 0.1038227026179137
+                            }, 
+                            {
+                                "NONE": 0.89016431152868125
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "monitoring", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.013995260389368797
+                            }, 
+                            {
+                                "A0": -0.01254787210426777
+                            }, 
+                            {
+                                "A3": -0.0028934747878250847
+                            }, 
+                            {
+                                "A2": 0.37701397181228186
+                            }, 
+                            {
+                                "NONE": 0.61255465354461991
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "monitoring ocean chemical change", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.025505898692452799
+                            }, 
+                            {
+                                "A0": -0.024058510407351772
+                            }, 
+                            {
+                                "A3": -0.010774453782003019
+                            }, 
+                            {
+                                "A2": 0.38150853008042479
+                            }, 
+                            {
+                                "NONE": 0.6911577113928693
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "A2", 
+                        "text": "ocean chemical change", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.22173205553829256
+                            }, 
+                            {
+                                "A0": 0.036852081692467564
+                            }, 
+                            {
+                                "A3": 0.10469876465906797
+                            }, 
+                            {
+                                "A2": 0.26774860740542
+                            }, 
+                            {
+                                "NONE": 0.36192994247748878
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A1", 
+                        "text": "mounting chemical sensors", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.27045065744988572
+                            }, 
+                            {
+                                "A0": -0.020151901265028416
+                            }, 
+                            {
+                                "A3": 0.13590171239347834
+                            }, 
+                            {
+                                "A2": 0.16069065498678067
+                            }, 
+                            {
+                                "NONE": 0.43632018821210417
+                            }
+                        ], 
+                        "argId": 4
+                    }
+                ]
+            }, 
+            {
+                "text": "introduction: chemical change is the process of forming a new substance or substances from...", 
+                "sentenceId": 368, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "forming", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.025307051653898197
+                            }, 
+                            {
+                                "A0": -0.033283360500129575
+                            }, 
+                            {
+                                "A3": -0.023274882484147986
+                            }, 
+                            {
+                                "A2": 0.66654461976967894
+                            }, 
+                            {
+                                "NONE": 0.63869558302180707
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "a new substance", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.14072878940853858
+                            }, 
+                            {
+                                "A0": 0.12128775596491316
+                            }, 
+                            {
+                                "A3": 0.091370899445349082
+                            }, 
+                            {
+                                "A2": 0.020598800484985389
+                            }, 
+                            {
+                                "NONE": 0.72332583123048688
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "an example of a chemical change is the reaction between sodium and water to produce sodium hydroxide and hydrogen.", 
+                "sentenceId": 172, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "text": "produce", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016371895178268269
+                            }, 
+                            {
+                                "A0": -0.019299502434497837
+                            }, 
+                            {
+                                "A3": 0.077433129109534066
+                            }, 
+                            {
+                                "A2": 0.26736158565665691
+                            }, 
+                            {
+                                "NONE": 0.64591641530123411
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "reaction", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018549478975002941
+                            }, 
+                            {
+                                "A0": -0.030594755344023991
+                            }, 
+                            {
+                                "A3": -0.026009057187814474
+                            }, 
+                            {
+                                "A2": 0.78099073502943761
+                            }, 
+                            {
+                                "NONE": 0.27023811691346727
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "A3", 
+                        "text": "sodium hydroxide and hydrogen", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": -0.010601937322033062
+                            }, 
+                            {
+                                "A0": -0.017311387266192808
+                            }, 
+                            {
+                                "A3": 0.41094655780581257
+                            }, 
+                            {
+                                "A2": 0.03508286343080573
+                            }, 
+                            {
+                                "NONE": 0.66196943572432931
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the initiating event for chemical change is the cysl46 sulfur (sy\") nucleophilic attack on c6 of the nucleotide pyrimidine ring.", 
+                "sentenceId": 271, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "initiating", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018590590657904381
+                            }, 
+                            {
+                                "A0": -0.011899504326255396
+                            }, 
+                            {
+                                "A3": -0.0094502801283200093
+                            }, 
+                            {
+                                "A2": 0.19108203221037795
+                            }, 
+                            {
+                                "NONE": 0.92550475030305845
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the initiating event for chemical change", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.13749578601810059
+                            }, 
+                            {
+                                "A0": 0.0021213810415203829
+                            }, 
+                            {
+                                "A3": -0.011130436360650971
+                            }, 
+                            {
+                                "A2": 0.058483682522889553
+                            }, 
+                            {
+                                "NONE": 0.86086512507574442
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "grafting", 
+        "sentences": [
+            {
+                "text": "grafting is the act of joining two plants together.", 
+                "sentenceId": 290, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "joining two plants together", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.022163640231407683
+                            }, 
+                            {
+                                "A0": -0.022422371466714483
+                            }, 
+                            {
+                                "A3": -0.020571177107586543
+                            }, 
+                            {
+                                "A2": 0.69559277495669958
+                            }, 
+                            {
+                                "NONE": 0.11801974442308959
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "two plants together", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.010671252360529668
+                            }, 
+                            {
+                                "A0": 0.54627018229744817
+                            }, 
+                            {
+                                "A3": 0.0099395824816565226
+                            }, 
+                            {
+                                "A2": 0.090635399602759681
+                            }, 
+                            {
+                                "NONE": 0.078302021054594037
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "joining", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.092893951863688748
+                            }, 
+                            {
+                                "A0": -0.093152683098995548
+                            }, 
+                            {
+                                "A3": -0.091301488739867612
+                            }, 
+                            {
+                                "A2": 0.82644385147641952
+                            }, 
+                            {
+                                "NONE": 0.047289432790808522
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of injuring a tree to encourage a better or different growing ...", 
+                "sentenceId": 432, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "injuring", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.077762967541067665
+                            }, 
+                            {
+                                "A0": -0.066599342888530491
+                            }, 
+                            {
+                                "A3": -0.0784567699629347
+                            }, 
+                            {
+                                "A2": 0.81555356511801047
+                            }, 
+                            {
+                                "NONE": 0.077113520124532209
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of combining two plants into one to create a more...", 
+                "sentenceId": 499, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "combining", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.083349076075513021
+                            }, 
+                            {
+                                "A0": -0.067626385279379753
+                            }, 
+                            {
+                                "A3": -0.083086995780476264
+                            }, 
+                            {
+                                "A2": 0.8581773367300698
+                            }, 
+                            {
+                                "NONE": 0.054564138163922707
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of taking a branch from one tree and grafting it on to different tree stock.", 
+                "sentenceId": 405, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "taking", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.067859454237934103
+                            }, 
+                            {
+                                "A0": -0.071948250329035499
+                            }, 
+                            {
+                                "A3": -0.075775004641533819
+                            }, 
+                            {
+                                "A2": 0.85397466596448279
+                            }, 
+                            {
+                                "NONE": 0.022076863676063006
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of connecting two different plants so they grow as one.", 
+                "sentenceId": 337, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "connecting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.080266062806203492
+                            }, 
+                            {
+                                "A0": -0.07081969657369766
+                            }, 
+                            {
+                                "A3": -0.077343733276093937
+                            }, 
+                            {
+                                "A2": 0.8110665320940742
+                            }, 
+                            {
+                                "NONE": 0.10121561708741308
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of adding nodes to inferred decision trees to improve the predictive accuracy.", 
+                "sentenceId": 85, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "adding", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.078716236649263263
+                            }, 
+                            {
+                                "A0": -0.070104214229584252
+                            }, 
+                            {
+                                "A3": -0.072399624991225903
+                            }, 
+                            {
+                                "A2": 0.90375495189358057
+                            }, 
+                            {
+                                "NONE": -0.013306822672483839
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of joining scion wooddormant shoots of last season's growthto a rootstock: the part that supplies the roots, anything from a small,...", 
+                "sentenceId": 126, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "joining", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.081640947456761578
+                            }, 
+                            {
+                                "A0": -0.071030256564140609
+                            }, 
+                            {
+                                "A3": -0.078039613969506372
+                            }, 
+                            {
+                                "A2": 0.80449546666710026
+                            }, 
+                            {
+                                "NONE": 0.093897469029784977
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of combining rootstocks and scions...", 
+                "sentenceId": 196, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "combining", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.083532625205701816
+                            }, 
+                            {
+                                "A0": -0.067309725297847164
+                            }, 
+                            {
+                                "A3": -0.080112112614521447
+                            }, 
+                            {
+                                "A2": 0.81879797998629655
+                            }, 
+                            {
+                                "NONE": 0.090835500890397186
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "grafting is the process of uniting two or more plant parts so that they grow as one.", 
+                "sentenceId": 369, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "uniting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.080088987278749316
+                            }, 
+                            {
+                                "A0": -0.068970472241391842
+                            }, 
+                            {
+                                "A3": -0.076212142550053444
+                            }, 
+                            {
+                                "A2": 0.84107498583538554
+                            }, 
+                            {
+                                "NONE": 0.060221098157261538
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "a: grafting is the process of taking two different trees and combing them into one plant.", 
+                "sentenceId": 55, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "text": "taking", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.071004361696274207
+                            }, 
+                            {
+                                "A0": -0.068951109635102065
+                            }, 
+                            {
+                                "A3": -0.072452461631336007
+                            }, 
+                            {
+                                "A2": 0.81808580956553933
+                            }, 
+                            {
+                                "NONE": 0.054790943829215268
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

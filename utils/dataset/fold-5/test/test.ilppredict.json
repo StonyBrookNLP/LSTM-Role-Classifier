@@ -1,0 +1,2624 @@
+[
+    {
+        "process": "evolution", 
+        "sentences": [
+            {
+                "text": "evolution is the process by which we progress until we emerge into the fullness of our destiny as children of god that all god's children will one day reach his...", 
+                "sentenceId": 363, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "text": "progress", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.040592576535869181
+                            }, 
+                            {
+                                "A0": -0.046878801649060428
+                            }, 
+                            {
+                                "A3": -0.041105703278525377
+                            }, 
+                            {
+                                "A2": 0.7235404476416748
+                            }, 
+                            {
+                                "NONE": 0.5079024463559132
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evolution is the process by which life progresses from one form into another.", 
+                "sentenceId": 326, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "text": "progresses", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.04197809748380367
+                            }, 
+                            {
+                                "A0": -0.044264351661194946
+                            }, 
+                            {
+                                "A3": -0.043598015807043894
+                            }, 
+                            {
+                                "A2": 0.76475873017969043
+                            }, 
+                            {
+                                "NONE": 0.34650732737262624
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "from one form", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.021563909016635893
+                            }, 
+                            {
+                                "A0": 0.08157802004735093
+                            }, 
+                            {
+                                "A3": 0.13197911332491311
+                            }, 
+                            {
+                                "A2": 0.0089921874730522385
+                            }, 
+                            {
+                                "NONE": 0.9202450900818091
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "students should have the understanding that evolution is the process by which life progresses from one form into another.", 
+                "sentenceId": 115, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "students", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.013348004069827325
+                            }, 
+                            {
+                                "A0": 0.0019620227126168829
+                            }, 
+                            {
+                                "A3": 0.011398645694138496
+                            }, 
+                            {
+                                "A2": 0.06322651080504961
+                            }, 
+                            {
+                                "NONE": 0.67801606405410375
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "A2", 
+                        "text": "progresses", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": -0.055975877212597842
+                            }, 
+                            {
+                                "A0": -0.05893025863828899
+                            }, 
+                            {
+                                "A3": -0.059092429810305033
+                            }, 
+                            {
+                                "A2": 0.733499119367087
+                            }, 
+                            {
+                                "NONE": 0.1274930809158257
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "should", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018801514820817589
+                            }, 
+                            {
+                                "A0": -0.013636860782672712
+                            }, 
+                            {
+                                "A3": -0.0069987248969055685
+                            }, 
+                            {
+                                "A2": 0.050177174175903838
+                            }, 
+                            {
+                                "NONE": 0.76543503331143514
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "have", 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": -0.031459131358951994
+                            }, 
+                            {
+                                "A0": -0.03074871157641805
+                            }, 
+                            {
+                                "A3": 0.040500403298571637
+                            }, 
+                            {
+                                "A2": 0.076191165159971833
+                            }, 
+                            {
+                                "NONE": 0.7309947150717091
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "the understanding that evolution is the process by which life progresses from one form into another", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0037900059029688585
+                            }, 
+                            {
+                                "A0": -0.01539764381279592
+                            }, 
+                            {
+                                "A3": 0.042904207991186258
+                            }, 
+                            {
+                                "A2": 0.04496944887865216
+                            }, 
+                            {
+                                "NONE": 0.70276217359204474
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "text": "from one form", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": -0.019594263373889718
+                            }, 
+                            {
+                                "A0": 0.08690203053190762
+                            }, 
+                            {
+                                "A3": -0.0044100834614623774
+                            }, 
+                            {
+                                "A2": 0.023537028833273046
+                            }, 
+                            {
+                                "NONE": 0.74836276301210458
+                            }
+                        ], 
+                        "argId": 5
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "breathing", 
+        "sentences": [
+            {
+                "text": "breathing is the process of getting oxygen into the lungs and carbon dioxide out of the lungs.", 
+                "sentenceId": 392, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "getting oxygen into the lungs and carbon dioxide", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018772460498307986
+                            }, 
+                            {
+                                "A0": -0.025029907180921993
+                            }, 
+                            {
+                                "A3": -0.025619310772071191
+                            }, 
+                            {
+                                "A2": 0.67523751959829659
+                            }, 
+                            {
+                                "NONE": 1.3539120168738086
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "text": "the lungs and carbon dioxide", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0047493575240363725
+                            }, 
+                            {
+                                "A0": -0.00074466199499943417
+                            }, 
+                            {
+                                "A3": 0.49890387552046161
+                            }, 
+                            {
+                                "A2": 0.017696634157224091
+                            }, 
+                            {
+                                "NONE": 1.4123128701509411
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "getting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.034106149965637073
+                            }, 
+                            {
+                                "A0": -0.035521197478503547
+                            }, 
+                            {
+                                "A3": -0.035017685370986096
+                            }, 
+                            {
+                                "A2": 0.73120737140885983
+                            }, 
+                            {
+                                "NONE": 0.80651653609230101
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of transporting oxygen from the atmosphere into the body and the process of eliminating carbon dioxide from the body.", 
+                "sentenceId": 478, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "transporting oxygen from the atmosphere into the body", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": -0.020357649184876765
+                            }, 
+                            {
+                                "A0": -0.027103678253351457
+                            }, 
+                            {
+                                "A3": -0.021687253734950149
+                            }, 
+                            {
+                                "A2": 0.73995807687125648
+                            }, 
+                            {
+                                "NONE": 1.1071523632253069
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 18, 
+                        "rolePredicted": "NONE", 
+                        "text": "eliminating", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018177512308947416
+                            }, 
+                            {
+                                "A0": -0.034522771106107818
+                            }, 
+                            {
+                                "A3": -0.026909763808149717
+                            }, 
+                            {
+                                "A2": 0.63353714196452016
+                            }, 
+                            {
+                                "NONE": 0.9857024600275327
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "text": "carbon dioxide", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.069248902750066288
+                            }, 
+                            {
+                                "A0": 0.033315283544900418
+                            }, 
+                            {
+                                "A3": 0.071234593186789819
+                            }, 
+                            {
+                                "A2": 0.095406610787073312
+                            }, 
+                            {
+                                "NONE": 1.2633398434178131
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "text": "the body", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.06521308634551938
+                            }, 
+                            {
+                                "A0": 0.024026490006677587
+                            }, 
+                            {
+                                "A3": 0.30315393022476128
+                            }, 
+                            {
+                                "A2": 0.0076440694539369573
+                            }, 
+                            {
+                                "NONE": 1.1134072710368175
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "oxygen from the atmosphere", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.02638931339606676
+                            }, 
+                            {
+                                "A0": 0.030415145108893479
+                            }, 
+                            {
+                                "A3": 0.0002017326591227768
+                            }, 
+                            {
+                                "A2": 0.00026566948336819926
+                            }, 
+                            {
+                                "NONE": 1.5792117867940743
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "transporting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.038209977555414637
+                            }, 
+                            {
+                                "A0": -0.039252852369066588
+                            }, 
+                            {
+                                "A3": -0.037735500667863832
+                            }, 
+                            {
+                                "A2": 0.79305015751433028
+                            }, 
+                            {
+                                "NONE": 0.80655269021739828
+                            }
+                        ], 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which animals bring air or water into contact with their.", 
+                "sentenceId": 428, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "text": "bring", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.03413829622683625
+                            }, 
+                            {
+                                "A0": -0.034302959597966781
+                            }, 
+                            {
+                                "A3": -0.023168991495406337
+                            }, 
+                            {
+                                "A2": 0.80527120441813405
+                            }, 
+                            {
+                                "NONE": 0.72435215694427535
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "air or water", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.15269445659712133
+                            }, 
+                            {
+                                "A0": 0.032976933981395881
+                            }, 
+                            {
+                                "A3": 0.15295595702947104
+                            }, 
+                            {
+                                "A2": 0.011352301964947017
+                            }, 
+                            {
+                                "NONE": 1.2592726228057396
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this difficulty in breathing occurs due to reduced pumping ability of the heart causing the return of the blood from the heart to the lungs.", 
+                "sentenceId": 175, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "text": "reduced pumping ability of the heart causing the return of the blood from the heart to the lungs", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": 0.41202064350516715
+                            }, 
+                            {
+                                "A0": -0.017726915380710334
+                            }, 
+                            {
+                                "A3": 0.056814819129513437
+                            }, 
+                            {
+                                "A2": 0.00062656287508536246
+                            }, 
+                            {
+                                "NONE": 1.0578240878864102
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "deeper breathing occurs due to the stretching of the torso allowing for better circulation, resulting in less fatigue.", 
+                "sentenceId": 254, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "the stretching of the torso allowing for better circulation , resulting in less fatigue", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.016647226786975906
+                            }, 
+                            {
+                                "A0": -0.016950360526239584
+                            }, 
+                            {
+                                "A3": -0.0014986416299269112
+                            }, 
+                            {
+                                "A2": 0.052811083044602497
+                            }, 
+                            {
+                                "NONE": 1.5750812420632017
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the work of breathing occurs due to increased rigidity of the conducting tubules, changes in smooth muscle structure, and increased thickness of the mucosal...", 
+                "sentenceId": 264, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "text": "increased rigidity of the conducting tubules", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.4960714261905364
+                            }, 
+                            {
+                                "A0": -0.013173073979539641
+                            }, 
+                            {
+                                "A3": 0.14065334663233423
+                            }, 
+                            {
+                                "A2": -0.012133878428467195
+                            }, 
+                            {
+                                "NONE": 0.85441783402553306
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which oxygen in the air is brought into the lungs and into close contact with the blood, which absorbs it and carries it to all parts of the...", 
+                "sentenceId": 487, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A2", 
+                        "text": "brought", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": -0.034869296192116948
+                            }, 
+                            {
+                                "A0": -0.035171878324901207
+                            }, 
+                            {
+                                "A3": -0.031298352380364429
+                            }, 
+                            {
+                                "A2": 0.81320399567545387
+                            }, 
+                            {
+                                "NONE": 0.75038142441341393
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which air is drawn into the body and waste gases are...", 
+                "sentenceId": 5, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "drawn", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.031499636439865801
+                            }, 
+                            {
+                                "A0": -0.035198458750805572
+                            }, 
+                            {
+                                "A3": -0.031481106242411537
+                            }, 
+                            {
+                                "A2": 0.80442600491109395
+                            }, 
+                            {
+                                "NONE": 0.71215435333933497
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of taking in oxygen to fuel your activity, and there are right and wrong ways to do it.", 
+                "sentenceId": 341, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "taking in", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.032758996858127915
+                            }, 
+                            {
+                                "A0": -0.034664838412275238
+                            }, 
+                            {
+                                "A3": -0.031902503084495028
+                            }, 
+                            {
+                                "A2": 0.73404768330578607
+                            }, 
+                            {
+                                "NONE": 0.86797395427473012
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "trouble breathing occurs due to the weakening of associated muscles, although it is more common when treating the neck bands.", 
+                "sentenceId": 301, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "text": "the weakening of associated muscles", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.69672686100391257
+                            }, 
+                            {
+                                "A0": -0.0094026298124709751
+                            }, 
+                            {
+                                "A3": -0.003530605077027224
+                            }, 
+                            {
+                                "A2": 0.0048112239544466084
+                            }, 
+                            {
+                                "NONE": 0.82918891118734017
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of moving air into and out of the lungs.", 
+                "sentenceId": 500, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "moving air into and out of the lungs", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018570319472486572
+                            }, 
+                            {
+                                "A0": -0.028934961534462702
+                            }, 
+                            {
+                                "A3": -0.024072594326095556
+                            }, 
+                            {
+                                "A2": 0.72285042501245556
+                            }, 
+                            {
+                                "NONE": 1.3562267305336575
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "moving", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.033923321682087004
+                            }, 
+                            {
+                                "A0": -0.039403222266789092
+                            }, 
+                            {
+                                "A3": -0.037663714433414298
+                            }, 
+                            {
+                                "A2": 0.77834921115514444
+                            }, 
+                            {
+                                "NONE": 0.87391051119717134
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which air is drawn into the chest through the nose and mouth ...", 
+                "sentenceId": 328, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "drawn", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.034470559664260443
+                            }, 
+                            {
+                                "A0": -0.037710720723403222
+                            }, 
+                            {
+                                "A3": -0.035509975073436291
+                            }, 
+                            {
+                                "A2": 0.80230267532238853
+                            }, 
+                            {
+                                "NONE": 0.68953784028817589
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A3", 
+                        "text": "into the chest", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.012928004222706339
+                            }, 
+                            {
+                                "A0": -0.0056503927285658472
+                            }, 
+                            {
+                                "A3": 0.63214838840853649
+                            }, 
+                            {
+                                "A2": -0.0045693930887764078
+                            }, 
+                            {
+                                "NONE": 1.2315952370985033
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "NONE", 
+                        "text": "through the nose", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.092721124319208453
+                            }, 
+                            {
+                                "A0": 0.0014864075103475198
+                            }, 
+                            {
+                                "A3": 0.19188564813807307
+                            }, 
+                            {
+                                "A2": 0.062310530485937904
+                            }, 
+                            {
+                                "NONE": 1.493417191377433
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "air", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.067000345784368004
+                            }, 
+                            {
+                                "A0": 0.15165005051376917
+                            }, 
+                            {
+                                "A3": -0.017794911345475506
+                            }, 
+                            {
+                                "A2": 0.02236417929382014
+                            }, 
+                            {
+                                "NONE": 1.3488092846598638
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "did you know that co2 is necessary for breathing to...", 
+                "sentenceId": 319, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "co2", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.65886290397129021
+                            }, 
+                            {
+                                "A0": 0.021815725699007842
+                            }, 
+                            {
+                                "A3": -0.0093263232077335813
+                            }, 
+                            {
+                                "A2": 0.0065578654534177473
+                            }, 
+                            {
+                                "NONE": 0.84906962665536467
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of taking in this vital energy and removing the waste products out of our body and mind.", 
+                "sentenceId": 121, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "taking in this vital energy and removing the waste products out of our body and mind", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016666978913446664
+                            }, 
+                            {
+                                "A0": -0.03103328188592084
+                            }, 
+                            {
+                                "A3": -0.01967745175683237
+                            }, 
+                            {
+                                "A2": 0.67006821287067853
+                            }, 
+                            {
+                                "NONE": 1.1135453301175542
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "text": "of our body and mind", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.056830537528774004
+                            }, 
+                            {
+                                "A0": -0.0028503343984352218
+                            }, 
+                            {
+                                "A3": 0.0038794628415004979
+                            }, 
+                            {
+                                "A2": 0.27731041767362691
+                            }, 
+                            {
+                                "NONE": 1.2484892689874978
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "and removing the waste products out of our body and mind", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0088549140318497973
+                            }, 
+                            {
+                                "A0": -0.021603110768885717
+                            }, 
+                            {
+                                "A3": -0.0046897605365341967
+                            }, 
+                            {
+                                "A2": 0.30013919675470918
+                            }, 
+                            {
+                                "NONE": 1.2507323009518929
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "text": "removing", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": -0.010524645549600061
+                            }, 
+                            {
+                                "A0": -0.016647397170314285
+                            }, 
+                            {
+                                "A3": -0.0018534682867557863
+                            }, 
+                            {
+                                "A2": 0.30601396427116062
+                            }, 
+                            {
+                                "NONE": 1.1327508744417423
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "NONE", 
+                        "text": "the waste products", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.037403770613584145
+                            }, 
+                            {
+                                "A0": 0.063167791136491486
+                            }, 
+                            {
+                                "A3": 0.021957022506994318
+                            }, 
+                            {
+                                "A2": 0.038009239609853515
+                            }, 
+                            {
+                                "NONE": 1.329640928318746
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "text": "this vital energy", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.013037247126257513
+                            }, 
+                            {
+                                "A0": 0.42405485398330084
+                            }, 
+                            {
+                                "A3": 0.056908066787823439
+                            }, 
+                            {
+                                "A2": -0.018227464471538394
+                            }, 
+                            {
+                                "NONE": 1.171189499480163
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "taking in", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.035258515041206043
+                            }, 
+                            {
+                                "A0": -0.037990645888038944
+                            }, 
+                            {
+                                "A3": -0.034945193058024127
+                            }, 
+                            {
+                                "A2": 0.72895019230715663
+                            }, 
+                            {
+                                "NONE": 0.64490719239162853
+                            }
+                        ], 
+                        "argId": 4
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of inhaling air through the nose or mouth.", 
+                "sentenceId": 520, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "the nose or mouth", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.13383587742769643
+                            }, 
+                            {
+                                "A0": -0.0033979296400610953
+                            }, 
+                            {
+                                "A3": 0.01134162311366806
+                            }, 
+                            {
+                                "A2": 0.048008522840174053
+                            }, 
+                            {
+                                "NONE": 1.5219355246408184
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "friction", 
+        "sentences": [
+            {
+                "text": "friction is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other.", 
+                "sentenceId": 385, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "force", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.077334527962396468
+                            }, 
+                            {
+                                "A0": -0.083091067343762384
+                            }, 
+                            {
+                                "A3": -0.075828068102585272
+                            }, 
+                            {
+                                "A2": 0.85776138467152041
+                            }, 
+                            {
+                                "NONE": -0.029896548906095353
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "friction is the resistance to motion of one object moving against another.", 
+                "sentenceId": 234, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "resistance", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.084070767418508136
+                            }, 
+                            {
+                                "A0": -0.088693280536918537
+                            }, 
+                            {
+                                "A3": -0.068544533725262202
+                            }, 
+                            {
+                                "A2": 0.8919914929828886
+                            }, 
+                            {
+                                "NONE": -0.072905133524421767
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "friction is the force that opposes the motion of an object.", 
+                "sentenceId": 407, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "force", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.078736036975759663
+                            }, 
+                            {
+                                "A0": -0.082902469726969311
+                            }, 
+                            {
+                                "A3": -0.071079443312222837
+                            }, 
+                            {
+                                "A2": 0.83495500122774635
+                            }, 
+                            {
+                                "NONE": -0.010625878856113727
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "hibernation", 
+        "sentences": [
+            {
+                "text": "hibernation is caused by several things.", 
+                "sentenceId": 426, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "several things", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.71501910894892284
+                            }, 
+                            {
+                                "A0": -0.022689754301799744
+                            }, 
+                            {
+                                "A3": -0.0087662869068700182
+                            }, 
+                            {
+                                "A2": -0.028805878070959003
+                            }, 
+                            {
+                                "NONE": 0.8168189546279282
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation is caused by cold, winter conditions.", 
+                "sentenceId": 402, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "cold , winter conditions", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.46820138211604684
+                            }, 
+                            {
+                                "A0": -0.012583910653203533
+                            }, 
+                            {
+                                "A3": 0.007947365156679289
+                            }, 
+                            {
+                                "A2": -0.024025755365001213
+                            }, 
+                            {
+                                "NONE": 1.3129511402824465
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the occurrence of sleep, shallow torpor and hibernation depends on factors such as the environmental temperature, amounts of body fat, extemal.", 
+                "sentenceId": 451, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "depends", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.023014715704011309
+                            }, 
+                            {
+                                "A0": -0.03684916342846814
+                            }, 
+                            {
+                                "A3": -0.013713613099716186
+                            }, 
+                            {
+                                "A2": 0.15445131288752634
+                            }, 
+                            {
+                                "NONE": 1.5910791677035709
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "text": "factors such as the environmental temperature , amounts of body fat , extemal", 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "A1": 0.11861902438506584
+                            }, 
+                            {
+                                "A0": 0.072389477437769495
+                            }, 
+                            {
+                                "A3": 0.01449256425361228
+                            }, 
+                            {
+                                "A2": 0.061524315542123446
+                            }, 
+                            {
+                                "NONE": 1.1073906057062957
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the occurrence of sleep , shallow torpor and hibernation", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.03053451009529877
+                            }, 
+                            {
+                                "A0": -0.0068748350898702529
+                            }, 
+                            {
+                                "A3": 0.013696085174570619
+                            }, 
+                            {
+                                "A2": 0.0083129571218979181
+                            }, 
+                            {
+                                "NONE": 1.5763809803229716
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "A1", 
+                        "text": "the environmental temperature", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.52478680767271324
+                            }, 
+                            {
+                                "A0": -0.021551940937344888
+                            }, 
+                            {
+                                "A3": 0.011642507550051574
+                            }, 
+                            {
+                                "A2": -0.029939743256722488
+                            }, 
+                            {
+                                "NONE": 0.90288429209191434
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of hibernation is to conserve energy during a period when sufficient food is scarce.", 
+                "sentenceId": 225, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "conserve energy during a period when sufficient food is scarce", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0053650001037402082
+                            }, 
+                            {
+                                "A0": -0.029531393380139246
+                            }, 
+                            {
+                                "A3": 0.68335338764885434
+                            }, 
+                            {
+                                "A2": 0.053983727520547281
+                            }, 
+                            {
+                                "NONE": 0.67761445574736567
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation occurs when the insects are maintained under autumn conditions.", 
+                "sentenceId": 124, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "when the insects are maintained under autumn conditions", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.013718801801227436
+                            }, 
+                            {
+                                "A0": -0.034559378270845487
+                            }, 
+                            {
+                                "A3": -0.017963228046242879
+                            }, 
+                            {
+                                "A2": 0.068902883400108417
+                            }, 
+                            {
+                                "NONE": 1.2091024313905825
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "hibernation", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0078073480980816951
+                            }, 
+                            {
+                                "A0": -0.02020374087611921
+                            }, 
+                            {
+                                "A3": -0.018296014155588503
+                            }, 
+                            {
+                                "A2": 0.34247858041690232
+                            }, 
+                            {
+                                "NONE": 1.0814465957885278
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0045993467624351313
+                            }, 
+                            {
+                                "A0": -0.036268487131712525
+                            }, 
+                            {
+                                "A3": -0.022880476960871889
+                            }, 
+                            {
+                                "A2": -0.022423223116313978
+                            }, 
+                            {
+                                "NONE": 1.4098159600423124
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "the insects", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.094050634614009629
+                            }, 
+                            {
+                                "A0": 0.26388470713145434
+                            }, 
+                            {
+                                "A3": -0.024181831528670424
+                            }, 
+                            {
+                                "A2": -0.0055762273527745244
+                            }, 
+                            {
+                                "NONE": 0.91599652044537083
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "text": "under autumn conditions", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.26188213462938337
+                            }, 
+                            {
+                                "A0": -0.02107317803727362
+                            }, 
+                            {
+                                "A3": 0.011511146612258848
+                            }, 
+                            {
+                                "A2": -0.013524081978132735
+                            }, 
+                            {
+                                "NONE": 0.90750961849869771
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "maintained", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0046819798767657392
+                            }, 
+                            {
+                                "A0": -0.025242858760479474
+                            }, 
+                            {
+                                "A3": -0.018469639257218208
+                            }, 
+                            {
+                                "A2": 0.078219402910474425
+                            }, 
+                            {
+                                "NONE": 1.2302023248648015
+                            }
+                        ], 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "animals put on fat which is necessary for hibernation.", 
+                "sentenceId": 390, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "put", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.013946291913790014
+                            }, 
+                            {
+                                "A0": -0.040777360070934611
+                            }, 
+                            {
+                                "A3": -0.025457148278258231
+                            }, 
+                            {
+                                "A2": 0.13191494523323966
+                            }, 
+                            {
+                                "NONE": 1.5465541485767869
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "fat", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.3173536598283086
+                            }, 
+                            {
+                                "A0": -0.025988660763186386
+                            }, 
+                            {
+                                "A3": -0.0034384883654939961
+                            }, 
+                            {
+                                "A2": -0.024303355461969933
+                            }, 
+                            {
+                                "NONE": 1.3320293743223526
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "animals put on fat which is necessary for hibernation", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0028844519217654102
+                            }, 
+                            {
+                                "A0": -0.04392311640259107
+                            }, 
+                            {
+                                "A3": -0.012317885706963124
+                            }, 
+                            {
+                                "A2": 0.12876918890158318
+                            }, 
+                            {
+                                "NONE": 1.5532208444949196
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "impaired muscle regeneration in hibernation is caused by inhibition of satellite cell activation and myoblast differentiation.", 
+                "sentenceId": 522, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A1", 
+                        "text": "inhibition of satellite cell activation and myoblast differentiation", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.72306248973432308
+                            }, 
+                            {
+                                "A0": -0.026522729824501556
+                            }, 
+                            {
+                                "A3": -0.003337570396425061
+                            }, 
+                            {
+                                "A2": -0.017013883829053091
+                            }, 
+                            {
+                                "NONE": 0.72532764877224998
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of hibernation is to escape the need to burn too much fuel to stay alive during a cold spell when adequate food is not available.", 
+                "sentenceId": 189, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "escape the need to burn too much fuel to stay alive during a cold spell when adequate food is not available", 
+                        "endIdx": 27, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0094498412380526059
+                            }, 
+                            {
+                                "A0": -0.035211742884641607
+                            }, 
+                            {
+                                "A3": 0.70952374528101969
+                            }, 
+                            {
+                                "A2": 0.0021924006656094744
+                            }, 
+                            {
+                                "NONE": 0.85727783198523433
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation occurs when an animal needs to conserve energy to get through the food-scare months of winter.", 
+                "sentenceId": 513, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "to conserve energy to get through the food-scare months of winter", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0057853821807036417
+                            }, 
+                            {
+                                "A0": -0.039670800529243745
+                            }, 
+                            {
+                                "A3": 0.12985067760274055
+                            }, 
+                            {
+                                "A2": 0.18622509239182952
+                            }, 
+                            {
+                                "NONE": 1.3872274428980307
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation is caused by daylight and temperature.", 
+                "sentenceId": 140, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "daylight and temperature", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.76814188349827095
+                            }, 
+                            {
+                                "A0": -0.026574869996585974
+                            }, 
+                            {
+                                "A3": -0.018429609107963211
+                            }, 
+                            {
+                                "A2": -0.026950698741075474
+                            }, 
+                            {
+                                "NONE": 0.78050330654830891
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "reproduction", 
+        "sentences": [
+            {
+                "text": "reproduction is the process of making offspring.", 
+                "sentenceId": 395, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "making", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.056783207243818364
+                            }, 
+                            {
+                                "A0": -0.057742458805889761
+                            }, 
+                            {
+                                "A3": -0.037871304252643123
+                            }, 
+                            {
+                                "A2": 0.79771356769968293
+                            }, 
+                            {
+                                "NONE": 0.13390462342022175
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of creating serial homologues of whole animals, and it shouldn't surprise us that the process also occurs on a smaller scale.", 
+                "sentenceId": 155, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "creating", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.057306620997536438
+                            }, 
+                            {
+                                "A0": -0.057209889259750096
+                            }, 
+                            {
+                                "A3": -0.023838294304361546
+                            }, 
+                            {
+                                "A2": 0.72474967866994078
+                            }, 
+                            {
+                                "NONE": 0.14815815619470732
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of reproduction is to propagate...", 
+                "sentenceId": 442, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the purpose of reproduction", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.04689847717896975
+                            }, 
+                            {
+                                "A0": -0.00354426330377949
+                            }, 
+                            {
+                                "A3": 0.066449889222732261
+                            }, 
+                            {
+                                "A2": 0.048121819795632549
+                            }, 
+                            {
+                                "NONE": 0.6295420787826459
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "propagate", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.032224800438855443
+                            }, 
+                            {
+                                "A0": -0.034580434375439395
+                            }, 
+                            {
+                                "A3": 0.70682611177619381
+                            }, 
+                            {
+                                "A2": 0.075558140491924095
+                            }, 
+                            {
+                                "NONE": 0.0065094044810220658
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of producing new life.", 
+                "sentenceId": 53, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "new life", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.017909923091589921
+                            }, 
+                            {
+                                "A0": 0.10899169334117841
+                            }, 
+                            {
+                                "A3": 0.62496128644738258
+                            }, 
+                            {
+                                "A2": 0.0097419817771669266
+                            }, 
+                            {
+                                "NONE": 0.059708805818809073
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "producing", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.072973196633422485
+                            }, 
+                            {
+                                "A0": -0.073907444589252386
+                            }, 
+                            {
+                                "A3": -0.049809526158060301
+                            }, 
+                            {
+                                "A2": 0.77006613723271344
+                            }, 
+                            {
+                                "NONE": 0.10600480112304818
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "producing new life", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.022928990284222506
+                            }, 
+                            {
+                                "A0": -0.023863238240052403
+                            }, 
+                            {
+                                "A3": -0.022753210965324323
+                            }, 
+                            {
+                                "A2": 0.70596105786765739
+                            }, 
+                            {
+                                "NONE": 0.14504007890076817
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of generating offspring.", 
+                "sentenceId": 497, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "generating", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.058621521445388625
+                            }, 
+                            {
+                                "A0": -0.059639702437731715
+                            }, 
+                            {
+                                "A3": -0.038071398137127024
+                            }, 
+                            {
+                                "A2": 0.74631883838735413
+                            }, 
+                            {
+                                "NONE": 0.19926660951070144
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of making a new organism, as in parents producing offspring.", 
+                "sentenceId": 131, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "making", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.056788136534279686
+                            }, 
+                            {
+                                "A0": -0.057753402941639942
+                            }, 
+                            {
+                                "A3": -0.037881320992993205
+                            }, 
+                            {
+                                "A2": 0.78111026035976561
+                            }, 
+                            {
+                                "NONE": 0.1505338209267007
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "weathering", 
+        "sentences": [
+            {
+                "text": "as discussed in the previous section, weathering helps to release toxic and potentially toxic elements as well as mineral dusts into surface environments,...", 
+                "sentenceId": 135, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "text": "release toxic and potentially toxic elements as well as mineral dusts into surface environments ,", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": -0.014653745202700264
+                            }, 
+                            {
+                                "A0": -0.0045674918354014771
+                            }, 
+                            {
+                                "A3": 0.65402939803949667
+                            }, 
+                            {
+                                "A2": -0.002164566577055712
+                            }, 
+                            {
+                                "NONE": 0.17741049105616466
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering is the process by which rocks are turned into smaller rocks and eventually sediment.", 
+                "sentenceId": 438, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "turned", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.026738749092859157
+                            }, 
+                            {
+                                "A0": -0.021232712198427792
+                            }, 
+                            {
+                                "A3": -0.024218904596738214
+                            }, 
+                            {
+                                "A2": 0.82010442578880549
+                            }, 
+                            {
+                                "NONE": -0.011519731077596324
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "text": "smaller rocks and eventually sediment", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0083194943244004164
+                            }, 
+                            {
+                                "A0": -0.00012394944069745589
+                            }, 
+                            {
+                                "A3": 0.71060570898304498
+                            }, 
+                            {
+                                "A2": -0.0057881470563126043
+                            }, 
+                            {
+                                "NONE": 0.10264347490208801
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process by which rocks are broken into smaller...", 
+                "sentenceId": 157, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A3", 
+                        "text": "smaller", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0059517950639964481
+                            }, 
+                            {
+                                "A0": 0.0048468198623821332
+                            }, 
+                            {
+                                "A3": 0.68348209641737878
+                            }, 
+                            {
+                                "A2": 0.0020259736321586019
+                            }, 
+                            {
+                                "NONE": 0.11593410496167966
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "broken", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.023387540112862364
+                            }, 
+                            {
+                                "A0": -0.026840841121827216
+                            }, 
+                            {
+                                "A3": -0.02488147228332236
+                            }, 
+                            {
+                                "A2": 0.79368025550541588
+                            }, 
+                            {
+                                "NONE": 0.063109589149190529
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering is the process of breaking down rocks and minerals into smaller pieces...", 
+                "sentenceId": 100, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "text": "rocks and minerals", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01501866071042551
+                            }, 
+                            {
+                                "A0": 0.63622025066831123
+                            }, 
+                            {
+                                "A3": 0.11636682777622603
+                            }, 
+                            {
+                                "A2": -0.0067520046134439526
+                            }, 
+                            {
+                                "NONE": 0.069526393599865594
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "breaking down", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.020330523696370423
+                            }, 
+                            {
+                                "A0": -0.024791736261550412
+                            }, 
+                            {
+                                "A3": -0.023533575605991518
+                            }, 
+                            {
+                                "A2": 0.73620085837965277
+                            }, 
+                            {
+                                "NONE": 0.098142574889651238
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering is the breaking down of rocks, soil and minerals as well as artificial materials through contact with the earth's atmosphere, biota and waters.", 
+                "sentenceId": 296, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "breaking", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.02743969301562843
+                            }, 
+                            {
+                                "A0": -0.011127218287272941
+                            }, 
+                            {
+                                "A3": 0.036708419574058349
+                            }, 
+                            {
+                                "A2": 0.41972799286787976
+                            }, 
+                            {
+                                "NONE": 0.34105540749594748
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process of breaking rocks into smaller pieces and ...", 
+                "sentenceId": 269, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "text": "rocks", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0042386313215522949
+                            }, 
+                            {
+                                "A0": 0.60221044612467767
+                            }, 
+                            {
+                                "A3": 0.11022003332392638
+                            }, 
+                            {
+                                "A2": -0.005502908877826106
+                            }, 
+                            {
+                                "NONE": 0.097918521679257089
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "physical weathering causes fracturing of feldspars along their cleavage planes.", 
+                "sentenceId": 255, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "fracturing of feldspars along their cleavage planes .", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.016246541402606677
+                            }, 
+                            {
+                                "A0": 0.0053352891589929664
+                            }, 
+                            {
+                                "A3": 0.2801519494461937
+                            }, 
+                            {
+                                "A2": 0.075658103721135975
+                            }, 
+                            {
+                                "NONE": 0.40284333100315312
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process of breaking big rocks into little ones.", 
+                "sentenceId": 122, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "text": "big rocks", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.022282531130902044
+                            }, 
+                            {
+                                "A0": 0.4981245312432297
+                            }, 
+                            {
+                                "A3": 0.20756358901531022
+                            }, 
+                            {
+                                "A2": -0.016352014835838057
+                            }, 
+                            {
+                                "NONE": 0.10096708504209981
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering is the process of breaking down rock.", 
+                "sentenceId": 11, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "text": "rock", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0033352358180432536
+                            }, 
+                            {
+                                "A0": 0.67710923497159514
+                            }, 
+                            {
+                                "A3": 0.030471476238058962
+                            }, 
+                            {
+                                "A2": -0.004627455379808158
+                            }, 
+                            {
+                                "NONE": 0.088825330197436159
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "breaking down", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.021157537188668113
+                            }, 
+                            {
+                                "A0": -0.023994562544030838
+                            }, 
+                            {
+                                "A3": -0.023819708505535969
+                            }, 
+                            {
+                                "A2": 0.60475274181458005
+                            }, 
+                            {
+                                "NONE": 0.22865123605443252
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process by which rock is broken into smaller pieces without significant changes in composition.", 
+                "sentenceId": 246, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "broken", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.023072356543903914
+                            }, 
+                            {
+                                "A0": -0.027627027505832
+                            }, 
+                            {
+                                "A3": -0.026555458764316576
+                            }, 
+                            {
+                                "A2": 0.81870746856900689
+                            }, 
+                            {
+                                "NONE": 0.040227365381640033
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A3", 
+                        "text": "smaller pieces", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0033000551164198977
+                            }, 
+                            {
+                                "A0": 0.006261166868142559
+                            }, 
+                            {
+                                "A3": 0.69616557666367673
+                            }, 
+                            {
+                                "A2": -0.012327321210438537
+                            }, 
+                            {
+                                "NONE": 0.11895518664506895
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "uv radiation is necessary for weathering to occur.", 
+                "sentenceId": 289, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A1", 
+                        "text": "uv radiation", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.67591646613087208
+                            }, 
+                            {
+                                "A0": 0.0062902355301310987
+                            }, 
+                            {
+                                "A3": 0.0002610575919288231
+                            }, 
+                            {
+                                "A2": 0.030955432796886163
+                            }, 
+                            {
+                                "NONE": 0.099645740523076412
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this mechanism of weathering causes the outer surface of the rock to fall off in...", 
+                "sentenceId": 4, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "text": "the outer surface of the rock to fall off in ...", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0083114697424321766
+                            }, 
+                            {
+                                "A0": -0.003304211622733211
+                            }, 
+                            {
+                                "A3": 0.42531267523111155
+                            }, 
+                            {
+                                "A2": -0.0070656931591166067
+                            }, 
+                            {
+                                "NONE": 0.41963840495524352
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process of breaking big rocks into little...", 
+                "sentenceId": 349, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "text": "big rocks", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.022544221949815483
+                            }, 
+                            {
+                                "A0": 0.50045809983754086
+                            }, 
+                            {
+                                "A3": 0.20858380399204718
+                            }, 
+                            {
+                                "A2": -0.020277221014603407
+                            }, 
+                            {
+                                "NONE": 0.10111846121899765
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "breaking", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.026647240903791981
+                            }, 
+                            {
+                                "A0": -0.014448325836175762
+                            }, 
+                            {
+                                "A3": -0.0073329858421484328
+                            }, 
+                            {
+                                "A2": 0.7378087180863383
+                            }, 
+                            {
+                                "NONE": 0.068808081734579238
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "the process of weathering helps to make soil.", 
+                "sentenceId": 25, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "make soil", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.014321772377344246
+                            }, 
+                            {
+                                "A0": -0.0044114851985004484
+                            }, 
+                            {
+                                "A3": 0.75531841280489387
+                            }, 
+                            {
+                                "A2": -0.0032911617734973555
+                            }, 
+                            {
+                                "NONE": 0.13040626526624546
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering helps to change the surface of the earth.", 
+                "sentenceId": 275, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "text": "change the surface of the earth", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.02343724294682311
+                            }, 
+                            {
+                                "A0": 0.00042288584097244035
+                            }, 
+                            {
+                                "A3": 0.70084318126877232
+                            }, 
+                            {
+                                "A2": 0.033323519975278035
+                            }, 
+                            {
+                                "NONE": 0.08403457615637086
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

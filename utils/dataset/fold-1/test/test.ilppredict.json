@@ -1,0 +1,4868 @@
+[
+    {
+        "process": "acceleration", 
+        "sentences": [
+            {
+                "text": "this acceleration is caused by positive feedback between the temperature, thermal buoyancy and effective viscosity of the material.", 
+                "sentenceId": 119, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "text": "positive feedback between the temperature , thermal buoyancy and effective viscosity of the material", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.78668540321035707
+                            }, 
+                            {
+                                "A0": -0.024653198006016074
+                            }, 
+                            {
+                                "A3": -0.026705718333134787
+                            }, 
+                            {
+                                "A2": -0.016143409654849478
+                            }, 
+                            {
+                                "NONE": 0.27210159029191361
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "acceleration occurs due to the action of an unbalanced force on an object.", 
+                "sentenceId": 7, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "the action of an unbalanced force on an object", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.69077591645744674
+                            }, 
+                            {
+                                "A0": -0.015873502441739837
+                            }, 
+                            {
+                                "A3": -0.030998722000808283
+                            }, 
+                            {
+                                "A2": 0.018103145252164044
+                            }, 
+                            {
+                                "NONE": 0.37772008050414146
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "acceleration depends on factors such as power to weight.", 
+                "sentenceId": 162, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "text": "power to weight", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.63328629174693463
+                            }, 
+                            {
+                                "A0": -0.015102835509453088
+                            }, 
+                            {
+                                "A3": 0.062222704786417338
+                            }, 
+                            {
+                                "A2": 0.025250241764762937
+                            }, 
+                            {
+                                "NONE": 0.28511258368253045
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "an object's acceleration is the net result of any and all forces acting on the object, as...", 
+                "sentenceId": 381, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "net", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.012280584327130948
+                            }, 
+                            {
+                                "A0": -0.011368814771051948
+                            }, 
+                            {
+                                "A3": 0.0040158067459695468
+                            }, 
+                            {
+                                "A2": 0.57517538712818561
+                            }, 
+                            {
+                                "NONE": 0.36807492987920054
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "as defined by ke =1/2 mv^2, acceleration is the process of gaining kinetic energy, so the greater the power delivered, the quicker it gains kinetic energy.", 
+                "sentenceId": 229, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "A2", 
+                        "text": "gaining", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": -0.008011090979064505
+                            }, 
+                            {
+                                "A0": -0.019983947691048002
+                            }, 
+                            {
+                                "A3": -0.017797864501535757
+                            }, 
+                            {
+                                "A2": 0.57662184325019317
+                            }, 
+                            {
+                                "NONE": 0.42319668527873577
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "application acceleration is the process of speeding the performance and delivery of applications with network componentry that leverages a variety of caching,...", 
+                "sentenceId": 415, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "speeding", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.010536954380241166
+                            }, 
+                            {
+                                "A0": -0.022202255646088999
+                            }, 
+                            {
+                                "A3": -0.026234605989882781
+                            }, 
+                            {
+                                "A2": 0.62563204746067147
+                            }, 
+                            {
+                                "NONE": 0.44345461730790436
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "acceleration occurs when there is a net force on an...", 
+                "sentenceId": 190, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "text": "a net force on an", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.54885033941123196
+                            }, 
+                            {
+                                "A0": 0.10875659541858736
+                            }, 
+                            {
+                                "A3": 0.013835884348419029
+                            }, 
+                            {
+                                "A2": -0.017408967534742636
+                            }, 
+                            {
+                                "NONE": 0.41413224991763581
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the tangential acceleration is caused by gravity.", 
+                "sentenceId": 71, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "text": "gravity", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.77584947089723943
+                            }, 
+                            {
+                                "A0": -0.0061170451160491059
+                            }, 
+                            {
+                                "A3": -0.013157049498096112
+                            }, 
+                            {
+                                "A2": -0.014478789961399641
+                            }, 
+                            {
+                                "NONE": 0.1499859644560291
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the extreme acceleration occurs when the speed is suddenly changed from a low level to a much higher level.", 
+                "sentenceId": 323, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "suddenly", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.021362965699790022
+                            }, 
+                            {
+                                "A0": 0.10525914622143517
+                            }, 
+                            {
+                                "A3": 0.021318502936674595
+                            }, 
+                            {
+                                "A2": 0.34976601073979957
+                            }, 
+                            {
+                                "NONE": 0.27201068725620314
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the extreme acceleration", 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": 0.027992421320965119
+                            }, 
+                            {
+                                "A0": -0.0067877126336728516
+                            }, 
+                            {
+                                "A3": -0.018788695671006654
+                            }, 
+                            {
+                                "A2": 0.38136968586805148
+                            }, 
+                            {
+                                "NONE": 0.35071542220882052
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "changed", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.033542422481414494
+                            }, 
+                            {
+                                "A0": -0.022519357131430648
+                            }, 
+                            {
+                                "A3": -0.012340206625915277
+                            }, 
+                            {
+                                "A2": 0.50971081985655342
+                            }, 
+                            {
+                                "NONE": 0.24196539544344908
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "from a low level", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.29353538944448676
+                            }, 
+                            {
+                                "A0": 0.0023297707773898696
+                            }, 
+                            {
+                                "A3": 0.046934447439602046
+                            }, 
+                            {
+                                "A2": -0.00090620163938277126
+                            }, 
+                            {
+                                "NONE": 0.36996917192668
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.020658353221903299
+                            }, 
+                            {
+                                "A0": -0.0116265677714944
+                            }, 
+                            {
+                                "A3": -0.0017426086875057655
+                            }, 
+                            {
+                                "A2": 0.016994344511168536
+                            }, 
+                            {
+                                "NONE": 0.74424111587335129
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "NONE", 
+                        "text": "when the speed is suddenly changed from a low level to a much higher level", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.056697452449253422
+                            }, 
+                            {
+                                "A0": -0.027369344443470712
+                            }, 
+                            {
+                                "A3": -0.017190193937955341
+                            }, 
+                            {
+                                "A2": 0.49059744598208122
+                            }, 
+                            {
+                                "NONE": 0.23711540813140902
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A0", 
+                        "text": "the speed", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.10637101810737595
+                            }, 
+                            {
+                                "A0": 0.43776581893445504
+                            }, 
+                            {
+                                "A3": -0.019800494490431014
+                            }, 
+                            {
+                                "A2": 0.033128105959428535
+                            }, 
+                            {
+                                "NONE": 0.19498428194803849
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "A1", 
+                        "text": "a much higher level", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.48841523137662024
+                            }, 
+                            {
+                                "A0": 0.039537712115961458
+                            }, 
+                            {
+                                "A3": 0.056050058605566284
+                            }, 
+                            {
+                                "A2": -0.0057356141343185736
+                            }, 
+                            {
+                                "NONE": 0.14732556341889066
+                            }
+                        ], 
+                        "argId": 7
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "shedding", 
+        "sentences": [
+            {
+                "text": "regular shedding is the method by which your dog's coat releases damaged or unhealthy hair and allows for the new healthy coat to grow in.", 
+                "sentenceId": 406, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "method", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.004750813567550766
+                            }, 
+                            {
+                                "A0": 0.0015777626509332434
+                            }, 
+                            {
+                                "A3": 0.0066474509314916694
+                            }, 
+                            {
+                                "A2": 0.772859299530427
+                            }, 
+                            {
+                                "NONE": 0.014164673319597365
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "carbon_cycle", 
+        "sentences": [
+            {
+                "text": "the carbon cycle is the process by which carbon moves from the atmosphere into the earth and its organisms and then back again.", 
+                "sentenceId": 482, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "moves", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.004934471687715971
+                            }, 
+                            {
+                                "A0": 0.0006970618337070123
+                            }, 
+                            {
+                                "A3": 0.005751375121929126
+                            }, 
+                            {
+                                "A2": 0.6188828097306234
+                            }, 
+                            {
+                                "NONE": 0.16973428162602444
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "respiration", 
+        "sentences": [
+            {
+                "text": "cellular respiration is the process of moving energy from one chemical form (glucose) into another (atp), since all cells use atp for all metabolic reactions.", 
+                "sentenceId": 265, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "from one chemical form -LRB- glucose", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.050846331453199424
+                            }, 
+                            {
+                                "A0": 0.006828872651683807
+                            }, 
+                            {
+                                "A3": 0.04051285790118463
+                            }, 
+                            {
+                                "A2": 0.02392266276618151
+                            }, 
+                            {
+                                "NONE": 0.6778892752277508
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "text": "atp", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.083936273048839355
+                            }, 
+                            {
+                                "A0": 0.066843531944434265
+                            }, 
+                            {
+                                "A3": 0.028154927772148699
+                            }, 
+                            {
+                                "A2": 0.055442275077398948
+                            }, 
+                            {
+                                "NONE": 0.53043713485970745
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 25, 
+                        "rolePredicted": "NONE", 
+                        "text": "use", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": -0.028854046819590896
+                            }, 
+                            {
+                                "A0": -0.036638853127299448
+                            }, 
+                            {
+                                "A3": -0.033985183679348822
+                            }, 
+                            {
+                                "A2": 0.42789250208577112
+                            }, 
+                            {
+                                "NONE": 0.38709302201668239
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 23, 
+                        "rolePredicted": "A0", 
+                        "text": "all cells", 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "A1": -0.023747894629356871
+                            }, 
+                            {
+                                "A0": 0.40679439221749614
+                            }, 
+                            {
+                                "A3": -0.030133668008819975
+                            }, 
+                            {
+                                "A2": 0.064779370392731989
+                            }, 
+                            {
+                                "NONE": 0.30392132043614889
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "text": "another -LRB- atp -RRB-", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.088714617720020303
+                            }, 
+                            {
+                                "A0": 0.071621876615615213
+                            }, 
+                            {
+                                "A3": 0.03293327244332965
+                            }, 
+                            {
+                                "A2": 0.047080171902832271
+                            }, 
+                            {
+                                "NONE": 0.53521547953088844
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 28, 
+                        "rolePredicted": "NONE", 
+                        "text": "all metabolic reactions", 
+                        "endIdx": 30, 
+                        "probRoles": [
+                            {
+                                "A1": 0.16060919118101019
+                            }, 
+                            {
+                                "A0": -0.0083343517444949972
+                            }, 
+                            {
+                                "A3": 0.10583644448267136
+                            }, 
+                            {
+                                "A2": 0.058754638268700719
+                            }, 
+                            {
+                                "NONE": 0.41156286182569851
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "moving", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.090052468650049497
+                            }, 
+                            {
+                                "A0": -0.094454606505534944
+                            }, 
+                            {
+                                "A3": -0.093908404343611585
+                            }, 
+                            {
+                                "A2": 0.7564086551226672
+                            }, 
+                            {
+                                "NONE": 0.10863182437652913
+                            }
+                        ], 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "respiration is the process of exchanging o2 with co2.", 
+                "sentenceId": 525, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "exchanging", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.050491755305400052
+                            }, 
+                            {
+                                "A0": -0.044340209586883797
+                            }, 
+                            {
+                                "A3": -0.053194768346573447
+                            }, 
+                            {
+                                "A2": 0.71303642470020601
+                            }, 
+                            {
+                                "NONE": 0.3223470450507514
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the respiration is the process of taking in oxygen and getting rid of carbon dioxide.", 
+                "sentenceId": 101, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "taking in", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.052101678836823109
+                            }, 
+                            {
+                                "A0": -0.048017218497385918
+                            }, 
+                            {
+                                "A3": -0.0521635900170902
+                            }, 
+                            {
+                                "A2": 0.6220974328787382
+                            }, 
+                            {
+                                "NONE": 0.43398448128049105
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "respiration is the process of converting nutrients into usable energy.", 
+                "sentenceId": 511, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "converting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.051935133681716393
+                            }, 
+                            {
+                                "A0": -0.045011334415757893
+                            }, 
+                            {
+                                "A3": -0.050097599426384205
+                            }, 
+                            {
+                                "A2": 0.72220485176709914
+                            }, 
+                            {
+                                "NONE": 0.25959385089773934
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "respiration is the process of obtaining sufficient oxygen from an organism's environment to support its cellular metabolic...", 
+                "sentenceId": 48, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "obtaining", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.048572934926486809
+                            }, 
+                            {
+                                "A0": -0.045412430887252692
+                            }, 
+                            {
+                                "A3": -0.052465489883713495
+                            }, 
+                            {
+                                "A2": 0.69538271791307382
+                            }, 
+                            {
+                                "NONE": 0.27368272111773911
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "first, respiration is the process by which an organism takes oxygen into its body and then releases carbon dioxide from its body.", 
+                "sentenceId": 50, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A2", 
+                        "text": "takes", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.054800783593001903
+                            }, 
+                            {
+                                "A0": -0.041435927522343693
+                            }, 
+                            {
+                                "A3": -0.053950699868041296
+                            }, 
+                            {
+                                "A2": 0.84653129023105733
+                            }, 
+                            {
+                                "NONE": 0.19607177631587513
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "sexual_reproduction", 
+        "sentences": [
+            {
+                "text": "sexual reproduction causes new solutions.", 
+                "sentenceId": 93, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "text": "new solutions .", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018909940795155972
+                            }, 
+                            {
+                                "A0": -0.0024202883225065558
+                            }, 
+                            {
+                                "A3": 0.6492789305874519
+                            }, 
+                            {
+                                "A2": 0.014628408256324572
+                            }, 
+                            {
+                                "NONE": 0.10980854640416639
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sexual reproduction is the process of producing offspring, with two copies of each chromosome,...", 
+                "sentenceId": 209, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "producing", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.044213315586690394
+                            }, 
+                            {
+                                "A0": -0.044642713718603622
+                            }, 
+                            {
+                                "A3": -0.034712293396843862
+                            }, 
+                            {
+                                "A2": 0.70875653235550296
+                            }, 
+                            {
+                                "NONE": 0.1159377182681133
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sexual reproduction is the process of combining features of two parents into new offspring.", 
+                "sentenceId": 394, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "combining", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.035662397263957708
+                            }, 
+                            {
+                                "A0": -0.035865428657922575
+                            }, 
+                            {
+                                "A3": -0.023534035062866363
+                            }, 
+                            {
+                                "A2": 0.74045281881377789
+                            }, 
+                            {
+                                "NONE": 0.074334108023464365
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sexual reproduction is the union of male and female gametes to form a fertilized egg, or zygote.", 
+                "sentenceId": 263, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "union", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.046607043810495755
+                            }, 
+                            {
+                                "A0": -0.0480033528634135
+                            }, 
+                            {
+                                "A3": -0.017024398294975186
+                            }, 
+                            {
+                                "A2": 0.8369517824035958
+                            }, 
+                            {
+                                "NONE": -0.030596860519008742
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "explain how sexual reproduction causes genetic variation and how this leads to increased survival of the.", 
+                "sentenceId": 86, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "text": "genetic variation and how this leads to increased survival of the", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": -0.012257485362910731
+                            }, 
+                            {
+                                "A0": -0.011450028734447289
+                            }, 
+                            {
+                                "A3": 0.71939267342210178
+                            }, 
+                            {
+                                "A2": 0.031994068991943174
+                            }, 
+                            {
+                                "NONE": 0.02111626976761918
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sexual reproduction causes offspring to depend on the genetic makeup of two...", 
+                "sentenceId": 430, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "text": "offspring to depend on the genetic makeup of two ...", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0488831440102485
+                            }, 
+                            {
+                                "A0": -0.014233830154396273
+                            }, 
+                            {
+                                "A3": 0.37297859023160801
+                            }, 
+                            {
+                                "A2": 0.047150801878868928
+                            }, 
+                            {
+                                "NONE": 0.2985869549532183
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sexual reproduction is the formation of a new individual following the union of two gametes.", 
+                "sentenceId": 357, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "formation", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.054296448368313384
+                            }, 
+                            {
+                                "A0": -0.055572265352909905
+                            }, 
+                            {
+                                "A3": -0.015715646927805655
+                            }, 
+                            {
+                                "A2": 0.83831619652557277
+                            }, 
+                            {
+                                "NONE": -0.034647993683017866
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "sexual reproduction is the creation of a new organism by combining the genetic ....", 
+                "sentenceId": 347, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "creation", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.052026570009804318
+                            }, 
+                            {
+                                "A0": -0.053668673947732067
+                            }, 
+                            {
+                                "A3": -0.029322770688629506
+                            }, 
+                            {
+                                "A2": 0.84534776215291285
+                            }, 
+                            {
+                                "NONE": -0.028299844489488343
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "orbit", 
+        "sentences": [
+            {
+                "text": "earth's orbit is the path in which the earth travels around the sun.", 
+                "sentenceId": 167, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "path", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.065311654090098661
+                            }, 
+                            {
+                                "A0": -0.065815119370858363
+                            }, 
+                            {
+                                "A3": -0.055628110433568058
+                            }, 
+                            {
+                                "A2": 0.69131913234336184
+                            }, 
+                            {
+                                "NONE": 0.39902464105566454
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "it has been suggested that sedna's orbit is the result of influence by a large binary companion to the sun, thousands of au distant.", 
+                "sentenceId": 183, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "it", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.041071868800245694
+                            }, 
+                            {
+                                "A0": -0.027161918718481129
+                            }, 
+                            {
+                                "A3": -0.051150446062206693
+                            }, 
+                            {
+                                "A2": 0.10124706213188293
+                            }, 
+                            {
+                                "NONE": 0.65302934125651069
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A2", 
+                        "text": "that sedna 's orbit is the result of influence by a large binary companion to the sun , thousands of au distant", 
+                        "endIdx": 26, 
+                        "probRoles": [
+                            {
+                                "A1": -0.028388951597775131
+                            }, 
+                            {
+                                "A0": -0.03289189732334738
+                            }, 
+                            {
+                                "A3": -0.026541677367421447
+                            }, 
+                            {
+                                "A2": 0.79145943702175214
+                            }, 
+                            {
+                                "NONE": 0.0028435037829325771
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "suggested", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.079121262482956395
+                            }, 
+                            {
+                                "A0": -0.079647430001392572
+                            }, 
+                            {
+                                "A3": -0.071550314213107549
+                            }, 
+                            {
+                                "A2": 0.13368808674785509
+                            }, 
+                            {
+                                "NONE": 0.67663091994960156
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "regeneration", 
+        "sentences": [
+            {
+                "text": "organ regeneration is the process of implanting or integrating man-made material into a human to replace natural organs or tissues.", 
+                "sentenceId": 298, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "text": "implanting", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": -0.058094023752899869
+                            }, 
+                            {
+                                "A0": -0.062392614567283039
+                            }, 
+                            {
+                                "A3": -0.061230600392681397
+                            }, 
+                            {
+                                "A2": 0.7796108054777553
+                            }, 
+                            {
+                                "NONE": 0.22572803972824987
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "regeneration is the process of replacing damaged tissue with phenotypically and functionally identical tissue.", 
+                "sentenceId": 260, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "replacing damaged tissue with phenotypically", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.012574496517588315
+                            }, 
+                            {
+                                "A0": -0.015518970160857163
+                            }, 
+                            {
+                                "A3": -0.014939046489117026
+                            }, 
+                            {
+                                "A2": 0.67382690030811165
+                            }, 
+                            {
+                                "NONE": 0.13144438164727501
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "phenotypically", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.051443689981642907
+                            }, 
+                            {
+                                "A0": 0.010164648966621229
+                            }, 
+                            {
+                                "A3": 0.015349455242967432
+                            }, 
+                            {
+                                "A2": 0.075567661378381668
+                            }, 
+                            {
+                                "NONE": 0.617838814920602
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "replacing", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.088440192534391254
+                            }, 
+                            {
+                                "A0": -0.091384666177660098
+                            }, 
+                            {
+                                "A3": -0.090804742505919966
+                            }, 
+                            {
+                                "A2": 0.79710865633541639
+                            }, 
+                            {
+                                "NONE": 0.055578685630472066
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "damaged", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.019171527282676227
+                            }, 
+                            {
+                                "A0": -0.0047208921428554228
+                            }, 
+                            {
+                                "A3": -0.022393019006537236
+                            }, 
+                            {
+                                "A2": 0.09050433949068655
+                            }, 
+                            {
+                                "NONE": 0.64694106304776411
+                            }
+                        ], 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "abstract: regeneration is the process of restoring cells, tissues and structures that are lost during disease, injury or aging.", 
+                "sentenceId": 393, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "text": "restoring", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.050528771651424775
+                            }, 
+                            {
+                                "A0": -0.051002743671229152
+                            }, 
+                            {
+                                "A3": -0.038524394323112283
+                            }, 
+                            {
+                                "A2": 0.75478070646968987
+                            }, 
+                            {
+                                "NONE": 0.14778862083389407
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "regeneration is the process of restoring cells, tissues and structures that are lost or damaged after disease, injury or aging.", 
+                "sentenceId": 222, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "restoring", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.051658817814357418
+                            }, 
+                            {
+                                "A0": -0.051366240813819762
+                            }, 
+                            {
+                                "A3": -0.045569862127666588
+                            }, 
+                            {
+                                "A2": 0.7587572259762182
+                            }, 
+                            {
+                                "NONE": 0.15235111243744323
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "chemical_reaction", 
+        "sentences": [
+            {
+                "text": "a chemical reaction is the change of a substance into a new one that has a different chemical identity.", 
+                "sentenceId": 193, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "text": "has", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.037496094999175833
+                            }, 
+                            {
+                                "A0": -0.036670827025458513
+                            }, 
+                            {
+                                "A3": -0.018596972018605933
+                            }, 
+                            {
+                                "A2": 0.34704834980019317
+                            }, 
+                            {
+                                "NONE": 0.86057751728000986
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "a new one that has a different chemical identity", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": -0.063620310593359458
+                            }, 
+                            {
+                                "A0": -0.062795042619642139
+                            }, 
+                            {
+                                "A3": -0.044721187612789565
+                            }, 
+                            {
+                                "A2": 0.31723113417124232
+                            }, 
+                            {
+                                "NONE": 1.2597311769206119
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "change", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.043711777834635063
+                            }, 
+                            {
+                                "A0": -0.044070953184881273
+                            }, 
+                            {
+                                "A3": -0.038473462255131569
+                            }, 
+                            {
+                                "A2": 0.75113513763478579
+                            }, 
+                            {
+                                "NONE": 0.5703297748415439
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "NONE", 
+                        "text": "a different chemical identity", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": -0.013175288765930833
+                            }, 
+                            {
+                                "A0": -0.041534085297807916
+                            }, 
+                            {
+                                "A3": 0.19157661270734971
+                            }, 
+                            {
+                                "A2": -0.021722236074035894
+                            }, 
+                            {
+                                "NONE": 1.2520735013822222
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "to show how to determine which reactant in a chemical reaction is the limiting reactant.", 
+                "sentenceId": 44, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "A2", 
+                        "text": "limiting", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": -0.044852911306261949
+                            }, 
+                            {
+                                "A0": -0.043583136424873631
+                            }, 
+                            {
+                                "A3": -0.031557140309877239
+                            }, 
+                            {
+                                "A2": 0.58831352592832231
+                            }, 
+                            {
+                                "NONE": 0.47102706638577535
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "show", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.06902155344560966
+                            }, 
+                            {
+                                "A0": -0.066916093617261391
+                            }, 
+                            {
+                                "A3": 0.048370995573350312
+                            }, 
+                            {
+                                "A2": 0.0018728297303929149
+                            }, 
+                            {
+                                "NONE": 1.0402640958351472
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "to show how to determine", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.042872407718440891
+                            }, 
+                            {
+                                "A0": -0.040766947890092615
+                            }, 
+                            {
+                                "A3": 0.07452014130051908
+                            }, 
+                            {
+                                "A2": -0.023174833674793935
+                            }, 
+                            {
+                                "NONE": 0.99813327817546393
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "how to determine", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.041818547467999879
+                            }, 
+                            {
+                                "A0": -0.043405179400686236
+                            }, 
+                            {
+                                "A3": 0.19228807747096441
+                            }, 
+                            {
+                                "A2": -0.015945811609430739
+                            }, 
+                            {
+                                "NONE": 0.85492148711823246
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "to determine", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.041818547467999879
+                            }, 
+                            {
+                                "A0": -0.043405179400686236
+                            }, 
+                            {
+                                "A3": 0.19228807747096441
+                            }, 
+                            {
+                                "A2": -0.015945811609430739
+                            }, 
+                            {
+                                "NONE": 0.85492148711823246
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "NONE", 
+                        "text": "the limiting reactant", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.029337587641922028
+                            }, 
+                            {
+                                "A0": -0.039431247564665872
+                            }, 
+                            {
+                                "A3": -0.0011856693106345809
+                            }, 
+                            {
+                                "A2": 0.43746013387359373
+                            }, 
+                            {
+                                "NONE": 0.56145101362820493
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "NONE", 
+                        "text": "determine", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.060742205097071886
+                            }, 
+                            {
+                                "A0": -0.062328837029758243
+                            }, 
+                            {
+                                "A3": 0.17336441984189241
+                            }, 
+                            {
+                                "A2": -0.033482779745670634
+                            }, 
+                            {
+                                "NONE": 1.0108934843053796
+                            }
+                        ], 
+                        "argId": 6
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "meiosis", 
+        "sentences": [
+            {
+                "text": "these are novel observations because the disregulation of meiosis is caused by a change in the somatic cells.", 
+                "sentenceId": 36, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "A1", 
+                        "text": "a change in the somatic cells", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.69484993092205993
+                            }, 
+                            {
+                                "A0": -0.020484327874633126
+                            }, 
+                            {
+                                "A3": 0.00035181863039744979
+                            }, 
+                            {
+                                "A2": -0.006011692202820591
+                            }, 
+                            {
+                                "NONE": 0.87683431563461711
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "meiosis is the process of making gametes, also known as eggs and sperm in most animals.", 
+                "sentenceId": 502, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "making", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.014233465399731172
+                            }, 
+                            {
+                                "A0": -0.018343735730946414
+                            }, 
+                            {
+                                "A3": -0.01033397553229235
+                            }, 
+                            {
+                                "A2": 0.72498855834687803
+                            }, 
+                            {
+                                "NONE": 0.45872641671070952
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "thus meiosis helps to maintain the constant number of chromosomes for a particular species.", 
+                "sentenceId": 227, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "text": "maintain the constant number of chromosomes for a particular species", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": -0.021325429065513875
+                            }, 
+                            {
+                                "A0": -0.028555454848315537
+                            }, 
+                            {
+                                "A3": 0.55126641200646831
+                            }, 
+                            {
+                                "A2": 0.031282075048223307
+                            }, 
+                            {
+                                "NONE": 0.88670958294751012
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "meiosis is the process of making haploid sex cells.", 
+                "sentenceId": 159, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "haploid sex", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.068132450481830073
+                            }, 
+                            {
+                                "A0": 0.058479214777248559
+                            }, 
+                            {
+                                "A3": 0.16817450281908577
+                            }, 
+                            {
+                                "A2": -0.0058789417115181868
+                            }, 
+                            {
+                                "NONE": 1.1317421096282931
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A0", 
+                        "text": "cells", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.094270686497221728
+                            }, 
+                            {
+                                "A0": 0.34907915767021397
+                            }, 
+                            {
+                                "A3": 0.147573764435562
+                            }, 
+                            {
+                                "A2": -0.013957542786849582
+                            }, 
+                            {
+                                "NONE": 0.77458346600333272
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "making", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.015566815202238401
+                            }, 
+                            {
+                                "A0": -0.020033665271378721
+                            }, 
+                            {
+                                "A3": -0.010637318101577312
+                            }, 
+                            {
+                                "A2": 0.7355562615688287
+                            }, 
+                            {
+                                "NONE": 0.44653384271379765
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "meiosis is the process of separating the alleles and the random recombination is the fusion of two gametes during fertilization.", 
+                "sentenceId": 139, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "the alleles and the random recombination", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.064696599221066659
+                            }, 
+                            {
+                                "A0": 0.25657752692008484
+                            }, 
+                            {
+                                "A3": 0.031968649900828934
+                            }, 
+                            {
+                                "A2": 0.026622355093414169
+                            }, 
+                            {
+                                "NONE": 1.2042054589184166
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "separating", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0160544679436605
+                            }, 
+                            {
+                                "A0": -0.019274652076653503
+                            }, 
+                            {
+                                "A3": 0.0022188460893526243
+                            }, 
+                            {
+                                "A2": 0.68427031152523932
+                            }, 
+                            {
+                                "NONE": 0.47237941318723103
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of meiosis is to divide the genome in half, but first the dna is doubled in replication, just as mitosis.", 
+                "sentenceId": 371, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "divide the genome in half", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": -0.019538108261665153
+                            }, 
+                            {
+                                "A0": -0.025556686012781434
+                            }, 
+                            {
+                                "A3": 0.69969910506703714
+                            }, 
+                            {
+                                "A2": 0.066185170670172683
+                            }, 
+                            {
+                                "NONE": 0.6547638224848269
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "therefore the purpose of meiosis is to produce gametes; the sperm and eggs.", 
+                "sentenceId": 297, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "text": "produce gametes", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.022997095223811388
+                            }, 
+                            {
+                                "A0": -0.025398525257498764
+                            }, 
+                            {
+                                "A3": 0.71523363400990114
+                            }, 
+                            {
+                                "A2": 0.056794933068475745
+                            }, 
+                            {
+                                "NONE": 0.61502932861217996
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "meiosis is the type of cell division that creates egg and sperm cells.", 
+                "sentenceId": 431, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "cell division that creates egg and sperm cells", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.040306758687370131
+                            }, 
+                            {
+                                "A0": 0.035597645056149749
+                            }, 
+                            {
+                                "A3": 0.25357229506857787
+                            }, 
+                            {
+                                "A2": 0.022642125961083802
+                            }, 
+                            {
+                                "NONE": 0.96775085942307271
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "text": "creates", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01475519176392188
+                            }, 
+                            {
+                                "A0": -0.015277466261262234
+                            }, 
+                            {
+                                "A3": 0.021805172768412664
+                            }, 
+                            {
+                                "A2": 0.68165492534992511
+                            }, 
+                            {
+                                "NONE": 0.5569755979493809
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "egg and sperm cells", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.035281343192779605
+                            }, 
+                            {
+                                "A0": 0.030185082152231184
+                            }, 
+                            {
+                                "A3": 0.25205261554708003
+                            }, 
+                            {
+                                "A2": 0.019112303914644736
+                            }, 
+                            {
+                                "NONE": 1.1152379566853212
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "therefore the purpose of meiosis is to produce gametesthe sperm and egg cells.", 
+                "sentenceId": 67, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A3", 
+                        "text": "produce gametesthe sperm and egg cells", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": -0.026786560034038835
+                            }, 
+                            {
+                                "A0": -0.030153473988717341
+                            }, 
+                            {
+                                "A3": 0.69497923604712397
+                            }, 
+                            {
+                                "A2": 0.056185653662103437
+                            }, 
+                            {
+                                "NONE": 0.9243724050325326
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "significance meiosis helps to maintain the chromosome number constant in each plant & animal species.", 
+                "sentenceId": 188, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "text": "maintain the chromosome number constant in each plant & animal species", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": -0.022924273464619605
+                            }, 
+                            {
+                                "A0": -0.026147329269905061
+                            }, 
+                            {
+                                "A3": 0.61280216552152178
+                            }, 
+                            {
+                                "A2": -0.00093814026411629531
+                            }, 
+                            {
+                                "NONE": 0.83576419040327399
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of meiosis is to produce eggs and sperm with only 23 chromosomes, so fertilization can produce a fertilized egg (zygote) with 46 chromosomes.", 
+                "sentenceId": 279, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "text": "produce eggs and sperm with only 23 chromosomes", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": -0.024258965686879793
+                            }, 
+                            {
+                                "A0": -0.03207894871482482
+                            }, 
+                            {
+                                "A3": 0.68348492875734057
+                            }, 
+                            {
+                                "A2": 0.078671576596773179
+                            }, 
+                            {
+                                "NONE": 0.86002975632435319
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "thus, meiosis helps to generate improved variety, and results incredible diversity of life on earth.", 
+                "sentenceId": 503, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "text": "generate improved variety", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.019910346813530246
+                            }, 
+                            {
+                                "A0": -0.024238983591721018
+                            }, 
+                            {
+                                "A3": 0.6784540668254303
+                            }, 
+                            {
+                                "A2": 0.010542576412991517
+                            }, 
+                            {
+                                "NONE": 0.7050321641958095
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the key regulator of meiosis is the maturation-promoting factor (mpf) (masui & markert 1971), which consists the catalytic p34cdc2...", 
+                "sentenceId": 306, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "the maturation-promoting factor -LRB- mpf -RRB- -LRB- masui & markert 1971 -RRB- , which consists the catalytic p34cdc2", 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0069309756773637994
+                            }, 
+                            {
+                                "A0": -0.018073020584725381
+                            }, 
+                            {
+                                "A3": 0.01923563478053399
+                            }, 
+                            {
+                                "A2": 0.020599555150642442
+                            }, 
+                            {
+                                "NONE": 1.1873977314731889
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 21, 
+                        "rolePredicted": "NONE", 
+                        "text": "consists", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0062353878097197498
+                            }, 
+                            {
+                                "A0": -0.011100457920244854
+                            }, 
+                            {
+                                "A3": 0.0040979973624380005
+                            }, 
+                            {
+                                "A2": 0.38142741443099459
+                            }, 
+                            {
+                                "NONE": 0.67787356490051687
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 22, 
+                        "rolePredicted": "NONE", 
+                        "text": "the catalytic p34cdc2", 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "A1": 0.071986905332700829
+                            }, 
+                            {
+                                "A0": 0.086465160195189281
+                            }, 
+                            {
+                                "A3": 0.087503240832029927
+                            }, 
+                            {
+                                "A2": -0.01361847544928624
+                            }, 
+                            {
+                                "NONE": 1.0978301964811443
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "meiosis is caused by activation of mei3 expression.", 
+                "sentenceId": 305, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "activation of mei3 expression", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.74735491898394879
+                            }, 
+                            {
+                                "A0": -0.017076507881087243
+                            }, 
+                            {
+                                "A3": 0.0075436651252627843
+                            }, 
+                            {
+                                "A2": -0.0074676619037286653
+                            }, 
+                            {
+                                "NONE": 0.62602476313712574
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of meiosis is to shuffle genetic information and cut the cellular chromosome number in half, from 46 chromosomes to 23 chromosomes.", 
+                "sentenceId": 315, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "cut", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.014505475452405155
+                            }, 
+                            {
+                                "A0": -0.022159198076406976
+                            }, 
+                            {
+                                "A3": 0.047858371078437982
+                            }, 
+                            {
+                                "A2": 0.011943251029091936
+                            }, 
+                            {
+                                "NONE": 1.0431437614140666
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the purpose of meiosis", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.066980792406004935
+                            }, 
+                            {
+                                "A0": 0.013351321161321636
+                            }, 
+                            {
+                                "A3": 0.079673222351541631
+                            }, 
+                            {
+                                "A2": 0.011425009867356858
+                            }, 
+                            {
+                                "NONE": 0.96357715458594573
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 20, 
+                        "rolePredicted": "NONE", 
+                        "text": "46 chromosomes", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0054225250484401487
+                            }, 
+                            {
+                                "A0": 0.016608093313027657
+                            }, 
+                            {
+                                "A3": 0.059769224210480469
+                            }, 
+                            {
+                                "A2": -0.0061118872118974127
+                            }, 
+                            {
+                                "NONE": 0.9941721980061855
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 23, 
+                        "rolePredicted": "NONE", 
+                        "text": "23 chromosomes", 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "A1": 0.060595801547266667
+                            }, 
+                            {
+                                "A0": 0.067571602976939288
+                            }, 
+                            {
+                                "A3": 0.062926677929813449
+                            }, 
+                            {
+                                "A2": 0.0017993261168498705
+                            }, 
+                            {
+                                "NONE": 0.8458826719214565
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "text": "the cellular chromosome number in half", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.19201343684815902
+                            }, 
+                            {
+                                "A0": 0.0028199413463004148
+                            }, 
+                            {
+                                "A3": 0.068166853738387281
+                            }, 
+                            {
+                                "A2": 0.0067888432793713621
+                            }, 
+                            {
+                                "NONE": 0.89509460457100964
+                            }
+                        ], 
+                        "argId": 4
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "refraction", 
+        "sentences": [
+            {
+                "text": "well to the cases where the refraction is caused by bottom changes or by changes in both bottom and current.", 
+                "sentenceId": 365, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A1", 
+                        "text": "bottom changes or by changes in both bottom and current", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.68372410306274645
+                            }, 
+                            {
+                                "A0": -0.021121467839558629
+                            }, 
+                            {
+                                "A3": -0.02036167977105429
+                            }, 
+                            {
+                                "A2": 0.0028665518784451588
+                            }, 
+                            {
+                                "NONE": 1.7989763601260376
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "in optics, refraction occurs when light waves travel from a medium...", 
+                "sentenceId": 308, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "light waves", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.094121406721690767
+                            }, 
+                            {
+                                "A0": 0.27828118087845966
+                            }, 
+                            {
+                                "A3": 0.016185154961978712
+                            }, 
+                            {
+                                "A2": -0.022259346132107435
+                            }, 
+                            {
+                                "NONE": 2.3481921390261733
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "when light waves travel from a medium", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.17709088161100228
+                            }, 
+                            {
+                                "A0": -0.025952225350073847
+                            }, 
+                            {
+                                "A3": -0.026056048227337848
+                            }, 
+                            {
+                                "A2": 0.065301991619411762
+                            }, 
+                            {
+                                "NONE": 2.6227572637108616
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "travel", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.16957437293498684
+                            }, 
+                            {
+                                "A0": -0.017007118901707273
+                            }, 
+                            {
+                                "A3": -0.016336928594051385
+                            }, 
+                            {
+                                "A2": 0.077418346323643666
+                            }, 
+                            {
+                                "NONE": 2.2155574791880492
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "in optics", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.24834316999569908
+                            }, 
+                            {
+                                "A0": 0.0036366083914122042
+                            }, 
+                            {
+                                "A3": 0.014084499229579679
+                            }, 
+                            {
+                                "A2": -0.0016288417886645284
+                            }, 
+                            {
+                                "NONE": 1.8882073103967418
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "refraction", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.019695870693439158
+                            }, 
+                            {
+                                "A0": -0.022695843209823034
+                            }, 
+                            {
+                                "A3": -0.031602844333543677
+                            }, 
+                            {
+                                "A2": 0.50194712199807445
+                            }, 
+                            {
+                                "NONE": 3.1152492247024441
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "a medium", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.28617980116076475
+                            }, 
+                            {
+                                "A0": 0.03541391973477042
+                            }, 
+                            {
+                                "A3": 0.0081692754493166708
+                            }, 
+                            {
+                                "A2": -0.019211389219796725
+                            }, 
+                            {
+                                "NONE": 2.2243934757742854
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01132899307130332
+                            }, 
+                            {
+                                "A0": -0.045538486420595631
+                            }, 
+                            {
+                                "A3": -0.045281601390377235
+                            }, 
+                            {
+                                "A2": -0.02650924586521005
+                            }, 
+                            {
+                                "NONE": 4.0302842869808329
+                            }
+                        ], 
+                        "argId": 6
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction occurs due to differences in the optical densities of the transparent media light is travelling through.", 
+                "sentenceId": 353, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "differences in the optical densities of the transparent media light", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.61672832504798569
+                            }, 
+                            {
+                                "A0": -0.024084413263153574
+                            }, 
+                            {
+                                "A3": -0.02563342955686115
+                            }, 
+                            {
+                                "A2": -0.021763863599401696
+                            }, 
+                            {
+                                "NONE": 3.1141794791334383
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction occurs when some light enters the new medium.", 
+                "sentenceId": 228, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "text": "the new medium", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.34075282953646596
+                            }, 
+                            {
+                                "A0": 0.17912720079946895
+                            }, 
+                            {
+                                "A3": -0.020064193492700985
+                            }, 
+                            {
+                                "A2": -0.021821987144864628
+                            }, 
+                            {
+                                "NONE": 2.7896081208669772
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction occurs due to variations of the wave celerity along wave crests.", 
+                "sentenceId": 136, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "variations of the wave celerity along wave crests", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.6256698704713658
+                            }, 
+                            {
+                                "A0": -0.017647890319285198
+                            }, 
+                            {
+                                "A3": 0.00090276048960307581
+                            }, 
+                            {
+                                "A2": -0.0042489065077009162
+                            }, 
+                            {
+                                "NONE": 2.5070099447737553
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction occurs when a wave passes from one medium to another and is bent; that is, the wave deviates from the straight-line path it would have otherwise...", 
+                "sentenceId": 410, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "from one medium", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.065095120797726155
+                            }, 
+                            {
+                                "A0": -0.0094895539472896091
+                            }, 
+                            {
+                                "A3": 0.01305333953877354
+                            }, 
+                            {
+                                "A2": 0.00036086957505208211
+                            }, 
+                            {
+                                "NONE": 2.0054945457142987
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "text": "refraction", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01405597419585527
+                            }, 
+                            {
+                                "A0": -0.022097987875103364
+                            }, 
+                            {
+                                "A3": -0.027397821270205881
+                            }, 
+                            {
+                                "A2": 0.44647871038132603
+                            }, 
+                            {
+                                "NONE": 2.6358251821421934
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 27, 
+                        "rolePredicted": "NONE", 
+                        "text": "would", 
+                        "endIdx": 27, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0056576907595532223
+                            }, 
+                            {
+                                "A0": -0.02949583972884352
+                            }, 
+                            {
+                                "A3": -0.025607281148446161
+                            }, 
+                            {
+                                "A2": -0.018122774071795099
+                            }, 
+                            {
+                                "NONE": 3.279424743230023
+                            }
+                        ], 
+                        "argId": 7
+                    }, 
+                    {
+                        "startIdx": 28, 
+                        "rolePredicted": "NONE", 
+                        "text": "have", 
+                        "endIdx": 28, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0030366212904922273
+                            }, 
+                            {
+                                "A0": -0.03838891453707384
+                            }, 
+                            {
+                                "A3": 0.074274553269807919
+                            }, 
+                            {
+                                "A2": -0.014334159933788271
+                            }, 
+                            {
+                                "NONE": 3.0688635516720355
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 29, 
+                        "rolePredicted": "NONE", 
+                        "text": "otherwise", 
+                        "endIdx": 29, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0027146101459025896
+                            }, 
+                            {
+                                "A0": -0.025000485534734648
+                            }, 
+                            {
+                                "A3": 0.050028302693447768
+                            }, 
+                            {
+                                "A2": -0.02033433751520726
+                            }, 
+                            {
+                                "NONE": 3.0340091009409083
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.010472793008162574
+                            }, 
+                            {
+                                "A0": -0.048389730202427414
+                            }, 
+                            {
+                                "A3": -0.0429407068941801
+                            }, 
+                            {
+                                "A2": -0.014839169176285343
+                            }, 
+                            {
+                                "NONE": 3.5521343291135805
+                            }
+                        ], 
+                        "argId": 9
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "another", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.26524801397674302
+                            }, 
+                            {
+                                "A0": -0.016501084048575594
+                            }, 
+                            {
+                                "A3": -0.022290146359898344
+                            }, 
+                            {
+                                "A2": 0.010988400963590682
+                            }, 
+                            {
+                                "NONE": 1.8324284071968326
+                            }
+                        ], 
+                        "argId": 8
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "NONE", 
+                        "text": "bent ; that is , the wave deviates from the straight-line path it would have", 
+                        "endIdx": 28, 
+                        "probRoles": [
+                            {
+                                "A1": 0.012877744836588292
+                            }, 
+                            {
+                                "A0": -0.036000040875740262
+                            }, 
+                            {
+                                "A3": -0.019327973539142514
+                            }, 
+                            {
+                                "A2": 0.29338390759264554
+                            }, 
+                            {
+                                "NONE": 2.2828456055539368
+                            }
+                        ], 
+                        "argId": 10
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A0", 
+                        "text": "a wave", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.16975733681776484
+                            }, 
+                            {
+                                "A0": 0.31838275218444806
+                            }, 
+                            {
+                                "A3": 0.032864011511286921
+                            }, 
+                            {
+                                "A2": -0.01540328174163047
+                            }, 
+                            {
+                                "NONE": 1.8795165513841472
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "when a wave passes from one medium to another and is bent ; that is , the wave deviates from the straight-line path it would have", 
+                        "endIdx": 28, 
+                        "probRoles": [
+                            {
+                                "A1": 0.010626547302716088
+                            }, 
+                            {
+                                "A0": -0.022966851093275079
+                            }, 
+                            {
+                                "A3": 0.089696616713606681
+                            }, 
+                            {
+                                "A2": -0.0081182422038368895
+                            }, 
+                            {
+                                "NONE": 2.2959752891411211
+                            }
+                        ], 
+                        "argId": 11
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "text": "the wave deviates", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0098537044128717104
+                            }, 
+                            {
+                                "A0": -0.029931255192828469
+                            }, 
+                            {
+                                "A3": -0.013259187856230717
+                            }, 
+                            {
+                                "A2": 0.29665049978657726
+                            }, 
+                            {
+                                "NONE": 2.1214458723077301
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 23, 
+                        "rolePredicted": "NONE", 
+                        "text": "the straight-line path it would have", 
+                        "endIdx": 28, 
+                        "probRoles": [
+                            {
+                                "A1": 0.076080157087989209
+                            }, 
+                            {
+                                "A0": -0.016356766938661199
+                            }, 
+                            {
+                                "A3": 0.020109365741155023
+                            }, 
+                            {
+                                "A2": -0.02251669151411306
+                            }, 
+                            {
+                                "NONE": 2.1322787407010626
+                            }
+                        ], 
+                        "argId": 12
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "passes", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.019506366906679985
+                            }, 
+                            {
+                                "A0": -0.030135769386299315
+                            }, 
+                            {
+                                "A3": 0.00070914950190680698
+                            }, 
+                            {
+                                "A2": 0.1512945895451413
+                            }, 
+                            {
+                                "NONE": 2.2203881834536396
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "a refractometer characterizes fluids based on their refractive index the refraction occurs due to the change in the speed of light as it travels through a material of...", 
+                "sentenceId": 98, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "A1", 
+                        "text": "the change in the speed of light", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.61534580647033466
+                            }, 
+                            {
+                                "A0": -0.021018765652485605
+                            }, 
+                            {
+                                "A3": -0.036361697572788683
+                            }, 
+                            {
+                                "A2": 0.0059551293794776472
+                            }, 
+                            {
+                                "NONE": 3.256096039231561
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction is the change in direction of propagation of a wave due to a change in its transmission medium.", 
+                "sentenceId": 292, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "change", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0012587132238259429
+                            }, 
+                            {
+                                "A0": -0.026440838904094328
+                            }, 
+                            {
+                                "A3": -0.024016435585886588
+                            }, 
+                            {
+                                "A2": 0.74598076613628306
+                            }, 
+                            {
+                                "NONE": 2.0024161404699834
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the refraction is caused by a change in the speed of light, and this is due to interactions with electrons in the solid.", 
+                "sentenceId": 418, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "text": "a change in the speed of light", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.76800116215002856
+                            }, 
+                            {
+                                "A0": -0.027773389473422574
+                            }, 
+                            {
+                                "A3": -0.031004795796361687
+                            }, 
+                            {
+                                "A2": -0.024701699805821715
+                            }, 
+                            {
+                                "NONE": 2.2285267970403493
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the refraction", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.011764204652655742
+                            }, 
+                            {
+                                "A0": -0.022290691850169141
+                            }, 
+                            {
+                                "A3": -0.047196658441344908
+                            }, 
+                            {
+                                "A2": 0.13034181174585963
+                            }, 
+                            {
+                                "NONE": 4.0460203233776824
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "caused", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018139221031262562
+                            }, 
+                            {
+                                "A0": -0.04119969923673801
+                            }, 
+                            {
+                                "A3": -0.040657194664938279
+                            }, 
+                            {
+                                "A2": 0.030383251227112322
+                            }, 
+                            {
+                                "NONE": 3.8641113891975891
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction is caused by the fact that light travels at a constant speed only in a vacuum.", 
+                "sentenceId": 419, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "the fact that light travels at a constant speed only in a vacuum", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.72205329716649136
+                            }, 
+                            {
+                                "A0": -0.023631480755696196
+                            }, 
+                            {
+                                "A3": -0.031527264751100868
+                            }, 
+                            {
+                                "A2": -0.02205101791050243
+                            }, 
+                            {
+                                "NONE": 2.1745434906189987
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the simplest case of refraction occurs when there is an...", 
+                "sentenceId": 485, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "the simplest case of refraction", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.048555016803153259
+                            }, 
+                            {
+                                "A0": -0.0026327572067187457
+                            }, 
+                            {
+                                "A3": -0.003877506420210515
+                            }, 
+                            {
+                                "A2": 0.07795179534758781
+                            }, 
+                            {
+                                "NONE": 3.4423400063983305
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0216247086105259
+                            }, 
+                            {
+                                "A0": -0.045403486699243802
+                            }, 
+                            {
+                                "A3": -0.04640435286170029
+                            }, 
+                            {
+                                "A2": 0.10170672108834101
+                            }, 
+                            {
+                                "NONE": 4.3543376431197363
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "text": "when there is an", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.24992375460370606
+                            }, 
+                            {
+                                "A0": 0.026635902478749272
+                            }, 
+                            {
+                                "A3": 0.011620542322703563
+                            }, 
+                            {
+                                "A2": 0.13137802248609801
+                            }, 
+                            {
+                                "NONE": 2.9294383616123438
+                            }
+                        ], 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction is caused by the change in speed...", 
+                "sentenceId": 75, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "the change in speed", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.7487641305165309
+                            }, 
+                            {
+                                "A0": -0.029293696699016589
+                            }, 
+                            {
+                                "A3": -0.03542185253174579
+                            }, 
+                            {
+                                "A2": -0.012824103789096184
+                            }, 
+                            {
+                                "NONE": 2.474644672823902
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "presumably this refraction is caused by nonlinear wave dynamics because the wave amplitude can be seen to increase with larger qo.", 
+                "sentenceId": 364, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A1", 
+                        "text": "nonlinear wave dynamics", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.6994678452084504
+                            }, 
+                            {
+                                "A0": -0.024689232760769363
+                            }, 
+                            {
+                                "A3": -0.0001762119044499931
+                            }, 
+                            {
+                                "A2": -0.02293487365082086
+                            }, 
+                            {
+                                "NONE": 1.7802869982486946
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 18, 
+                        "rolePredicted": "NONE", 
+                        "text": "increase", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.060838363937505906
+                            }, 
+                            {
+                                "A0": -0.012836915040660927
+                            }, 
+                            {
+                                "A3": 0.11076108829242765
+                            }, 
+                            {
+                                "A2": -0.0067781620705781621
+                            }, 
+                            {
+                                "NONE": 2.3128807014238499
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "NONE", 
+                        "text": "seen", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0039092578466598891
+                            }, 
+                            {
+                                "A0": -0.033800036012429868
+                            }, 
+                            {
+                                "A3": -0.034939694026058607
+                            }, 
+                            {
+                                "A2": -0.012823019250799454
+                            }, 
+                            {
+                                "NONE": 2.5016566621100056
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "NONE", 
+                        "text": "can", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.04809850525735674
+                            }, 
+                            {
+                                "A0": 0.018546228033931432
+                            }, 
+                            {
+                                "A3": -0.029520634074489849
+                            }, 
+                            {
+                                "A2": 0.018175061818953689
+                            }, 
+                            {
+                                "NONE": 2.6505271191519713
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "presumably this refraction", 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0019365912866453477
+                            }, 
+                            {
+                                "A0": -0.022672007827855774
+                            }, 
+                            {
+                                "A3": -0.038452036355049485
+                            }, 
+                            {
+                                "A2": 0.14984837752628594
+                            }, 
+                            {
+                                "NONE": 3.3557797990088112
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "because the wave amplitude can be seen to increase with larger qo", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0066143634499226216
+                            }, 
+                            {
+                                "A0": -0.030701895468110554
+                            }, 
+                            {
+                                "A3": -0.032465495280684604
+                            }, 
+                            {
+                                "A2": -0.01556403982000548
+                            }, 
+                            {
+                                "NONE": 2.8133274545166804
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 20, 
+                        "rolePredicted": "NONE", 
+                        "text": "larger qo", 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.19030666336783922
+                            }, 
+                            {
+                                "A0": -0.016968350339412398
+                            }, 
+                            {
+                                "A3": 0.079643076312986616
+                            }, 
+                            {
+                                "A2": -0.019986431827931472
+                            }, 
+                            {
+                                "NONE": 2.6528884731325637
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "text": "the wave amplitude", 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.13496847591331901
+                            }, 
+                            {
+                                "A0": 0.064361271667602055
+                            }, 
+                            {
+                                "A3": -0.030542990209897626
+                            }, 
+                            {
+                                "A2": 0.057613594210648378
+                            }, 
+                            {
+                                "NONE": 2.4936549022147196
+                            }
+                        ], 
+                        "argId": 8
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "NONE", 
+                        "text": "caused", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.014215509665064869
+                            }, 
+                            {
+                                "A0": -0.039551961028230609
+                            }, 
+                            {
+                                "A3": -0.039358448578512957
+                            }, 
+                            {
+                                "A2": 0.016418364057751697
+                            }, 
+                            {
+                                "NONE": 3.248706761468255
+                            }
+                        ], 
+                        "argId": 7
+                    }
+                ]
+            }, 
+            {
+                "text": "refraction occurs when a wave bends as it crosses the boundary between different mediums (eg.", 
+                "sentenceId": 408, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "text": "it", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.064366262616667128
+                            }, 
+                            {
+                                "A0": 0.060607183841153503
+                            }, 
+                            {
+                                "A3": -0.0116595197274105
+                            }, 
+                            {
+                                "A2": -0.007187776300077383
+                            }, 
+                            {
+                                "NONE": 2.8483110049367055
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "text": "as it crosses the boundary", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.016315689609913305
+                            }, 
+                            {
+                                "A0": -0.02306107461528533
+                            }, 
+                            {
+                                "A3": -0.014351012340050331
+                            }, 
+                            {
+                                "A2": 0.066510585645395984
+                            }, 
+                            {
+                                "NONE": 2.8630356676478872
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "crosses", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.011769216701208386
+                            }, 
+                            {
+                                "A0": -0.016967789233530151
+                            }, 
+                            {
+                                "A3": -0.0078718288325633351
+                            }, 
+                            {
+                                "A2": 0.076518656964534665
+                            }, 
+                            {
+                                "NONE": 2.5274364684800128
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "text": "refraction", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.021134147635579133
+                            }, 
+                            {
+                                "A0": -0.023745903443034962
+                            }, 
+                            {
+                                "A3": -0.032696730316414326
+                            }, 
+                            {
+                                "A2": 0.5014128181209464
+                            }, 
+                            {
+                                "NONE": 3.0789551492144658
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.024187148488116376
+                            }, 
+                            {
+                                "A0": -0.045409016079227475
+                            }, 
+                            {
+                                "A3": -0.035264574138829247
+                            }, 
+                            {
+                                "A2": 0.015667133261366352
+                            }, 
+                            {
+                                "NONE": 4.0109523654203798
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "the boundary", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.26252107635098515
+                            }, 
+                            {
+                                "A0": 0.081310584595484084
+                            }, 
+                            {
+                                "A3": -0.026431320423574337
+                            }, 
+                            {
+                                "A2": 0.010381208582744085
+                            }, 
+                            {
+                                "NONE": 2.6295106165986737
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A1", 
+                        "text": "a wave", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.3237687455219721
+                            }, 
+                            {
+                                "A0": 0.33969034269887943
+                            }, 
+                            {
+                                "A3": -0.013802516659047272
+                            }, 
+                            {
+                                "A2": -0.023237539951688167
+                            }, 
+                            {
+                                "NONE": 2.1198465736633119
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "when a wave bends", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.032230629456231619
+                            }, 
+                            {
+                                "A0": -0.020857798760779651
+                            }, 
+                            {
+                                "A3": -0.020064607625158604
+                            }, 
+                            {
+                                "A2": 0.24995425696749665
+                            }, 
+                            {
+                                "NONE": 2.4591113638283888
+                            }
+                        ], 
+                        "argId": 7
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "bends", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.033329176807604936
+                            }, 
+                            {
+                                "A0": -0.022950852991540031
+                            }, 
+                            {
+                                "A3": -0.018940979495597011
+                            }, 
+                            {
+                                "A2": 0.25613050702524204
+                            }, 
+                            {
+                                "NONE": 2.3050393097523738
+                            }
+                        ], 
+                        "argId": 8
+                    }
+                ]
+            }, 
+            {
+                "text": "wave refraction is caused by segments of the wave moving at different speeds as the water depth along the crest varies.", 
+                "sentenceId": 535, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "text": "segments of the wave moving at different speeds as the water depth along the crest", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.7516292347325787
+                            }, 
+                            {
+                                "A0": -0.024874071658016486
+                            }, 
+                            {
+                                "A3": -0.018099926247089747
+                            }, 
+                            {
+                                "A2": -0.019116689087627658
+                            }, 
+                            {
+                                "NONE": 2.0400090339362262
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "convection", 
+        "sentences": [
+            {
+                "text": "convection is the process of losing heat through the movement of air or water molecules across the skin.", 
+                "sentenceId": 506, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "losing", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.080569803420626057
+                            }, 
+                            {
+                                "A0": -0.082233876804972836
+                            }, 
+                            {
+                                "A3": -0.082158117560816701
+                            }, 
+                            {
+                                "A2": 0.86038958161460599
+                            }, 
+                            {
+                                "NONE": -0.02261528382819019
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "convection is the process of moving air over a warm object, where it picks up some of the heat.", 
+                "sentenceId": 400, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "moving", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.082143076690806477
+                            }, 
+                            {
+                                "A0": -0.086346205415330432
+                            }, 
+                            {
+                                "A3": -0.085943583907877805
+                            }, 
+                            {
+                                "A2": 0.76925126402333643
+                            }, 
+                            {
+                                "NONE": 0.068561231620344845
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "convection is the transfer of internal energy into or out of an object by the physical movement of a surrounding fluid that transfers the internal energy along with...", 
+                "sentenceId": 102, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "text": "transfer", 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": -0.077002812769760606
+                            }, 
+                            {
+                                "A0": -0.07996763603928804
+                            }, 
+                            {
+                                "A3": -0.078573420779358999
+                            }, 
+                            {
+                                "A2": 0.83123074789666029
+                            }, 
+                            {
+                                "NONE": 0.0027274735436363801
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "photosynthesis", 
+        "sentences": [
+            {
+                "text": "photosynthesis helps to balance oxygen and carbon dioxide in the air because plants produce oxygen through photosynthesis, this therefore goes into.", 
+                "sentenceId": 462, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "text": "balance oxygen and carbon dioxide in the air because plants produce oxygen through photosynthesis", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01508617067738916
+                            }, 
+                            {
+                                "A0": -0.028526806059367797
+                            }, 
+                            {
+                                "A3": 0.61865607859586369
+                            }, 
+                            {
+                                "A2": 0.023941336613639459
+                            }, 
+                            {
+                                "NONE": 1.5020863057795786
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis is the process by which organisms convert light energy into chemical energy in the form of carbohydrates.", 
+                "sentenceId": 465, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "text": "convert", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": -0.0077352332589012852
+                            }, 
+                            {
+                                "A0": -0.020127612503260936
+                            }, 
+                            {
+                                "A3": -0.011292038709824818
+                            }, 
+                            {
+                                "A2": 0.7665087794739015
+                            }, 
+                            {
+                                "NONE": 0.65466297265625706
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis occurs when pigments, molecules in the plant cell, absorb light photons and transfer them around to create chemical energy.", 
+                "sentenceId": 174, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 18, 
+                        "rolePredicted": "NONE", 
+                        "text": "around", 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.05664163444206699
+                            }, 
+                            {
+                                "A0": 0.085674481391746243
+                            }, 
+                            {
+                                "A3": 0.0060567314192271904
+                            }, 
+                            {
+                                "A2": -0.013008303957763511
+                            }, 
+                            {
+                                "NONE": 1.3183644530339378
+                            }
+                        ], 
+                        "argId": 7
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "pigments , molecules in the plant cell", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.10016906208149637
+                            }, 
+                            {
+                                "A0": 0.11691934263832048
+                            }, 
+                            {
+                                "A3": 0.080953047178926651
+                            }, 
+                            {
+                                "A2": -0.019937553003601362
+                            }, 
+                            {
+                                "NONE": 1.0518492736083893
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "text": "them", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.031505369710706665
+                            }, 
+                            {
+                                "A0": 0.091962188035554324
+                            }, 
+                            {
+                                "A3": 0.011619022446779002
+                            }, 
+                            {
+                                "A2": -0.0043968471503012824
+                            }, 
+                            {
+                                "NONE": 1.4747039195348686
+                            }
+                        ], 
+                        "argId": 8
+                    }, 
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "NONE", 
+                        "text": "transfer", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.067041285227286349
+                            }, 
+                            {
+                                "A0": -0.0086060383070878758
+                            }, 
+                            {
+                                "A3": 0.074004094292047642
+                            }, 
+                            {
+                                "A2": 0.0025409734609276573
+                            }, 
+                            {
+                                "NONE": 1.2374647888875077
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A2", 
+                        "text": "photosynthesis", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.020460733649874129
+                            }, 
+                            {
+                                "A0": -0.014126186862094305
+                            }, 
+                            {
+                                "A3": -0.0062259848932904871
+                            }, 
+                            {
+                                "A2": 0.52340387439313096
+                            }, 
+                            {
+                                "NONE": 1.0622903190266111
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "when pigments , molecules in the plant cell , absorb light photons and transfer them around to create chemical energy", 
+                        "endIdx": 22, 
+                        "probRoles": [
+                            {
+                                "A1": 0.047072307022167983
+                            }, 
+                            {
+                                "A0": -0.016940129112691771
+                            }, 
+                            {
+                                "A3": 0.10115174679337346
+                            }, 
+                            {
+                                "A2": 0.20820432122676716
+                            }, 
+                            {
+                                "NONE": 1.0699830451179311
+                            }
+                        ], 
+                        "argId": 9
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "text": "occurs", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": -0.022141771236191789
+                            }, 
+                            {
+                                "A0": -0.029920858062738837
+                            }, 
+                            {
+                                "A3": -0.0050088797694229255
+                            }, 
+                            {
+                                "A2": -0.0077824531963900309
+                            }, 
+                            {
+                                "NONE": 1.9915331063929549
+                            }
+                        ], 
+                        "argId": 10
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "text": "absorb", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.037441830513330318
+                            }, 
+                            {
+                                "A0": -0.020965979141299169
+                            }, 
+                            {
+                                "A3": 0.09187129862920862
+                            }, 
+                            {
+                                "A2": 0.2226530239822497
+                            }, 
+                            {
+                                "NONE": 1.1467413369008437
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 21, 
+                        "rolePredicted": "NONE", 
+                        "text": "chemical energy", 
+                        "endIdx": 22, 
+                        "probRoles": [
+                            {
+                                "A1": 0.21017126878417169
+                            }, 
+                            {
+                                "A0": -0.011318217611401005
+                            }, 
+                            {
+                                "A3": 0.10172983560035466
+                            }, 
+                            {
+                                "A2": -0.0093470824801377694
+                            }, 
+                            {
+                                "NONE": 1.2749029317980649
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 20, 
+                        "rolePredicted": "NONE", 
+                        "text": "create", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.01556581372662709
+                            }, 
+                            {
+                                "A0": -0.023794428279348745
+                            }, 
+                            {
+                                "A3": 0.27729976438050347
+                            }, 
+                            {
+                                "A2": 0.0036063128629115482
+                            }, 
+                            {
+                                "NONE": 1.1404474983661441
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "text": "to create chemical energy", 
+                        "endIdx": 22, 
+                        "probRoles": [
+                            {
+                                "A1": 0.01617687590937418
+                            }, 
+                            {
+                                "A0": -0.022876625313854565
+                            }, 
+                            {
+                                "A3": 0.27661726290322897
+                            }, 
+                            {
+                                "A2": -0.0089314166314759524
+                            }, 
+                            {
+                                "NONE": 1.3338044762755823
+                            }
+                        ], 
+                        "argId": 11
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "NONE", 
+                        "text": "light photons", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.19708181895252999
+                            }, 
+                            {
+                                "A0": 0.11761736590610959
+                            }, 
+                            {
+                                "A3": 0.071487805758751244
+                            }, 
+                            {
+                                "A2": -0.016507371441476154
+                            }, 
+                            {
+                                "NONE": 0.94031349411892606
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "basically, photosynthesis is the process by which plants convert the sun's light into energy.", 
+                "sentenceId": 350, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 16, 
+                        "rolePredicted": "A3", 
+                        "text": "energy", 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.053737755784855193
+                            }, 
+                            {
+                                "A0": -0.01132356340724619
+                            }, 
+                            {
+                                "A3": 0.57208501438616144
+                            }, 
+                            {
+                                "A2": -0.0010097494843269751
+                            }, 
+                            {
+                                "NONE": 1.4687554912792684
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "text": "convert", 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": -0.015802503863265822
+                            }, 
+                            {
+                                "A0": -0.019687277928358338
+                            }, 
+                            {
+                                "A3": -0.014688987096186063
+                            }, 
+                            {
+                                "A2": 0.77250874042233209
+                            }, 
+                            {
+                                "NONE": 0.65898977767340383
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "anoxygenic photosynthesis helps to maintain lower do which increases the power output.", 
+                "sentenceId": 211, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "NONE", 
+                        "text": "maintain lower do which increases the power output", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": -0.013085307776962964
+                            }, 
+                            {
+                                "A0": -0.016235627643103098
+                            }, 
+                            {
+                                "A3": 0.58549941472046074
+                            }, 
+                            {
+                                "A2": -0.0065594862200732233
+                            }, 
+                            {
+                                "NONE": 1.0912535880627934
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "text": "increases", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018269840036369632
+                            }, 
+                            {
+                                "A0": -0.024095605053854718
+                            }, 
+                            {
+                                "A3": -0.0035527791274334378
+                            }, 
+                            {
+                                "A2": 0.11068500756980579
+                            }, 
+                            {
+                                "NONE": 1.7935610507264139
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "text": "lower do which increases the power output", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0022733992917669879
+                            }, 
+                            {
+                                "A0": 0.014644063983884181
+                            }, 
+                            {
+                                "A3": 0.0075051014790066053
+                            }, 
+                            {
+                                "A2": 0.010944474256726486
+                            }, 
+                            {
+                                "NONE": 1.5566227977056051
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "anoxygenic photosynthesis", 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0052828987338773906
+                            }, 
+                            {
+                                "A0": -0.015990254329943186
+                            }, 
+                            {
+                                "A3": 0.0050640841958959071
+                            }, 
+                            {
+                                "A2": 0.10848641370612108
+                            }, 
+                            {
+                                "NONE": 1.6630489528080845
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "text": "to maintain lower do which increases the power output", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": -0.013656560733846459
+                            }, 
+                            {
+                                "A0": -0.015822525634326026
+                            }, 
+                            {
+                                "A3": 0.58543887636666447
+                            }, 
+                            {
+                                "A2": -0.0088134063387255851
+                            }, 
+                            {
+                                "NONE": 1.1473341009841935
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "helps", 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": -0.019758681478955094
+                            }, 
+                            {
+                                "A0": -0.028786258079556815
+                            }, 
+                            {
+                                "A3": -0.0096252493331034032
+                            }, 
+                            {
+                                "A2": -0.013723931349719073
+                            }, 
+                            {
+                                "NONE": 2.078034963221794
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "text": "the power output", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.017293556827866093
+                            }, 
+                            {
+                                "A0": 0.029533766470874745
+                            }, 
+                            {
+                                "A3": 0.066665249114542469
+                            }, 
+                            {
+                                "A2": 0.014313172508042329
+                            }, 
+                            {
+                                "NONE": 1.5924406828863567
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "text": "maintain", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": -0.012994375272637075
+                            }, 
+                            {
+                                "A0": -0.01021446664848049
+                            }, 
+                            {
+                                "A3": 0.58859737348963326
+                            }, 
+                            {
+                                "A2": -0.0044875062374923076
+                            }, 
+                            {
+                                "NONE": 1.0076330489159357
+                            }
+                        ], 
+                        "argId": 7
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis occurs when plants are in sunlight.", 
+                "sentenceId": 230, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "text": "in sunlight", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.40070575776948714
+                            }, 
+                            {
+                                "A0": -0.0214580674950615
+                            }, 
+                            {
+                                "A3": 0.037317442417162894
+                            }, 
+                            {
+                                "A2": 0.24608677258860759
+                            }, 
+                            {
+                                "NONE": 1.4704530300995109
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis is caused by a decrease of carboxyla- tion efficiency (wise et al.", 
+                "sentenceId": 332, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "text": "photosynthesis", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": -0.017261601281460533
+                            }, 
+                            {
+                                "A0": -0.020515440959346706
+                            }, 
+                            {
+                                "A3": -0.020848343996493806
+                            }, 
+                            {
+                                "A2": 0.17853286518981187
+                            }, 
+                            {
+                                "NONE": 2.1179287155491853
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "text": "a decrease of carboxyla - tion efficiency", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.74995552121866593
+                            }, 
+                            {
+                                "A0": -0.016610227466345339
+                            }, 
+                            {
+                                "A3": -0.0069383004645830375
+                            }, 
+                            {
+                                "A2": -0.013577687885556695
+                            }, 
+                            {
+                                "NONE": 1.0211907641482088
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "text": "caused", 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": -0.031074486837218876
+                            }, 
+                            {
+                                "A0": -0.038620276518446919
+                            }, 
+                            {
+                                "A3": -0.02088803341954654
+                            }, 
+                            {
+                                "A2": 0.061188471573320823
+                            }, 
+                            {
+                                "NONE": 2.6381522994109714
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "NONE", 
+                        "text": "a decrease of carboxyla - tion efficiency -LRB- wise et al.", 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.74773831925712109
+                            }, 
+                            {
+                                "A0": -0.016337704267745383
+                            }, 
+                            {
+                                "A3": -0.0066744283906494022
+                            }, 
+                            {
+                                "A2": -0.013942606963134135
+                            }, 
+                            {
+                                "NONE": 1.0486144772973722
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "solar radiation in the par wavelength range is necessary for photosynthesis, which is the basic process for crop production.", 
+                "sentenceId": 266, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A1", 
+                        "text": "solar radiation in the par wavelength range", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.70209956577890775
+                            }, 
+                            {
+                                "A0": -0.020740203362296115
+                            }, 
+                            {
+                                "A3": 0.0069400097596627776
+                            }, 
+                            {
+                                "A2": -0.021144451522126826
+                            }, 
+                            {
+                                "NONE": 1.5336203527697239
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photoinhibition of photosynthesis causes a reduction in vegetative.", 
+                "sentenceId": 277, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A3", 
+                        "text": "a reduction in vegetative .", 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.042434597542077283
+                            }, 
+                            {
+                                "A0": 0.0072392990643963956
+                            }, 
+                            {
+                                "A3": 0.60227113395564524
+                            }, 
+                            {
+                                "A2": -0.017623340535909273
+                            }, 
+                            {
+                                "NONE": 1.4126436829947133
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis is the process of converting simple organic compounds (co2 and h2o) into more complex organic compounds (glucose and oxygen), in plants:", 
+                "sentenceId": 186, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "converting", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018102354217806385
+                            }, 
+                            {
+                                "A0": -0.02028206875608933
+                            }, 
+                            {
+                                "A3": -0.013953156518150166
+                            }, 
+                            {
+                                "A2": 0.5638982289638097
+                            }, 
+                            {
+                                "NONE": 0.79223467156026017
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "chlorophyll is necessary for photosynthesis.", 
+                "sentenceId": 88, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A1", 
+                        "text": "chlorophyll", 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": 0.65975093932906537
+                            }, 
+                            {
+                                "A0": 0.0019212247105674443
+                            }, 
+                            {
+                                "A3": -0.0040410667279778536
+                            }, 
+                            {
+                                "A2": 0.0069631345146150062
+                            }, 
+                            {
+                                "NONE": 1.0043130187312608
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis helps to balance oxygen and carbon dioxide in the air because plants produce oxygen through photosynthesis, this therefore goes into air which...", 
+                "sentenceId": 33, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "text": "balance oxygen and carbon dioxide in the air because plants produce oxygen through photosynthesis", 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": -0.01508617067738916
+                            }, 
+                            {
+                                "A0": -0.028526806059367797
+                            }, 
+                            {
+                                "A3": 0.61865607859586369
+                            }, 
+                            {
+                                "A2": 0.023941336613639459
+                            }, 
+                            {
+                                "NONE": 1.5020863057795786
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis is the process of turning the energy of sunlight into chemical energy from the raw products of co2 and h2o.", 
+                "sentenceId": 221, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "turning", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.018529151096445387
+                            }, 
+                            {
+                                "A0": -0.022789541884078664
+                            }, 
+                            {
+                                "A3": -0.016775948327022009
+                            }, 
+                            {
+                                "A2": 0.70827478137780897
+                            }, 
+                            {
+                                "NONE": 0.78325088179528768
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis is the process of making food...", 
+                "sentenceId": 27, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "text": "making", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": -0.025593571727335125
+                            }, 
+                            {
+                                "A0": -0.029799421291791896
+                            }, 
+                            {
+                                "A3": -0.018193313444522755
+                            }, 
+                            {
+                                "A2": 0.71528641090677325
+                            }, 
+                            {
+                                "NONE": 1.1728057663718361
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A0", 
+                        "text": "food", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.04933498593551406
+                            }, 
+                            {
+                                "A0": 0.54140690459129992
+                            }, 
+                            {
+                                "A3": 0.016784473346828119
+                            }, 
+                            {
+                                "A2": -0.0049155140671233652
+                            }, 
+                            {
+                                "NONE": 0.94879929036353039
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "photosynthesis occurs when pigments in photosynthesizers absorb the energy of photons, initiating a chain of photochemical and chemical events.", 
+                "sentenceId": 137, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "text": "the energy of photons , initiating a chain of photochemical and chemical events", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.24029116457757238
+                            }, 
+                            {
+                                "A0": 0.033234920482617988
+                            }, 
+                            {
+                                "A3": 0.062108244452035666
+                            }, 
+                            {
+                                "A2": 0.03423813257314165
+                            }, 
+                            {
+                                "NONE": 1.6465701720607184
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

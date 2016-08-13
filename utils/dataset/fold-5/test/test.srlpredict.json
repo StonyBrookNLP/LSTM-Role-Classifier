@@ -1,0 +1,3384 @@
+[
+    {
+        "process": "breathing", 
+        "sentences": [
+            {
+                "text": "did you know that co2 is necessary for breathing to...", 
+                "sentenceId": 319, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 111:1 361:1 539:1 635:1 1297:1 1599:1 1600:1 1678:1 1727:1 1879:1 1910:1 1932:1 1959:1 1960:1 1961:1 1962:1 1963:1 1964:1 1965:1 1966:1 1967:1 2293:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.8368339483429691
+                            }, 
+                            {
+                                "A2": 0.027359321245840895
+                            }, 
+                            {
+                                "A3": 0.005149664969053773
+                            }, 
+                            {
+                                "NONE": 0.08489400431443456
+                            }, 
+                            {
+                                "A0": 0.04576306112770166
+                            }
+                        ], 
+                        "text": "co2", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "deeper breathing occurs due to the stretching of the torso allowing for better circulation, resulting in less fatigue.", 
+                "sentenceId": 254, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 541:1 559:1 564:1 570:1 592:1 593:1 609:1 632:1 859:1 2284:1 2890:1 2915:1 3524:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.03795805519306061
+                            }, 
+                            {
+                                "A2": 0.08055062080436093
+                            }, 
+                            {
+                                "A3": 0.022184303188434028
+                            }, 
+                            {
+                                "NONE": 0.8520933219129616
+                            }, 
+                            {
+                                "A0": 0.007213698901182717
+                            }
+                        ], 
+                        "text": "the stretching of the torso allowing for better circulation , resulting in less fatigue", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of getting oxygen into the lungs and carbon dioxide out of the lungs.", 
+                "sentenceId": 392, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 559:1 592:1 597:1 628:1 2268:1 2826:1 2888:1 2974:1 3007:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0024937466001767965
+                            }, 
+                            {
+                                "A2": 0.8704943336212653
+                            }, 
+                            {
+                                "A3": 0.0013543273434905142
+                            }, 
+                            {
+                                "NONE": 0.12493265522597355
+                            }, 
+                            {
+                                "A0": 0.000724937209093699
+                            }
+                        ], 
+                        "text": "getting oxygen into the lungs and carbon dioxide", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 5:1 391:1 543:1 557:1 558:1 568:1 590:1 601:1 602:1 628:1 760:1 2290:1 2887:1 2903:1 3178:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.028906046011750997
+                            }, 
+                            {
+                                "A2": 0.04699624660386315
+                            }, 
+                            {
+                                "A3": 0.6571608145749978
+                            }, 
+                            {
+                                "NONE": 0.23464911028504828
+                            }, 
+                            {
+                                "A0": 0.032287782524339816
+                            }
+                        ], 
+                        "text": "the lungs and carbon dioxide", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 559:1 592:1 597:1 628:1 2268:1 2826:1 2888:1 2974:1 3007:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0024937466001767965
+                            }, 
+                            {
+                                "A2": 0.8704943336212653
+                            }, 
+                            {
+                                "A3": 0.0013543273434905142
+                            }, 
+                            {
+                                "NONE": 0.12493265522597355
+                            }, 
+                            {
+                                "A0": 0.000724937209093699
+                            }
+                        ], 
+                        "text": "getting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of transporting oxygen from the atmosphere into the body and the process of eliminating carbon dioxide from the body.", 
+                "sentenceId": 478, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 559:1 568:1 592:1 597:1 601:1 602:1 628:1 1439:1 2268:1 2860:1 2888:1 2903:1 2906:1 2974:1 3183:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0018341174799196077
+                            }, 
+                            {
+                                "A2": 0.9520307077210982
+                            }, 
+                            {
+                                "A3": 0.001899255488113017
+                            }, 
+                            {
+                                "NONE": 0.04324622264511278
+                            }, 
+                            {
+                                "A0": 0.0009896966657564471
+                            }
+                        ], 
+                        "text": "transporting oxygen from the atmosphere into the body", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 18, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 541:1 557:1 559:1 592:1 597:1 628:1 2268:1 2906:1 3178:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 18, 
+                        "probRoles": [
+                            {
+                                "A1": 0.016713034199624367
+                            }, 
+                            {
+                                "A2": 0.7759306066285923
+                            }, 
+                            {
+                                "A3": 0.005012989720850431
+                            }, 
+                            {
+                                "NONE": 0.20174136781636573
+                            }, 
+                            {
+                                "A0": 0.0006020016345672024
+                            }
+                        ], 
+                        "text": "eliminating", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 539:1 557:1 595:1 629:1 1580:1 1598:1 3054:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "A1": 0.12307159194150961
+                            }, 
+                            {
+                                "A2": 0.10842541824801497
+                            }, 
+                            {
+                                "A3": 0.1252810622433933
+                            }, 
+                            {
+                                "NONE": 0.5605510369045327
+                            }, 
+                            {
+                                "A0": 0.0826708906625494
+                            }
+                        ], 
+                        "text": "carbon dioxide", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A0", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 5:1 260:1 539:1 558:1 590:1 628:1 1439:1 2290:1 2790:1 2887:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.10168632637450765
+                            }, 
+                            {
+                                "A2": 0.02994531968463523
+                            }, 
+                            {
+                                "A3": 0.399699738801341
+                            }, 
+                            {
+                                "NONE": 0.410260361351068
+                            }, 
+                            {
+                                "A0": 0.05840825378844805
+                            }
+                        ], 
+                        "text": "the body", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 5:1 260:1 539:1 558:1 590:1 628:1 1438:1 1439:1 2269:1 2864:1 2887:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.05884347135401571
+                            }, 
+                            {
+                                "A2": 0.02244477474108811
+                            }, 
+                            {
+                                "A3": 0.02688896553440396
+                            }, 
+                            {
+                                "NONE": 0.8228456447925999
+                            }, 
+                            {
+                                "A0": 0.06897714357789232
+                            }
+                        ], 
+                        "text": "oxygen from the atmosphere", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 559:1 568:1 592:1 597:1 601:1 602:1 628:1 1439:1 2268:1 2860:1 2888:1 2903:1 2906:1 2974:1 3183:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0018341174799196077
+                            }, 
+                            {
+                                "A2": 0.9520307077210982
+                            }, 
+                            {
+                                "A3": 0.001899255488113017
+                            }, 
+                            {
+                                "NONE": 0.04324622264511278
+                            }, 
+                            {
+                                "A0": 0.0009896966657564471
+                            }
+                        ], 
+                        "text": "transporting", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which animals bring air or water into contact with their.", 
+                "sentenceId": 428, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 465:1 542:1 557:1 559:1 571:1 592:1 594:1 597:1 627:1 2286:1 2818:1 2888:1 2961:1 3059:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.002373460885282669
+                            }, 
+                            {
+                                "A2": 0.9677036570040001
+                            }, 
+                            {
+                                "A3": 0.010384729583665058
+                            }, 
+                            {
+                                "NONE": 0.017370520855682345
+                            }, 
+                            {
+                                "A0": 0.0021676316713695044
+                            }
+                        ], 
+                        "text": "bring", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 19:1 539:1 557:1 568:1 601:1 602:1 626:1 1492:1 1493:1 2613:1 2943:1 3084:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.2121094729184497
+                            }, 
+                            {
+                                "A2": 0.03028172704409471
+                            }, 
+                            {
+                                "A3": 0.2111874091560059
+                            }, 
+                            {
+                                "NONE": 0.48123791678554273
+                            }, 
+                            {
+                                "A0": 0.0651834740959069
+                            }
+                        ], 
+                        "text": "air or water", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the work of breathing occurs due to increased rigidity of the conducting tubules, changes in smooth muscle structure, and increased thickness of the mucosal...", 
+                "sentenceId": 264, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 539:1 559:1 579:1 592:1 596:1 630:1 859:1 1153:1 1535:1 1583:1 2274:1 2890:1 3296:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.6238105913740849
+                            }, 
+                            {
+                                "A2": 0.008229969547788095
+                            }, 
+                            {
+                                "A3": 0.1926002879555684
+                            }, 
+                            {
+                                "NONE": 0.16968991088726945
+                            }, 
+                            {
+                                "A0": 0.005669240235289157
+                            }
+                        ], 
+                        "text": "increased rigidity of the conducting tubules", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which air is drawn into the body and waste gases are...", 
+                "sentenceId": 5, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 283:1 546:1 557:1 559:1 561:1 592:1 612:1 613:1 627:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2286:1 2669:1 2888:1 2891:1 2961:1 3059:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0038171980435479464
+                            }, 
+                            {
+                                "A2": 0.96456323729683
+                            }, 
+                            {
+                                "A3": 0.0012642800265241583
+                            }, 
+                            {
+                                "NONE": 0.029851141601612747
+                            }, 
+                            {
+                                "A0": 0.0005041430314852691
+                            }
+                        ], 
+                        "text": "drawn", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which air is drawn into the chest through the nose and mouth ...", 
+                "sentenceId": 328, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 283:1 546:1 557:1 559:1 561:1 592:1 612:1 613:1 627:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2286:1 2669:1 2888:1 2891:1 2961:1 3057:1 3059:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.003279364631911628
+                            }, 
+                            {
+                                "A2": 0.9565957555433215
+                            }, 
+                            {
+                                "A3": 0.0011220049654824009
+                            }, 
+                            {
+                                "NONE": 0.03833105409301278
+                            }, 
+                            {
+                                "A0": 0.0006718207662716009
+                            }
+                        ], 
+                        "text": "drawn", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 31:1 284:1 539:1 558:1 590:1 628:1 1259:1 2290:1 2887:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.03716416845703484
+                            }, 
+                            {
+                                "A2": 0.0223475267243391
+                            }, 
+                            {
+                                "A3": 0.8222273852583001
+                            }, 
+                            {
+                                "NONE": 0.09505597287236232
+                            }, 
+                            {
+                                "A0": 0.023204946687963624
+                            }
+                        ], 
+                        "text": "into the chest", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 31:1 284:1 539:1 557:1 558:1 568:1 590:1 601:1 602:1 628:1 2318:1 2887:1 2903:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.13547077496137613
+                            }, 
+                            {
+                                "A2": 0.10789785999292152
+                            }, 
+                            {
+                                "A3": 0.27019889742929903
+                            }, 
+                            {
+                                "NONE": 0.45798346782938776
+                            }, 
+                            {
+                                "A0": 0.028448999787015584
+                            }
+                        ], 
+                        "text": "through the nose", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 39:1 294:1 539:1 634:1 1260:1 1879:1 1910:1 1932:1 1959:1 1960:1 1961:1 1962:1 1963:1 1964:1 1965:1 1966:1 1967:1 2348:1 2613:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.10568984004488713
+                            }, 
+                            {
+                                "A2": 0.037148525607446754
+                            }, 
+                            {
+                                "A3": 0.0028869994696353175
+                            }, 
+                            {
+                                "NONE": 0.637410318030409
+                            }, 
+                            {
+                                "A0": 0.21686431684762172
+                            }
+                        ], 
+                        "text": "air", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of inhaling air through the nose or mouth.", 
+                "sentenceId": 520, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 5:1 260:1 539:1 557:1 558:1 568:1 590:1 601:1 602:1 628:1 2318:1 2887:1 2943:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.20241003958331377
+                            }, 
+                            {
+                                "A2": 0.054350826458710005
+                            }, 
+                            {
+                                "A3": 0.048686916143625414
+                            }, 
+                            {
+                                "NONE": 0.6569345644819126
+                            }, 
+                            {
+                                "A0": 0.037617653332438224
+                            }
+                        ], 
+                        "text": "the nose or mouth", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "this difficulty in breathing occurs due to reduced pumping ability of the heart causing the return of the blood from the heart to the lungs.", 
+                "sentenceId": 175, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 539:1 559:1 564:1 579:1 592:1 596:1 607:1 630:1 1501:1 1520:1 2274:1 2558:1 2890:1 3233:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": 0.5216917710456126
+                            }, 
+                            {
+                                "A2": 0.022531082787216637
+                            }, 
+                            {
+                                "A3": 0.08829574221200472
+                            }, 
+                            {
+                                "NONE": 0.3629432735409647
+                            }, 
+                            {
+                                "A0": 0.004538130414201226
+                            }
+                        ], 
+                        "text": "reduced pumping ability of the heart causing the return of the blood from the heart to the lungs", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of taking in this vital energy and removing the waste products out of our body and mind.", 
+                "sentenceId": 121, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 564:1 568:1 577:1 597:1 601:1 602:1 611:1 628:1 2268:1 2487:1 2903:1 2923:1 2964:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0040678188284353056
+                            }, 
+                            {
+                                "A2": 0.8572450011945149
+                            }, 
+                            {
+                                "A3": 0.004459471307412702
+                            }, 
+                            {
+                                "NONE": 0.13357505339974293
+                            }, 
+                            {
+                                "A0": 0.0006526552698941747
+                            }
+                        ], 
+                        "text": "taking in this vital energy and removing the waste products out of our body and mind", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 539:1 557:1 568:1 582:1 601:1 602:1 615:1 628:1 1455:1 1456:1 2268:1 2790:1 2903:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.08893926755437967
+                            }, 
+                            {
+                                "A2": 0.3706556418913958
+                            }, 
+                            {
+                                "A3": 0.025141185669624835
+                            }, 
+                            {
+                                "NONE": 0.48939617135823893
+                            }, 
+                            {
+                                "A0": 0.02586773352636073
+                            }
+                        ], 
+                        "text": "of our body and mind", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 163:1 319:1 541:1 559:1 571:1 592:1 597:1 629:1 1456:1 2367:1 2573:1 3007:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 21, 
+                        "probRoles": [
+                            {
+                                "A1": 0.014864239044356265
+                            }, 
+                            {
+                                "A2": 0.3792647415991182
+                            }, 
+                            {
+                                "A3": 0.023326080835814254
+                            }, 
+                            {
+                                "NONE": 0.5690087579238899
+                            }, 
+                            {
+                                "A0": 0.013536180596821415
+                            }
+                        ], 
+                        "text": "and removing the waste products out of our body and mind", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 163:1 319:1 541:1 559:1 571:1 592:1 597:1 629:1 1456:1 2367:1 2573:1 3007:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.014864239044356265
+                            }, 
+                            {
+                                "A2": 0.3792647415991182
+                            }, 
+                            {
+                                "A3": 0.023326080835814254
+                            }, 
+                            {
+                                "NONE": 0.5690087579238899
+                            }, 
+                            {
+                                "A0": 0.013536180596821415
+                            }
+                        ], 
+                        "text": "removing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 13, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 165:1 543:1 557:1 558:1 590:1 595:1 629:1 899:1 1456:1 2320:1 2887:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.07441406960911694
+                            }, 
+                            {
+                                "A2": 0.048152275794427206
+                            }, 
+                            {
+                                "A3": 0.05675927953380162
+                            }, 
+                            {
+                                "NONE": 0.6996860209080731
+                            }, 
+                            {
+                                "A0": 0.12098835415458101
+                            }
+                        ], 
+                        "text": "the waste products", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 16:1 286:1 539:1 558:1 562:1 590:1 596:1 629:1 1968:1 2127:1 2367:1 2461:1 3103:1 3321:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.03830178823721051
+                            }, 
+                            {
+                                "A2": 0.004049923945723823
+                            }, 
+                            {
+                                "A3": 0.08912244254878537
+                            }, 
+                            {
+                                "NONE": 0.30898278799323037
+                            }, 
+                            {
+                                "A0": 0.5595430572750498
+                            }
+                        ], 
+                        "text": "this vital energy", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 564:1 568:1 577:1 597:1 601:1 602:1 611:1 628:1 2268:1 2487:1 2903:1 2923:1 2964:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0040678188284353056
+                            }, 
+                            {
+                                "A2": 0.8572450011945149
+                            }, 
+                            {
+                                "A3": 0.004459471307412702
+                            }, 
+                            {
+                                "NONE": 0.13357505339974293
+                            }, 
+                            {
+                                "A0": 0.0006526552698941747
+                            }
+                        ], 
+                        "text": "taking in", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of taking in oxygen to fuel your activity, and there are right and wrong ways to do it.", 
+                "sentenceId": 341, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 566:1 577:1 597:1 607:1 611:1 628:1 2268:1 2487:1 2923:1 2974:1 3471:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0027435526288401017
+                            }, 
+                            {
+                                "A2": 0.8778754699982912
+                            }, 
+                            {
+                                "A3": 0.0038141698458812106
+                            }, 
+                            {
+                                "NONE": 0.11520555684083152
+                            }, 
+                            {
+                                "A0": 0.0003612506861559476
+                            }
+                        ], 
+                        "text": "taking in", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "trouble breathing occurs due to the weakening of associated muscles, although it is more common when treating the neck bands.", 
+                "sentenceId": 301, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 63:1 322:1 539:1 558:1 559:1 590:1 592:1 630:1 859:1 2012:1 2274:1 2887:1 2890:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.8759509574309955
+                            }, 
+                            {
+                                "A2": 0.02977487167992506
+                            }, 
+                            {
+                                "A3": 0.01438500013184599
+                            }, 
+                            {
+                                "NONE": 0.06798181889342546
+                            }, 
+                            {
+                                "A0": 0.01190735186380803
+                            }
+                        ], 
+                        "text": "the weakening of associated muscles", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process of moving air into and out of the lungs.", 
+                "sentenceId": 500, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 559:1 592:1 597:1 628:1 751:1 2268:1 2498:1 2888:1 3059:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0034060908402160487
+                            }, 
+                            {
+                                "A2": 0.9311955068867438
+                            }, 
+                            {
+                                "A3": 0.0013484514635561842
+                            }, 
+                            {
+                                "NONE": 0.06351990757514232
+                            }, 
+                            {
+                                "A0": 0.000530043234341619
+                            }
+                        ], 
+                        "text": "moving air into and out of the lungs", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 559:1 592:1 597:1 628:1 751:1 2268:1 2498:1 2888:1 3059:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0034060908402160487
+                            }, 
+                            {
+                                "A2": 0.9311955068867438
+                            }, 
+                            {
+                                "A3": 0.0013484514635561842
+                            }, 
+                            {
+                                "NONE": 0.06351990757514232
+                            }, 
+                            {
+                                "A0": 0.000530043234341619
+                            }
+                        ], 
+                        "text": "moving", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "breathing is the process by which oxygen in the air is brought into the lungs and into close contact with the blood, which absorbs it and carries it to all parts of the...", 
+                "sentenceId": 487, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 283:1 546:1 557:1 559:1 561:1 568:1 592:1 601:1 602:1 612:1 613:1 627:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2286:1 2818:1 2888:1 2891:1 2903:1 2961:1 2974:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0011445718020941153
+                            }, 
+                            {
+                                "A2": 0.9759140072010088
+                            }, 
+                            {
+                                "A3": 0.002196467423625857
+                            }, 
+                            {
+                                "NONE": 0.01997860943715716
+                            }, 
+                            {
+                                "A0": 0.0007663441361137984
+                            }
+                        ], 
+                        "text": "brought", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "weathering", 
+        "sentences": [
+            {
+                "text": "weathering is the breaking down of rocks, soil and minerals as well as artificial materials through contact with the earth's atmosphere, biota and waters.", 
+                "sentenceId": 296, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 360:1 541:1 557:1 568:1 570:1 571:1 573:1 593:1 600:1 601:1 602:1 632:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2284:1 2506:1 2903:1 2915:1 2981:1 3297:1 3499:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0015869707253585719
+                            }, 
+                            {
+                                "A2": 0.5083584004959868
+                            }, 
+                            {
+                                "A3": 0.05947469218480047
+                            }, 
+                            {
+                                "NONE": 0.42930093792693513
+                            }, 
+                            {
+                                "A0": 0.0012789986669190872
+                            }
+                        ], 
+                        "text": "breaking", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process of breaking big rocks into little ones.", 
+                "sentenceId": 122, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 16:1 265:1 543:1 562:1 596:1 629:1 1496:1 1497:1 1498:1 1687:1 1745:1 1824:1 1825:1 1826:1 2291:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.05768348559138077
+                            }, 
+                            {
+                                "A2": 0.003965745696031471
+                            }, 
+                            {
+                                "A3": 0.2705706725432585
+                            }, 
+                            {
+                                "NONE": 0.0664110074126125
+                            }, 
+                            {
+                                "A0": 0.6013690887567167
+                            }
+                        ], 
+                        "text": "big rocks", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering is the process of breaking down rocks and minerals into smaller pieces...", 
+                "sentenceId": 100, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 16:1 265:1 543:1 568:1 571:1 601:1 602:1 629:1 779:1 780:1 1496:1 1497:1 1498:1 1687:1 1745:1 1824:1 1825:1 1826:1 2291:1 2903:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.014743303541163754
+                            }, 
+                            {
+                                "A2": 0.013931024607037788
+                            }, 
+                            {
+                                "A3": 0.154203507116197
+                            }, 
+                            {
+                                "NONE": 0.037013050275417084
+                            }, 
+                            {
+                                "A0": 0.7801091144601845
+                            }
+                        ], 
+                        "text": "rocks and minerals", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 559:1 571:1 577:1 592:1 597:1 611:1 628:1 779:1 2268:1 2506:1 2888:1 2981:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0032211803697436404
+                            }, 
+                            {
+                                "A2": 0.8632454288941185
+                            }, 
+                            {
+                                "A3": 0.0034412352322096915
+                            }, 
+                            {
+                                "NONE": 0.12822362109116714
+                            }, 
+                            {
+                                "A0": 0.0018685344127610769
+                            }
+                        ], 
+                        "text": "breaking down", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "this mechanism of weathering causes the outer surface of the rock to fall off in...", 
+                "sentenceId": 4, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 129:1 257:1 542:1 559:1 565:1 577:1 592:1 599:1 611:1 624:1 2289:1 2901:1 2923:1 3438:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.009827110522721005
+                            }, 
+                            {
+                                "A2": 0.009834552422009955
+                            }, 
+                            {
+                                "A3": 0.5183046836257827
+                            }, 
+                            {
+                                "NONE": 0.45969129670684844
+                            }, 
+                            {
+                                "A0": 0.0023423567226378735
+                            }
+                        ], 
+                        "text": "the outer surface of the rock to fall off in ...", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering is the process of breaking down rock.", 
+                "sentenceId": 11, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 16:1 286:1 539:1 629:1 779:1 780:1 1496:1 1497:1 1498:1 1687:1 1745:1 1824:1 1825:1 1826:1 2291:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.030776274813172976
+                            }, 
+                            {
+                                "A2": 0.013129764900209066
+                            }, 
+                            {
+                                "A3": 0.04933597388519893
+                            }, 
+                            {
+                                "NONE": 0.07658996151844265
+                            }, 
+                            {
+                                "A0": 0.8301680248829764
+                            }
+                        ], 
+                        "text": "rock", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 577:1 597:1 611:1 628:1 779:1 2268:1 2506:1 2981:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0029436954770305887
+                            }, 
+                            {
+                                "A2": 0.6996915651604366
+                            }, 
+                            {
+                                "A3": 0.003839851080438189
+                            }, 
+                            {
+                                "NONE": 0.2921157295198028
+                            }, 
+                            {
+                                "A0": 0.0014091587622918464
+                            }
+                        ], 
+                        "text": "breaking down", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering helps to change the surface of the earth.", 
+                "sentenceId": 275, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 9:1 264:1 542:1 557:1 565:1 597:1 599:1 624:1 658:1 1705:1 1835:1 2272:1 2452:1 2901:1 3237:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0014127384602466244
+                            }, 
+                            {
+                                "A2": 0.0624711668657559
+                            }, 
+                            {
+                                "A3": 0.863064222491998
+                            }, 
+                            {
+                                "NONE": 0.07066049911459973
+                            }, 
+                            {
+                                "A0": 0.0023913730673997898
+                            }
+                        ], 
+                        "text": "change the surface of the earth", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process of breaking big rocks into little...", 
+                "sentenceId": 349, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 16:1 265:1 543:1 562:1 596:1 629:1 1496:1 1497:1 1498:1 1687:1 1745:1 1824:1 1825:1 1826:1 2291:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.05768348559138077
+                            }, 
+                            {
+                                "A2": 0.003965745696031471
+                            }, 
+                            {
+                                "A3": 0.2705706725432585
+                            }, 
+                            {
+                                "NONE": 0.0664110074126125
+                            }, 
+                            {
+                                "A0": 0.6013690887567167
+                            }
+                        ], 
+                        "text": "big rocks", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 559:1 571:1 592:1 597:1 628:1 2268:1 2506:1 2888:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0025670673315027447
+                            }, 
+                            {
+                                "A2": 0.9033047146322182
+                            }, 
+                            {
+                                "A3": 0.003282763930791538
+                            }, 
+                            {
+                                "NONE": 0.08926854765688241
+                            }, 
+                            {
+                                "A0": 0.0015769064486051022
+                            }
+                        ], 
+                        "text": "breaking", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process of breaking rocks into smaller pieces and ...", 
+                "sentenceId": 269, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A0", 
+                        "annotatedRole": "A0", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 16:1 265:1 543:1 629:1 1496:1 1497:1 1498:1 1687:1 1745:1 1824:1 1825:1 1826:1 2291:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.024220332933279035
+                            }, 
+                            {
+                                "A2": 0.014835173376359482
+                            }, 
+                            {
+                                "A3": 0.15194526147825158
+                            }, 
+                            {
+                                "NONE": 0.07573567154548685
+                            }, 
+                            {
+                                "A0": 0.7332635606666231
+                            }
+                        ], 
+                        "text": "rocks", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "as discussed in the previous section, weathering helps to release toxic and potentially toxic elements as well as mineral dusts into surface environments,...", 
+                "sentenceId": 135, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 9:1 264:1 542:1 561:1 565:1 570:1 571:1 573:1 593:1 597:1 599:1 601:1 602:1 624:1 658:1 1705:1 1835:1 2272:1 2551:1 2901:1 2915:1 3297:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "A1": 0.00021498005696072783
+                            }, 
+                            {
+                                "A2": 0.010067842234056884
+                            }, 
+                            {
+                                "A3": 0.8078126167947294
+                            }, 
+                            {
+                                "NONE": 0.17892377368302118
+                            }, 
+                            {
+                                "A0": 0.002980787231232008
+                            }
+                        ], 
+                        "text": "release toxic and potentially toxic elements as well as mineral dusts into surface environments ,", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process by which rocks are broken into smaller...", 
+                "sentenceId": 157, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 31:1 554:1 628:1 1056:1 1496:1 1497:1 1498:1 1687:1 1745:1 1824:1 1825:1 1826:1 2290:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "A1": 0.009141283978632498
+                            }, 
+                            {
+                                "A2": 0.016965514317682846
+                            }, 
+                            {
+                                "A3": 0.8350046436455325
+                            }, 
+                            {
+                                "NONE": 0.11746623223238437
+                            }, 
+                            {
+                                "A0": 0.02142232582576774
+                            }
+                        ], 
+                        "text": "smaller", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 283:1 546:1 559:1 571:1 574:1 592:1 612:1 613:1 627:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2286:1 2506:1 2888:1 2961:1 2980:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0015522921441465402
+                            }, 
+                            {
+                                "A2": 0.932871011835871
+                            }, 
+                            {
+                                "A3": 0.003956429123643916
+                            }, 
+                            {
+                                "NONE": 0.06011304882082573
+                            }, 
+                            {
+                                "A0": 0.0015072180755128506
+                            }
+                        ], 
+                        "text": "broken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "physical weathering causes fracturing of feldspars along their cleavage planes.", 
+                "sentenceId": 255, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 541:1 559:1 592:1 631:1 775:1 1781:1 2289:1 2890:1 3107:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.004738401100991466
+                            }, 
+                            {
+                                "A2": 0.1090872667992338
+                            }, 
+                            {
+                                "A3": 0.3432534954612104
+                            }, 
+                            {
+                                "NONE": 0.5350890841428997
+                            }, 
+                            {
+                                "A0": 0.007831752495664623
+                            }
+                        ], 
+                        "text": "fracturing of feldspars along their cleavage planes .", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "mechanical weathering is the process by which rock is broken into smaller pieces without significant changes in composition.", 
+                "sentenceId": 246, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 283:1 546:1 557:1 559:1 561:1 592:1 612:1 613:1 627:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2286:1 2506:1 2888:1 2891:1 2961:1 3002:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.001946271605344604
+                            }, 
+                            {
+                                "A2": 0.9641550281653597
+                            }, 
+                            {
+                                "A3": 0.0018639460224011504
+                            }, 
+                            {
+                                "NONE": 0.03151026911138761
+                            }, 
+                            {
+                                "A0": 0.0005244850955068699
+                            }
+                        ], 
+                        "text": "broken", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 31:1 293:1 543:1 578:1 596:1 628:1 1056:1 2290:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 13, 
+                        "probRoles": [
+                            {
+                                "A1": 0.024603612590060175
+                            }, 
+                            {
+                                "A2": 0.0036101752518456556
+                            }, 
+                            {
+                                "A3": 0.8541402503855784
+                            }, 
+                            {
+                                "NONE": 0.1010475927192377
+                            }, 
+                            {
+                                "A0": 0.016598369053278127
+                            }
+                        ], 
+                        "text": "smaller pieces", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "weathering is the process by which rocks are turned into smaller rocks and eventually sediment.", 
+                "sentenceId": 438, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 283:1 546:1 559:1 571:1 574:1 592:1 612:1 613:1 627:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2286:1 2631:1 2888:1 2961:1 2980:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.001509482503264148
+                            }, 
+                            {
+                                "A2": 0.9690847820606856
+                            }, 
+                            {
+                                "A3": 0.004081422325148718
+                            }, 
+                            {
+                                "NONE": 0.023917005536628774
+                            }, 
+                            {
+                                "A0": 0.0014073075742728188
+                            }
+                        ], 
+                        "text": "turned", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 11, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 31:1 293:1 543:1 557:1 568:1 578:1 596:1 601:1 602:1 628:1 1483:1 2290:1 2903:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 15, 
+                        "probRoles": [
+                            {
+                                "A1": 0.014648460676465962
+                            }, 
+                            {
+                                "A2": 0.0076553039024365895
+                            }, 
+                            {
+                                "A3": 0.8773505879746084
+                            }, 
+                            {
+                                "NONE": 0.09330021498349354
+                            }, 
+                            {
+                                "A0": 0.007045432462995452
+                            }
+                        ], 
+                        "text": "smaller rocks and eventually sediment", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the process of weathering helps to make soil.", 
+                "sentenceId": 25, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 2:1 257:1 542:1 557:1 565:1 597:1 599:1 624:1 658:1 1705:1 1835:1 2272:1 2476:1 2901:1 3303:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.001146302836333856
+                            }, 
+                            {
+                                "A2": 0.012046255955374306
+                            }, 
+                            {
+                                "A3": 0.9345986081091785
+                            }, 
+                            {
+                                "NONE": 0.04953994529708154
+                            }, 
+                            {
+                                "A0": 0.002668887802031703
+                            }
+                        ], 
+                        "text": "make soil", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "uv radiation is necessary for weathering to occur.", 
+                "sentenceId": 289, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 91:1 361:1 539:1 557:1 595:1 635:1 1402:1 1879:1 1910:1 1932:1 1959:1 1960:1 1961:1 1962:1 1963:1 1964:1 1965:1 1966:1 1967:1 2293:1 2623:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.8782638841281355
+                            }, 
+                            {
+                                "A2": 0.03937757594669304
+                            }, 
+                            {
+                                "A3": 0.005226289574996016
+                            }, 
+                            {
+                                "NONE": 0.0659809158338631
+                            }, 
+                            {
+                                "A0": 0.011151334516312452
+                            }
+                        ], 
+                        "text": "uv radiation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "evolution", 
+        "sentences": [
+            {
+                "text": "students should have the understanding that evolution is the process by which life progresses from one form into another.", 
+                "sentenceId": 115, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 543:1 626:1 1288:1 1936:1 1961:1 1968:1 2023:1 2085:1 2093:1 2186:1 2201:1 2262:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": 0.029319377726920642
+                            }, 
+                            {
+                                "A2": 0.02356880160644978
+                            }, 
+                            {
+                                "A3": 0.06025268993187791
+                            }, 
+                            {
+                                "NONE": 0.8384022195297758
+                            }, 
+                            {
+                                "A0": 0.048456911204975896
+                            }
+                        ], 
+                        "text": "students", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 14, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 274:1 540:1 557:1 559:1 592:1 594:1 627:1 1290:1 2286:1 2888:1 2906:1 2961:1 3456:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0074794987671392985
+                            }, 
+                            {
+                                "A2": 0.8140025337601716
+                            }, 
+                            {
+                                "A3": 0.003583808020005314
+                            }, 
+                            {
+                                "NONE": 0.17114763746765824
+                            }, 
+                            {
+                                "A0": 0.0037865219850253657
+                            }
+                        ], 
+                        "text": "progresses", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 551:1 626:1 1936:1 1961:1 1968:1 2023:1 2085:1 2093:1 2186:1 2201:1 2262:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.017985817309465975
+                            }, 
+                            {
+                                "A2": 0.03232435136419187
+                            }, 
+                            {
+                                "A3": 0.032739304714356
+                            }, 
+                            {
+                                "NONE": 0.892508891754839
+                            }, 
+                            {
+                                "A0": 0.02444163485714707
+                            }
+                        ], 
+                        "text": "should", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 542:1 557:1 560:1 571:1 583:1 593:1 594:1 597:1 599:1 623:1 2261:1 2454:1 2892:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 3, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0009611455578683929
+                            }, 
+                            {
+                                "A2": 0.07152000155001935
+                            }, 
+                            {
+                                "A3": 0.09091056387977292
+                            }, 
+                            {
+                                "NONE": 0.8347591187263035
+                            }, 
+                            {
+                                "A0": 0.001849170286035818
+                            }
+                        ], 
+                        "text": "have", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 491:1 539:1 557:1 558:1 590:1 603:1 626:1 1290:1 1548:1 1573:1 1580:1 1635:1 1697:1 1705:1 1798:1 1813:1 2262:1 2887:1 3183:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "A1": 0.04473944762436884
+                            }, 
+                            {
+                                "A2": 0.028249346000240587
+                            }, 
+                            {
+                                "A3": 0.09363220023464058
+                            }, 
+                            {
+                                "NONE": 0.8126241206610871
+                            }, 
+                            {
+                                "A0": 0.020754885479662866
+                            }
+                        ], 
+                        "text": "the understanding that evolution is the process by which life progresses from one form into another", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 401:1 539:1 572:1 606:1 628:1 1290:1 2269:1 2502:1 2972:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.03614007839214677
+                            }, 
+                            {
+                                "A2": 0.031854349637677755
+                            }, 
+                            {
+                                "A3": 0.05512030328268095
+                            }, 
+                            {
+                                "NONE": 0.7076248229131011
+                            }, 
+                            {
+                                "A0": 0.16926044577439345
+                            }
+                        ], 
+                        "text": "from one form", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }
+                ]
+            }, 
+            {
+                "text": "evolution is the process by which we progress until we emerge into the fullness of our destiny as children of god that all god's children will one day reach his...", 
+                "sentenceId": 363, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 280:1 547:1 559:1 574:1 581:1 592:1 594:1 608:1 627:1 2286:1 2961:1 3402:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.01295079110533114
+                            }, 
+                            {
+                                "A2": 0.8874517561468884
+                            }, 
+                            {
+                                "A3": 0.012309382677010892
+                            }, 
+                            {
+                                "NONE": 0.08219506035692745
+                            }, 
+                            {
+                                "A0": 0.005093009713842086
+                            }
+                        ], 
+                        "text": "progress", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "evolution is the process by which life progresses from one form into another.", 
+                "sentenceId": 326, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 20:1 274:1 540:1 557:1 559:1 592:1 594:1 627:1 2286:1 2888:1 2906:1 2961:1 3456:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.006334698526396442
+                            }, 
+                            {
+                                "A2": 0.9281484951928161
+                            }, 
+                            {
+                                "A3": 0.004309800622346156
+                            }, 
+                            {
+                                "NONE": 0.05773012485378398
+                            }, 
+                            {
+                                "A0": 0.003476880804657342
+                            }
+                        ], 
+                        "text": "progresses", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 31:1 401:1 539:1 572:1 606:1 628:1 2269:1 2502:1 2972:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "A1": 0.02329633176893787
+                            }, 
+                            {
+                                "A2": 0.03353832533026631
+                            }, 
+                            {
+                                "A3": 0.2152251096958741
+                            }, 
+                            {
+                                "NONE": 0.5757164901060003
+                            }, 
+                            {
+                                "A0": 0.1522237430989214
+                            }
+                        ], 
+                        "text": "from one form", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "hibernation", 
+        "sentences": [
+            {
+                "text": "hibernation occurs when an animal needs to conserve energy to get through the food-scare months of winter.", 
+                "sentenceId": 513, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 72:1 516:1 542:1 557:1 565:1 566:1 597:1 599:1 607:1 624:1 857:1 1551:1 1552:1 1715:1 2901:1 2964:1 3441:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.012972451562063392
+                            }, 
+                            {
+                                "A2": 0.28734742748117087
+                            }, 
+                            {
+                                "A3": 0.1864458159197077
+                            }, 
+                            {
+                                "NONE": 0.5082567437072286
+                            }, 
+                            {
+                                "A0": 0.004977561329829301
+                            }
+                        ], 
+                        "text": "to conserve energy to get through the food-scare months of winter", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation is caused by several things.", 
+                "sentenceId": 426, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 18:1 297:1 543:1 562:1 596:1 628:1 673:1 2278:1 2681:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.9000425731711968
+                            }, 
+                            {
+                                "A2": 0.0013551494660688228
+                            }, 
+                            {
+                                "A3": 0.021547861848320048
+                            }, 
+                            {
+                                "NONE": 0.06805411133689623
+                            }, 
+                            {
+                                "A0": 0.009000304177517897
+                            }
+                        ], 
+                        "text": "several things", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "animals put on fat which is necessary for hibernation.", 
+                "sentenceId": 390, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 544:1 559:1 560:1 571:1 592:1 593:1 594:1 623:1 2261:1 2764:1 2892:1 3053:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.017330135052289714
+                            }, 
+                            {
+                                "A2": 0.22076496020807676
+                            }, 
+                            {
+                                "A3": 0.019928771028816235
+                            }, 
+                            {
+                                "NONE": 0.7370765551329583
+                            }, 
+                            {
+                                "A0": 0.004899578577858943
+                            }
+                        ], 
+                        "text": "put", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 539:1 562:1 603:1 628:1 1492:1 1521:1 1733:1 1879:1 1910:1 1932:1 1959:1 1960:1 1961:1 1962:1 1963:1 1964:1 1965:1 1966:1 1967:1 2346:1 3027:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.41067273889117023
+                            }, 
+                            {
+                                "A2": 0.019765575514098417
+                            }, 
+                            {
+                                "A3": 0.034134182927079114
+                            }, 
+                            {
+                                "NONE": 0.5177685587800744
+                            }, 
+                            {
+                                "A0": 0.017658943887577848
+                            }
+                        ], 
+                        "text": "fat", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 544:1 559:1 560:1 571:1 592:1 593:1 594:1 623:1 2261:1 2764:1 2892:1 3053:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.017330135052289714
+                            }, 
+                            {
+                                "A2": 0.22076496020807676
+                            }, 
+                            {
+                                "A3": 0.019928771028816235
+                            }, 
+                            {
+                                "NONE": 0.7370765551329583
+                            }, 
+                            {
+                                "A0": 0.004899578577858943
+                            }
+                        ], 
+                        "text": "animals put on fat which is necessary for hibernation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation is caused by cold, winter conditions.", 
+                "sentenceId": 402, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 400:1 543:1 557:1 595:1 635:1 673:1 2354:1 2694:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.6092428580290092
+                            }, 
+                            {
+                                "A2": 0.018431269445537683
+                            }, 
+                            {
+                                "A3": 0.044373027199608325
+                            }, 
+                            {
+                                "NONE": 0.29521926999056
+                            }, 
+                            {
+                                "A0": 0.03273357533528478
+                            }
+                        ], 
+                        "text": "cold , winter conditions", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of hibernation is to escape the need to burn too much fuel to stay alive during a cold spell when adequate food is not available.", 
+                "sentenceId": 189, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 2:1 257:1 542:1 557:1 565:1 597:1 599:1 624:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2267:1 2874:1 2901:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 27, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0016707660902050441
+                            }, 
+                            {
+                                "A2": 0.047036356530683825
+                            }, 
+                            {
+                                "A3": 0.9122070308064401
+                            }, 
+                            {
+                                "NONE": 0.038804669479800984
+                            }, 
+                            {
+                                "A0": 0.00028117709286997177
+                            }
+                        ], 
+                        "text": "escape the need to burn too much fuel to stay alive during a cold spell when adequate food is not available", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the occurrence of sleep, shallow torpor and hibernation depends on factors such as the environmental temperature, amounts of body fat, extemal.", 
+                "sentenceId": 451, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 10, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 499:1 540:1 557:1 559:1 560:1 570:1 571:1 592:1 593:1 594:1 597:1 623:1 2261:1 2892:1 2915:1 3053:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0032218407515262498
+                            }, 
+                            {
+                                "A2": 0.24012231303773998
+                            }, 
+                            {
+                                "A3": 0.021070198075118066
+                            }, 
+                            {
+                                "NONE": 0.7345889304928688
+                            }, 
+                            {
+                                "A0": 0.0009967176427468972
+                            }
+                        ], 
+                        "text": "depends", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 539:1 627:1 854:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "A1": 0.15951261293720825
+                            }, 
+                            {
+                                "A2": 0.12060504140066347
+                            }, 
+                            {
+                                "A3": 0.04406984420822204
+                            }, 
+                            {
+                                "NONE": 0.5416260076836852
+                            }, 
+                            {
+                                "A0": 0.13418649377022102
+                            }
+                        ], 
+                        "text": "factors such as the environmental temperature , amounts of body fat , extemal", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 491:1 539:1 557:1 558:1 559:1 570:1 590:1 592:1 593:1 604:1 624:1 855:1 2887:1 2890:1 2915:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 9, 
+                        "probRoles": [
+                            {
+                                "A1": 0.06275163173221697
+                            }, 
+                            {
+                                "A2": 0.061285565149163765
+                            }, 
+                            {
+                                "A3": 0.054065915869861744
+                            }, 
+                            {
+                                "NONE": 0.779596062364304
+                            }, 
+                            {
+                                "A0": 0.04230082488445356
+                            }
+                        ], 
+                        "text": "the occurrence of sleep , shallow torpor and hibernation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 15, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 539:1 558:1 562:1 590:1 596:1 628:1 854:1 2314:1 2543:1 2887:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 17, 
+                        "probRoles": [
+                            {
+                                "A1": 0.6708129106903026
+                            }, 
+                            {
+                                "A2": 0.0056591204086077155
+                            }, 
+                            {
+                                "A3": 0.038950969561344244
+                            }, 
+                            {
+                                "NONE": 0.26843312603191555
+                            }, 
+                            {
+                                "A0": 0.016143873307829716
+                            }
+                        ], 
+                        "text": "the environmental temperature", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation is caused by daylight and temperature.", 
+                "sentenceId": 140, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 18:1 272:1 539:1 557:1 568:1 601:1 602:1 628:1 673:1 1492:1 2278:1 2903:1 3500:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.9620830924007419
+                            }, 
+                            {
+                                "A2": 0.008140118283968725
+                            }, 
+                            {
+                                "A3": 0.010952926759451049
+                            }, 
+                            {
+                                "NONE": 0.01021395834125776
+                            }, 
+                            {
+                                "A0": 0.0086099042145806
+                            }
+                        ], 
+                        "text": "daylight and temperature", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "hibernation occurs when the insects are maintained under autumn conditions.", 
+                "sentenceId": 124, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 3, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 27:1 324:1 546:1 559:1 567:1 571:1 574:1 592:1 600:1 612:1 613:1 624:1 857:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2316:1 2468:1 2907:1 2980:1 3005:1 3326:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.02183941647227723
+                            }, 
+                            {
+                                "A2": 0.1305203900263041
+                            }, 
+                            {
+                                "A3": 0.0029194153320417434
+                            }, 
+                            {
+                                "NONE": 0.8435282152317651
+                            }, 
+                            {
+                                "A0": 0.0011925629376117336
+                            }
+                        ], 
+                        "text": "when the insects are maintained under autumn conditions", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 36:1 290:1 539:1 624:1 858:1 2209:1 2242:1 2316:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 1, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0058539550333118855
+                            }, 
+                            {
+                                "A2": 0.47022684491564515
+                            }, 
+                            {
+                                "A3": 0.01196306992054261
+                            }, 
+                            {
+                                "NONE": 0.49508218683113214
+                            }, 
+                            {
+                                "A0": 0.016873943299368258
+                            }
+                        ], 
+                        "text": "hibernation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 2, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 37:1 291:1 540:1 557:1 560:1 579:1 593:1 594:1 608:1 623:1 2261:1 2569:1 2892:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 2, 
+                        "probRoles": [
+                            {
+                                "A1": 0.002040113096255429
+                            }, 
+                            {
+                                "A2": 0.020356015529091418
+                            }, 
+                            {
+                                "A3": 0.015254461582687897
+                            }, 
+                            {
+                                "NONE": 0.9592999742821222
+                            }, 
+                            {
+                                "A0": 0.003049435509843238
+                            }
+                        ], 
+                        "text": "occurs", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A0", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 66:1 394:1 543:1 558:1 590:1 634:1 857:1 1879:1 1910:1 1932:1 1959:1 1960:1 1961:1 1962:1 1963:1 1964:1 1965:1 1966:1 1967:1 2415:1 2715:1 2887:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "A1": 0.12209509993153347
+                            }, 
+                            {
+                                "A2": 0.030078941375835937
+                            }, 
+                            {
+                                "A3": 0.0009101280089406844
+                            }, 
+                            {
+                                "NONE": 0.48001072120256805
+                            }, 
+                            {
+                                "A0": 0.366905109481122
+                            }
+                        ], 
+                        "text": "the insects", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 28:1 543:1 557:1 595:1 628:1 857:1 2694:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 10, 
+                        "probRoles": [
+                            {
+                                "A1": 0.318113789649682
+                            }, 
+                            {
+                                "A2": 0.02518152838009762
+                            }, 
+                            {
+                                "A3": 0.04257937518361342
+                            }, 
+                            {
+                                "NONE": 0.5983801484804354
+                            }, 
+                            {
+                                "A0": 0.015745158306171514
+                            }
+                        ], 
+                        "text": "under autumn conditions", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 27:1 324:1 546:1 559:1 567:1 571:1 574:1 592:1 600:1 612:1 613:1 624:1 857:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2316:1 2468:1 2907:1 2980:1 3005:1 3326:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.02183941647227723
+                            }, 
+                            {
+                                "A2": 0.1305203900263041
+                            }, 
+                            {
+                                "A3": 0.0029194153320417434
+                            }, 
+                            {
+                                "NONE": 0.8435282152317651
+                            }, 
+                            {
+                                "A0": 0.0011925629376117336
+                            }
+                        ], 
+                        "text": "maintained", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 3
+                    }
+                ]
+            }, 
+            {
+                "text": "impaired muscle regeneration in hibernation is caused by inhibition of satellite cell activation and myoblast differentiation.", 
+                "sentenceId": 522, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "A1", 
+                        "annotatedRole": "A1", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 275:1 539:1 559:1 592:1 628:1 673:1 1492:1 2278:1 2653:1 2890:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.9058137951168936
+                            }, 
+                            {
+                                "A2": 0.019410786241178982
+                            }, 
+                            {
+                                "A3": 0.02309637505906269
+                            }, 
+                            {
+                                "NONE": 0.044154314835996314
+                            }, 
+                            {
+                                "A0": 0.0075247287468684036
+                            }
+                        ], 
+                        "text": "inhibition of satellite cell activation and myoblast differentiation", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of hibernation is to conserve energy during a period when sufficient food is scarce.", 
+                "sentenceId": 225, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 2:1 257:1 542:1 557:1 559:1 565:1 592:1 597:1 599:1 624:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2267:1 2901:1 2964:1 3322:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 16, 
+                        "probRoles": [
+                            {
+                                "A1": 0.005151730457996191
+                            }, 
+                            {
+                                "A2": 0.1045001933427072
+                            }, 
+                            {
+                                "A3": 0.8722187620095844
+                            }, 
+                            {
+                                "NONE": 0.018023021972863287
+                            }, 
+                            {
+                                "A0": 0.00010629221684904075
+                            }
+                        ], 
+                        "text": "conserve energy during a period when sufficient food is scarce", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "friction", 
+        "sentences": [
+            {
+                "text": "friction is the force that opposes the motion of an object.", 
+                "sentenceId": 407, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 37:1 317:1 539:1 557:1 558:1 560:1 561:1 590:1 591:1 593:1 594:1 603:1 623:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 1952:1 2261:1 2560:1 2887:1 2891:1 2892:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.005774367601960018
+                            }, 
+                            {
+                                "A2": 0.8874021308021935
+                            }, 
+                            {
+                                "A3": 0.015345109681381048
+                            }, 
+                            {
+                                "NONE": 0.09091206525151745
+                            }, 
+                            {
+                                "A0": 0.0005663266629479649
+                            }
+                        ], 
+                        "text": "force", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "friction is the resistance to motion of one object moving against another.", 
+                "sentenceId": 234, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 37:1 317:1 539:1 557:1 558:1 560:1 561:1 565:1 590:1 591:1 592:1 593:1 594:1 623:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2261:1 2887:1 2891:1 2892:1 2901:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.006022651837975916
+                            }, 
+                            {
+                                "A2": 0.948322699561944
+                            }, 
+                            {
+                                "A3": 0.025430443954533324
+                            }, 
+                            {
+                                "NONE": 0.019979694205583876
+                            }, 
+                            {
+                                "A0": 0.00024451043996290663
+                            }
+                        ], 
+                        "text": "resistance", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "friction is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other.", 
+                "sentenceId": 385, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 4, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 37:1 317:1 539:1 557:1 558:1 560:1 561:1 564:1 590:1 591:1 593:1 594:1 607:1 623:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2244:1 2261:1 2560:1 2887:1 2891:1 2892:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.007526253868664009
+                            }, 
+                            {
+                                "A2": 0.915910110106911
+                            }, 
+                            {
+                                "A3": 0.009409328693428008
+                            }, 
+                            {
+                                "NONE": 0.06682372768904041
+                            }, 
+                            {
+                                "A0": 0.00033057964195661347
+                            }
+                        ], 
+                        "text": "force", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "reproduction", 
+        "sentences": [
+            {
+                "text": "reproduction is the process of creating serial homologues of whole animals, and it shouldn't surprise us that the process also occurs on a smaller scale.", 
+                "sentenceId": 155, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 571:1 597:1 628:1 2268:1 2480:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0024585347199127454
+                            }, 
+                            {
+                                "A2": 0.8222228727481962
+                            }, 
+                            {
+                                "A3": 0.007381139454793001
+                            }, 
+                            {
+                                "NONE": 0.16535800368495232
+                            }, 
+                            {
+                                "A0": 0.0025794493921456802
+                            }
+                        ], 
+                        "text": "creating", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of reproduction is to propagate...", 
+                "sentenceId": 442, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 1, 
+                        "rolePredicted": "NONE", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 13:1 267:1 539:1 558:1 559:1 590:1 592:1 624:1 2267:1 2473:1 2887:1 2890:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 4, 
+                        "probRoles": [
+                            {
+                                "A1": 0.08686013123012598
+                            }, 
+                            {
+                                "A2": 0.03213449884825514
+                            }, 
+                            {
+                                "A3": 0.09835753783349291
+                            }, 
+                            {
+                                "NONE": 0.7588411264614366
+                            }, 
+                            {
+                                "A0": 0.02380670562668942
+                            }
+                        ], 
+                        "text": "the purpose of reproduction", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "A3", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 2:1 257:1 542:1 565:1 599:1 624:1 1491:1 1522:1 1544:1 1571:1 1572:1 1573:1 1574:1 1575:1 1576:1 1577:1 1578:1 1579:1 2267:1 2901:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "A1": 0.00423990120294793
+                            }, 
+                            {
+                                "A2": 0.013753541190280136
+                            }, 
+                            {
+                                "A3": 0.9280535414717593
+                            }, 
+                            {
+                                "NONE": 0.05265765735279482
+                            }, 
+                            {
+                                "A0": 0.001295358782217989
+                            }
+                        ], 
+                        "text": "propagate", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of producing new life.", 
+                "sentenceId": 53, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "A3", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 16:1 286:1 539:1 562:1 596:1 629:1 687:1 688:1 1628:1 1704:1 1706:1 1707:1 1832:1 1833:1 2281:1 3046:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.036183534816867396
+                            }, 
+                            {
+                                "A2": 0.002411108173820087
+                            }, 
+                            {
+                                "A3": 0.7949977390116082
+                            }, 
+                            {
+                                "NONE": 0.016371870368851356
+                            }, 
+                            {
+                                "A0": 0.150035747628853
+                            }
+                        ], 
+                        "text": "new life", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 597:1 628:1 687:1 2268:1 2469:1 3456:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.00220334547806186
+                            }, 
+                            {
+                                "A2": 0.8390782781168489
+                            }, 
+                            {
+                                "A3": 0.0024230696266845874
+                            }, 
+                            {
+                                "NONE": 0.1552597712451302
+                            }, 
+                            {
+                                "A0": 0.001035535533274486
+                            }
+                        ], 
+                        "text": "producing", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "NONE", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 597:1 628:1 687:1 2268:1 2469:1 3456:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "A1": 0.00220334547806186
+                            }, 
+                            {
+                                "A2": 0.8390782781168489
+                            }, 
+                            {
+                                "A3": 0.0024230696266845874
+                            }, 
+                            {
+                                "NONE": 0.1552597712451302
+                            }, 
+                            {
+                                "A0": 0.001035535533274486
+                            }
+                        ], 
+                        "text": "producing new life", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 2
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of making a new organism, as in parents producing offspring.", 
+                "sentenceId": 131, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 597:1 628:1 2268:1 2476:1 2976:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0024311579814079603
+                            }, 
+                            {
+                                "A2": 0.8902904638472044
+                            }, 
+                            {
+                                "A3": 0.003277016573478173
+                            }, 
+                            {
+                                "NONE": 0.10277678662570162
+                            }, 
+                            {
+                                "A0": 0.0012245749722076384
+                            }
+                        ], 
+                        "text": "making", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of generating offspring.", 
+                "sentenceId": 497, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 597:1 628:1 2268:1 2466:1 3093:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.002536740569400554
+                            }, 
+                            {
+                                "A2": 0.8474232593839123
+                            }, 
+                            {
+                                "A3": 0.0038454114194902012
+                            }, 
+                            {
+                                "NONE": 0.1449305742982253
+                            }, 
+                            {
+                                "A0": 0.0012640143289716953
+                            }
+                        ], 
+                        "text": "generating", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "reproduction is the process of making offspring.", 
+                "sentenceId": 395, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "A2", 
+                        "annotatedRole": "A2", 
+                        "featVector": [
+                            {
+                                "Multi": "-10 3:1 258:1 541:1 557:1 597:1 628:1 2268:1 2476:1 3093:1 3530:1"
+                            }
+                        ], 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "A1": 0.0024373195944846155
+                            }, 
+                            {
+                                "A2": 0.9110445980221011
+                            }, 
+                            {
+                                "A3": 0.0032895374989157723
+                            }, 
+                            {
+                                "NONE": 0.08199028974260292
+                            }, 
+                            {
+                                "A0": 0.0012382551418953622
+                            }
+                        ], 
+                        "text": "making", 
+                        "annotatedLabel": "", 
+                        "pattern": "", 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
