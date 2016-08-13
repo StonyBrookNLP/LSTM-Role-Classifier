@@ -68,8 +68,6 @@ def main():
     all_processes = f1_processes + f2_processes + f3_processes + f4_processes + f5_processes
 
     for f_num, f_list in enumerate([f1_processes, f2_processes, f3_processes, f4_processes, f5_processes]):
-        pass
-
         # fold f_num as test and rest of the folds as train
         test_processes = f_list
         train_processes = list(set(all_processes) - set(f_list))
